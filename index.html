@@ -21,6 +21,7 @@
 			display: table;
 			margin: auto;
 		}
+
 		body { 
 			display: table-cell;
     		vertical-align: middle;
@@ -37,17 +38,22 @@
 			line-height: 18px;
 			overflow: hidden;
 		}
+
 		:link { color: #ffbe54; }
 		:hover { color: #fff; }
+
 		p {
 			margin: 5px;
 		}
+
 		h2 {
 			margin: 15px;
 		}
+
 		h3 {
 			margin: 5px;
 		}
+
 		a {
 			color: #ffbe54;
             text-decoration: none;
@@ -67,6 +73,7 @@
 			-webkit-transition: opacity .4s ease-in-out; /* Safari and Chrome */
 			-ms-transition: opacity .4s ease-in-out; /* IE 9 */
 		}
+
 		.navigation {
 			position: absolute;
 			width: 32px;
@@ -78,18 +85,22 @@
 			-webkit-transition: opacity .4s ease-in-out; /* Safari and Chrome */
 			-ms-transition: opacity .4s ease-in-out; /* IE 9 */
 		}
+
 		.navigation ul {
 			list-style-type: none;
 			margin: 0;
 			padding: 0;
 			overflow: hidden;
 		}
+
 		.navigation ul li {
 			background-color: #242424;
 			width: 32px;
 			height: 32px;
 			float: left;
+
 		}
+
 		.navigation ul li a {
 			display: block;
 			font-size: 18px;
@@ -103,16 +114,19 @@
 			-webkit-transition: all .25s ease-in; /* Safari and Chrome */
 			-ms-transition: all .25s ease-in; /* IE 9 */
 		}
+
 		.navigation ul li a:hover {
 			color: #fff;
 			text-shadow: #000 0px 0px 8px;
 			background-color: #4a4a4a;
 		}
+
 		.active {
 			color: #fff !important;
 			text-shadow: #000 0px 0px 8px !important;
 			background-color: #4a4a4a !important;
 		}
+
 		.logo {
 		position: relative;
 		top: 0;
@@ -128,10 +142,12 @@
 		-webkit-transition: transform .2s ease-in-out; /* Safari and Chrome */
 		-ms-transition: transform .2s ease-in-out; /* IE 9 */
 		}
+
 		.logo:hover {
 		transform: scale(0.98);
 		background: transparent url(images/Logo_Deca.png) no-repeat 0 -142px;
 		}
+
 		.logo:after {
 		content: "";
 		position: absolute;
@@ -144,9 +160,11 @@
 		-webkit-transition: opacity .2s ease-in-out; /* Safari and Chrome */
 		-ms-transition: opacity .2s ease-in-out; /* IE 9 */
 		}
+
 		.logo:hover:after {
 		opacity: 1;
 		}
+
 		.button {
 		text-transform: uppercase; 
 		background: #e23b20; 
@@ -159,11 +177,14 @@
 		-webkit-transition: all .2s ease-in-out; /* Safari and Chrome */
 		-ms-transition: all .2s ease-in-out; /* IE 9 */
 		}
+
 		.button:hover {
 			background: #fff; 
 		color:#333; 
 		transform: scale(0.9) !important;
 		}
+
+
 		.social {
 		padding: 3px;
 		transform: scale(1);
@@ -172,12 +193,15 @@
 		-webkit-transition: transform .2s ease-in-out; /* Safari and Chrome */
 		-ms-transition: transform .2s ease-in-out; /* IE 9 */
 		}
+
 		.social:hover {
 		transform: scale(0.9) !important;
 		}
+
 		.footer {
 		margin-top: 15px;
 		}
+
 		.getFlash {
 		display: table-cell;
 		width: 800px;
@@ -199,6 +223,7 @@
 		margin: 60px;
 		vertical-align: middle;
 		}
+
 		#gameplay {
 			display: none;
 		}
@@ -212,13 +237,16 @@
 			border: 0; 
 			padding: 0; 
 			}
+
 			body { 
 			-webkit-text-size-adjust: none; 
 			}
+
 			.media {
 				visibility: hidden;
 				opacity: 0;
 			}
+
 			.navigation {
 				visibility: hidden;
 				opacity: 0;
@@ -254,10 +282,13 @@
 	<script language="JavaScript" type="text/javascript">
 		//<!--
 		//rotmg.Marketing.track("landing");
+
 		// Version check for the Flash Player that has the ability to start Player Product Install (6.0r65)
 		var hasProductInstall = DetectFlashVer(6, 0, 65);
+
 		// Version check based upon the values defined in globals
 		var hasRequestedVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
+
 		if ( hasProductInstall && !hasRequestedVersion ) {
 			// DO NOT MODIFY THE FOLLOWING FOUR LINES
 			// Location visited after installation is complete if installation is required
@@ -265,6 +296,7 @@
 			var MMredirectURL = window.location;
 			// document.title = document.title.slice(0, 47) + " - Flash Player Installation";
 			var MMdoctitle = document.title;
+
 			AC_FL_RunContent(
 					"src", "playerProductInstall",
 					"FlashVars", "MMredirectURL="+MMredirectURL+'&MMplayerType='+MMPlayerType+'&MMdoctitle='+MMdoctitle+""+'&version_timestamp=1561028013',
