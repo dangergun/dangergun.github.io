@@ -1,0 +1,23 @@
+Grasp of the Gods [0x7185]
+"An endless quiver handed down by the gods to the best archers in the realm to thank them for their service.."
+Sacred tier quiver.
+
+Does 200-400 damage.
+Range: 5.0 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+Shots boomerang.
+MP Cost: 120.
+Cooldown: 4.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Damaging for 2.5 seconds. Does not use wis mod.
+
+While equipped:
++5 Attack.
+-5 Speed.
+
+Treasure Hunter: On loot roll, 8% chance to apply a 100% drop chance increase. Stackable.
+
+Does not drop from enemies.

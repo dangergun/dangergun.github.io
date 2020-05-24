@@ -1,0 +1,17 @@
+Rally of the Dreadnought [0x5123]
+"A sword made of the hard and sharp plates of the Dreadnought himself."
+Untiered sword.
+
+Does 115-160 damage.
+150% rate of fire.
+Shoots 2 projectiles at a 0.0 degree angle.
+Range: 3.6 tiles.
+Fame Bonus: 6%.
+
+While equipped:
++10 Might.
++10 Vitality.
++100 Maximum HP.
+
+Drops from:
+The Dreadnought: 5.0% (1/20) chance.

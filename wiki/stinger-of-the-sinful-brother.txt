@@ -1,0 +1,25 @@
+Stinger of the Sinful Brother [0x548d]
+"It holds the power of a hundred soldiers stole from their mom and raised to be warriors."
+Untiered scepter.
+
+MP Cost: 85.
+Cooldown: 1.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Lightning: 0 damage to 4 targets. Does not use wis mod.
+Lightning effect: Slowed for 1 second.
+Lightning: 1025 damage to 4 targets. Uses wis mod.
+Lightning effect: Bleeding for 5 seconds.
+
+While equipped:
++20 Wisdom.
++5 Vitality.
++85 Maximum MP.
+-5 Defense.
+
++1 Mana Leech.
+
+Drops from:
+Red Son of Arachna Giant Egg Sac: 1.0% (1/100) chance.
+Son of Arachna: 0.5% (1/200) chance.

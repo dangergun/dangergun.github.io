@@ -1,0 +1,18 @@
+Spear of the Unforgiven [0x47c1]
+"A dark spear of evil; pierces through the souls of it's enemies."
+Fabled tier quiver.
+
+Does 350-425 damage.
+Range: 15.0 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+Shots are wavy.
+MP Cost: 100.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+While equipped:
++14 Speed.
++50 Maximum MP.
+
+Does not drop from enemies.

@@ -1,0 +1,16 @@
+Bloodseeker's Redemption [0x7081]
+"Forever thirsty and wanting to feed on those that need redemption from their blasphemous actions."
+Sacred tier lance.
+
+Does 110-170 damage.
+100% rate of fire.
+Shoots 2 projectiles at a 8.0 degree angle.
+Range: 5.8 tiles.
+Fame Bonus: 8%.
+
+While equipped:
++5 Fortune.
+
+Treasure Hunter: On loot roll, 8% chance to apply a 100% drop chance increase. Stackable.
+
+Does not drop from enemies.

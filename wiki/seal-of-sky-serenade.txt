@@ -1,0 +1,20 @@
+Seal of Sky Serenade [0x674d]
+"The weather won't be too good today."
+Untiered seal.
+
+MP Cost: 125.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Party effect: Armored for 2 seconds within 5 tiles. Uses wis mod.
+Party effect: Within 4 tiles, +120 Maximum HP for 6 seconds. Uses wis mod.
+
+While equipped:
++10 Attack.
++10 Dexterity.
++10 Protection.
+
+Drops from:
+Colothiois the Exalted: 5.0% (1/20) chance.
+Zeus: 2.0% (1/50) chance.

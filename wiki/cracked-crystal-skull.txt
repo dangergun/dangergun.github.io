@@ -1,0 +1,13 @@
+Cracked Crystal Skull [0xc16]
+"{equip.A_relic_uncovered_from_the_depths_of_the_jungle._It_exudes_}"
+Untiered skull.
+
+MP Cost: 120.
+Cooldown: 0.5 seconds.
+Fame Bonus: 2%.
+
+When used:
+Steals 80 HP within 4.25 tiles. Centered around the player's cursor.
+
+Drops from:
+Mixcoatl the Masked God: 10.0% (1/10) chance.

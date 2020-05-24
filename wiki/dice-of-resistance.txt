@@ -1,0 +1,20 @@
+Dice of Resistance [0x7184]
+"A gold forged dice used to gamble away morale during the dark ages for Aldridge, a memorabilia not to be lost."
+Sacred tier dice.
+
+MP Cost: 125.
+Cooldown: 4.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+Grants Berserk, Armored, or Stunned for 7 seconds.
+On self: Invulnerable for 1.5 seconds. Does not use wis mod.
+
+While equipped:
++20 Might.
++50 Luck.
++80 Maximum HP.
+
+Critical Focus: On enemy hit, 7% chance to increase might by 10% of total luck. Stackable.
+
+Does not drop from enemies.

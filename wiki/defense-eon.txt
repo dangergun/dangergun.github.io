@@ -1,0 +1,10 @@
+Defense Eon [0x45a6]
+"This relic can be shattered. Once shattered it causes the mortal to have the fortitude of the gods."
+Untiered consumable.
+
+When used:
+Permanently increases Defense by 150.
+
+Drops from:
+Scorching Wrath Real: 2.0% (1/50) chance.
+Ultra Scorching Wrath Real: 3.0% (1/33) chance.

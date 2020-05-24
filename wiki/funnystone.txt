@@ -1,0 +1,13 @@
+Funnystone [0x47a7]
+"Jeffery wants his stone back."
+Untiered accessory.
+
+While equipped:
++200 Maximum MP.
++5 Wisdom.
++8 Dexterity.
+-2 Attack.
+-2 Speed.
+
+Drops from:
+Puppet Loot Chest: 2.0% (1/50) chance.

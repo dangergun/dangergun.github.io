@@ -1,0 +1,20 @@
+Honeycomb Dagger [0x7043]
+"A sweet scent of honey rises from the blade as its sharp tip pierces the skin..."
+Sacred tier dagger.
+
+Does 80-180 damage.
+145% rate of fire.
+Shoots 2 projectiles at a 0.0 degree angle.
+Range: 5.0 tiles.
+Shots have an amplitude of 0.58 and a frequency of 1.
+Shots ignore defense.
+Fame Bonus: 8%.
+
+While equipped:
++20 Might.
++3 Fortune.
++90 Maximum HP.
+
+Treasure Hunter: On loot roll, 8% chance to apply a 100% drop chance increase. Stackable.
+
+Does not drop from enemies.

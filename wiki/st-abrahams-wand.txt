@@ -1,0 +1,17 @@
+St. Abraham's Wand [0xc1d]
+"{equip.A_wand_made_from_a_brilliant_white_cross_designed_to_ward_o}"
+Untiered wand.
+
+Does 90-110 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 10.01 tiles.
+Fame Bonus: 3%.
+
+While equipped:
++4 Vitality.
++4 Wisdom.
+
+Drops from:
+Coffin: 1.0% (1/100) chance.
+Lord Ruthven: 5.0% (1/20) chance.

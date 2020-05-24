@@ -1,0 +1,10 @@
+Life Eon [0x45a8]
+"This relic can be shattered. Once shattered it causes the mortal to have the endurance of the gods."
+Untiered consumable.
+
+When used:
+Permanently increases Maximum HP by 999.
+
+Drops from:
+True Somnus, the Dream Entity: 1.0% (1/100) chance.
+Yazanahar: 10.0% (1/10) chance.

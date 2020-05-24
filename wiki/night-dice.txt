@@ -1,0 +1,18 @@
+Night Dice [0x5831]
+"A dice that embraces the power of the night."
+Untiered dice.
+
+MP Cost: 75.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Grants Sick or Bravery for 5 seconds.
+
+While equipped:
++40 Luck.
++40 Maximum HP.
++40 Might.
+
+Drops from:
+UNP The Dark Knight: 0.5% (1/200) chance.

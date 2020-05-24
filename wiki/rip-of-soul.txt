@@ -1,0 +1,20 @@
+Rip of Soul [0x43a7]
+"First is thirst..and now your essence belongs to me."
+Legendary tier skull.
+
+MP Cost: 100.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+Steals 800 HP within 1.0 tile. Centered around the player's cursor.
+
+While equipped:
++20 Might.
++5 Dexterity.
++50 Luck.
+-6 Wisdom.
+
++2 Mana Leech.
+
+Does not drop from enemies.

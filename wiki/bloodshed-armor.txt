@@ -1,0 +1,19 @@
+Bloodshed Armor [0x7131]
+"An armor once drenched in a bloodbath of biblical proportion, the stains of the fallen souls are etched into it for eternity."
+Sacred tier heavy armor.
+
+Fame Bonus: 8%.
+
+While equipped:
++30 Vitality.
++375 Maximum HP.
++40 Defense.
++75 Maximum MP.
+-14 Wisdom.
+-5 Attack.
+-7 Speed.
+-8 Dexterity.
+
+Enhanced Growth: Health regeneration is increased by 10% and maximum health is increased by 5%. Stackable.
+
+Does not drop from enemies.

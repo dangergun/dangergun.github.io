@@ -1,0 +1,16 @@
+Bow of Revolting Wrath [0x7417]
+"A bow holding the souls of an entire village, waiting to release their immense wrath."
+Sacred tier bow.
+
+Does 280-420 damage.
+168% rate of fire.
+Shoots 1 projectile.
+Range: 5.39 tiles.
+Shots have an amplitude of 1.05 and a frequency of 1.
+Shots hit multiple targets.
+Shots boomerang.
+Fame Bonus: 8%.
+Adrenaline Rush: On hit, 8% chance to ignore incoming damage. Stackable.
+
+Drops from:
+AB The Dark Sorcerer: 0.2% (1/500) chance.

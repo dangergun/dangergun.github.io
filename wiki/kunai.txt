@@ -1,0 +1,16 @@
+Kunai [0x61cd]
+"Throwing this not only takes skill and concentration but also the victims life."
+Legendary tier katana.
+
+Does 305-320 damage.
+90% rate of fire.
+Shoots 1 projectile.
+Range: 6.79 tiles.
+Shots ignore defense.
+Fame Bonus: 8%.
+
+While equipped:
++12 Speed.
++65 Luck.
+
+Does not drop from enemies.

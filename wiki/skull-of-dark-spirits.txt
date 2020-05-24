@@ -1,0 +1,20 @@
+Skull of Dark Spirits [0x585b]
+"Said to suck the life out of foes in order to provide the user with everlasting life."
+Legendary tier skull.
+
+MP Cost: 125.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+Enemy Effect: Curse for 2 seconds within 3 tiles. Centered around the player's cursor.
+Party effect: Healing for 5 seconds within 4 tiles. Does not use wis mod.
+Steals 500 HP within 6.5 tiles. Centered around the player's cursor.
+
+While equipped:
++40 Luck.
++40 Might.
++8 Attack.
++8 Dexterity.
+
+Does not drop from enemies.

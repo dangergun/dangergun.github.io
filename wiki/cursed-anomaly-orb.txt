@@ -1,0 +1,25 @@
+Cursed Anomaly Orb [0x7093]
+"An amethyst orb set upon its base, the twinkling light appears to come from within."
+Sacred tier orb.
+
+MP Cost: 120.
+Cooldown: 5.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+Enemy Effect: Curse for 8 seconds within 6 tiles. Centered around the player's cursor.
+Enemy effect: Within 3 tiles of the player's cursor, Stasis for 5 seconds.
+On self: Berserk for 2.5 seconds. Uses wis mod.
+On self: Damaging for 2.5 seconds. Uses wis mod.
+On self: Sick for 2 seconds. Uses wis mod.
+On self: Slowed for 3 seconds. Uses wis mod.
+
+While equipped:
+-60 Maximum HP.
+-60 Maximum MP.
+
++1 Mana Leech.
+
+Collector's Edition: All stats are increased by 0.65% per sacred item in inventory. Stackable.
+
+Does not drop from enemies.

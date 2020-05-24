@@ -1,0 +1,25 @@
+Purity Charm [0x7194]
+"A charm with the ability to summon a blood alter at will, a blood jewel protecting it."
+Sacred tier charm.
+
+MP Cost: 110.
+Cooldown: 6.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+Spawns a defensive Torii.
+Within 5 tiles: Damaging for 3 seconds.
+Disappears after 5 seconds.
+Spawns an offensive Torii.
+Within 4 tiles: ArmorBroken for 4 seconds.
+Disappears after 4 seconds.
+
+While equipped:
++5 Attack.
++5% Defense.
+-5 Speed.
+-60 Maximum MP.
+
+Runic Offense: On hit, 8% chance to trigger an AOE damage for 1.5x of taken damage with a 4 tile radius. Stackable.
+
+Does not drop from enemies.

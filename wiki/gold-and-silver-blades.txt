@@ -1,0 +1,19 @@
+Gold and Silver Blades [0x7045]
+"A simplistic set of blades with no other duty than to protect and serve their Kingdom."
+Sacred tier blades.
+
+Does 200-400 damage.
+140% rate of fire.
+Shoots 1 projectile.
+Range: 4.99 tiles.
+Shots have an amplitude of 0.1 and a frequency of 0.
+Fame Bonus: 8%.
+
+While equipped:
++30 Luck.
++5 Speed.
++50 Might.
+
+Critical Focus: On enemy hit, 7% chance to increase might by 10% of total luck. Stackable.
+
+Does not drop from enemies.

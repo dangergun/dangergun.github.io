@@ -1,0 +1,12 @@
+Sword of Orange Fever [0x43ab]
+"It's like I've got a cold..but I just can't stop coughing. Please help."
+Untiered sword.
+
+Does 220-275 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 3.5 tiles.
+Fame Bonus: 4%.
+
+Drops from:
+Larry Gigsman, the Superhuman: 10.0% (1/10) chance.

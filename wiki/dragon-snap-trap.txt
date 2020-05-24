@@ -1,0 +1,20 @@
+Dragon-Snap Trap [0x7187]
+"A trap of a dragon's scales where each one contains the viral essence of a poison left incurable since it's arrival."
+Sacred tier trap.
+
+MP Cost: 145.
+Cooldown: 2.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+Trap: 9000 damage within 8 tiles.
+Throw time: 1 second.
+
+While equipped:
+-130 Maximum MP.
+-5 Attack.
+-5 Dexterity.
+
+Open Mind: Mana regeneration is increased by 10% and maximum mana is increased by 5%. Stackable.
+
+Does not drop from enemies.

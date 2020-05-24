@@ -1,0 +1,8 @@
+Spirit of the Past [0x7200]
+"A Spirit so powerful it decomposes the structure of a sacred item back to nothing but the rusty remains it once was."
+Untiered consumable.
+
+Fusing this item brings back sacred items to their original form.
+
+Drops from:
+TF The Fallen: 0.0333% (1/3003) chance.

@@ -1,0 +1,16 @@
+Amulet of the Dark Knight [0x1775]
+"Once worn it can't be contained. Instead the user will be consumed and be controlled by the dark evil that is held within."
+Untiered accessory.
+
+Fame Bonus: 6%.
+
+While equipped:
++1 Defense.
++1 Wisdom.
++100 Maximum HP.
++8 Attack.
+
+Wearing the whole set will reward you with: +200 HP, +20 Vit, +10 Atk
+
+Drops from:
+UNP The Dark Knight: 1.0% (1/100) chance.

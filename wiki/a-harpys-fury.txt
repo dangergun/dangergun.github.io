@@ -1,0 +1,20 @@
+A Harpy's Fury [0x7044]
+"Crafted from the harpies feathers, found only in the aether realm, granting it their power..."
+Sacred tier blades.
+
+Does 140-155 damage.
+100% rate of fire.
+Shoots 4 projectiles at a 6.0 degree angle.
+Range: 5.3 tiles.
+Shots have an amplitude of 0.1 and a frequency of 2.
+Shots hit multiple targets.
+Fame Bonus: 8%.
+
+While equipped:
++8 Speed.
+-4 Defense.
+-90 Maximum HP.
+
+Treasure Hunter: On loot roll, 8% chance to apply a 100% drop chance increase. Stackable.
+
+Does not drop from enemies.

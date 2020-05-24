@@ -1,0 +1,14 @@
+Purple Gumball [0xc64]
+"One of the last remaining Gumballs, Must cost a bit of money?"
+Untiered consumable.
+This item is soulbound.
+
+When used:
+Grants the player 100 gold.
+
+Can be used to obtain 100 gold.
+{equip.Treasure}: 2 / 5
+
+Drops from:
+Candy Gnome: 50.0% chance.
+Gumball Machine: 10.0% (1/10) chance.

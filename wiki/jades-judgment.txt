@@ -1,0 +1,13 @@
+Jade's Judgment [0x56b9]
+"A gigantic bracelet worn by Jade. Wearing this gives you comprehension to unknown energies. Thanks to: Png"
+Legendary tier accessory.
+
+Fame Bonus: 8%.
+
+While equipped:
++15 Dexterity.
++15 Speed.
++300 Maximum MP.
+
+Drops from:
+Jade Statue: 0.1% (1/1000) chance.

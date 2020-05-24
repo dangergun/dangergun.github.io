@@ -1,0 +1,21 @@
+Tablet of the King's Avatar [0xb41]
+"{equip.Piercing._Thought_to_have_been_lost_to_the_ages,_the_wisdom}"
+Untiered spell.
+
+Does 520-560 damage.
+Range: 3.0 tiles.
+Shots hit multiple targets.
+Shots boomerang.
+MP Cost: 120.
+Cooldown: 0.5 seconds.
+Fame Bonus: 5%.
+
+When used:
+Shoots 12 shots in a circle around the cursor.
+
+While equipped:
++4 Wisdom.
++40 Maximum MP.
+
+Drops from:
+shtrs Defense System: 12.0% (1/8) chance.

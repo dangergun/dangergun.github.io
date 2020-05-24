@@ -1,0 +1,23 @@
+Swiss Army Knife [0x47dc]
+"You can now cut the cheese!"
+Untiered dagger.
+
+Does 125-200 damage.
+85% rate of fire.
+Shoots 2 projectiles at a 0.0 degree angle.
+Range: 5.6 tiles.
+Fame Bonus: 6%.
+
+While equipped:
++1 Attack.
++1 Defense.
++1 Dexterity.
++1 Protection.
++1 Speed.
++1 Vitality.
++1 Wisdom.
++30 Maximum HP.
++30 Maximum MP.
+
+Drops from:
+The Cheesehead: 2.0% (1/50) chance.

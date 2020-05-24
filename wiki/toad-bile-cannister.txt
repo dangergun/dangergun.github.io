@@ -1,0 +1,20 @@
+Toad Bile Cannister [0x243]
+"If the old men of the swamp are to be believed, this small jar of toad bile promotes good health."
+Untiered poison.
+
+MP Cost: 90.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Poison Grenade:
+After 1 second, 100 impact damage + 500 damage over 5 seconds. Uses wis mod.
+Unused Activated Effect: HealingGrenade.
+
+While equipped:
++5 Wisdom.
+
+Heals players on impact.
+
+Drops from:
+Murderous Megamoth: 2.0% (1/50) chance.

@@ -1,0 +1,20 @@
+Marble Seal [0x5477]
+"A seal made from the Marble Colossus' head. The power of a pure and mighty paladin still remains within."
+Legendary tier seal.
+
+MP Cost: 95.
+Cooldown: 4.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+Party effect: Armored for 4 seconds within 3 tiles. Does not use wis mod.
+Party effect: Bravery for 3 seconds within 3 tiles. Does not use wis mod.
+Party effect: Healing for 3 seconds within 3 tiles. Does not use wis mod.
+
+While equipped:
++10 Defense.
+
+Marbelize: You have a chance to activate Marbelize every few seconds, which increases HP by 150, ATK and DEF by 25 (Stackable). 
+
+Drops from:
+LH Marble Colossus: 0.2% (1/500) chance.

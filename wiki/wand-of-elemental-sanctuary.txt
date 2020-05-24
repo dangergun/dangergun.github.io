@@ -1,0 +1,13 @@
+Wand of Elemental Sanctuary [0x1461]
+"A wand that holds all of the power from the elemental ruins and can be used to emit these powers and destroy evil."
+Untiered wand.
+
+Does 100-158 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 15.6 tiles.
+Fame Bonus: 6%.
+
+Drops from:
+Urios Test Chest: 4.0% (1/25) chance.
+Urios, God of Elements: 5.0% (1/20) chance.

@@ -1,0 +1,15 @@
+Plate of the Beast [0x56c4]
+"Stolen from the mightest demon, it provides the user with boundless vigour.."
+Legendary tier heavy armor.
+
+Fame Bonus: 8%.
+
+While equipped:
++120 Maximum MP.
++20 Wisdom.
++220 Maximum HP.
++32 Defense.
+
+Stoneheart: While being above 50% of your health you can't be armor broken.
+
+Does not drop from enemies.

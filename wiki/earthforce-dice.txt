@@ -1,0 +1,23 @@
+Earthforce Dice [0x64d3]
+"A dice infused with the power of the earth itself."
+Untiered dice.
+
+MP Cost: 120.
+Cooldown: 6.0 seconds.
+Fame Bonus: 5%.
+
+When used:
+Grants Sick or Bravery for 5 seconds.
+On self: Damaging for 4.5 seconds. Does not use wis mod.
+
+While equipped:
++10 Luck.
++5 Might.
++6 Attack.
++6 Defense.
++6 Dexterity.
+-10 Vitality.
+-15 Restoration.
+
+Drops from:
+Ogla, the Giant God: 2.0% (1/50) chance.

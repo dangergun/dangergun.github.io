@@ -1,0 +1,19 @@
+Wand of Parallel Distortion [0x5876]
+"This wand will make you question the current dimension you're in, it shows you a new meaning."
+Untiered wand.
+
+Does 200-220 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 7.0 tiles.
+Shots have an amplitude of 0.8 and a frequency of 1.
+Shots hit multiple targets.
+Shots ignore defense.
+Fame Bonus: 5%.
+
+While equipped:
++5 Wisdom.
++7 Dexterity.
+
+Drops from:
+UNP Servant of the Dark Knight: 1.0% (1/100) chance.

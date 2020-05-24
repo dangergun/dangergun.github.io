@@ -1,0 +1,15 @@
+God Blood Robes [0x53ab]
+"Ancient robes that have been drowned in the blood of holy gods."
+Untiered robe.
+
+Fame Bonus: 6%.
+
+While equipped:
++14 Defense.
++160 Maximum HP.
++20 Maximum MP.
++8 Attack.
++8 Vitality.
+
+Drops from:
+Zaragon, the Blood Mage: 1.0% (1/100) chance.

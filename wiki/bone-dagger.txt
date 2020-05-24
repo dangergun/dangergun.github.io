@@ -1,0 +1,15 @@
+Bone Dagger [0xc22]
+"{equip.A_dagger_made_of_razor-sharp_bone.}"
+Untiered dagger.
+
+Does 70-130 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 4.48 tiles.
+Shots hit multiple targets.
+Fame Bonus: 2%.
+
+Drops from:
+Coffin: 8.0% (1/12) chance.
+Lord Ruthven: 15.0% (1/6) chance.
+Nosferatu: 1.0% (1/100) chance.

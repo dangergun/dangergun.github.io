@@ -1,0 +1,17 @@
+Quiver of the Chosen [0x5614]
+"A quiver made for the chosen archer to battle the evils that lie in the Ancient Depths."
+Untiered quiver.
+
+Does 250-550 damage.
+Range: 15.0 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+MP Cost: 80.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+While equipped:
++12 Dexterity.
+
+Drops from:
+Xanarich, the Chosen One: 2.0% (1/50) chance.

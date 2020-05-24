@@ -1,0 +1,16 @@
+Unlucky Leprechaun's Coat [0x213]
+" I caught him, but he slipped out of his clothes, unfortunately revealing his bare bottom."
+Untiered heavy armor.
+
+Fame Bonus: 4%.
+
+While equipped:
++2 Fortune.
++21 Defense.
++4 Dexterity.
++4 Speed.
+
+Drops from:
+Lucky Djinn: 2.0% (1/50) chance.
+Lucky Ent God: 2.0% (1/50) chance.
+Puppet Loot Chest: 2.0% (1/50) chance.

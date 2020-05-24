@@ -1,0 +1,13 @@
+Sinburn Hide [0x49e1]
+"A hide made of magma rock and the forged by the will of Hades."
+Untiered leather armor.
+
+Fame Bonus: 6%.
+
+While equipped:
++100 Maximum HP.
++12 Attack.
++20 Defense.
+
+Drops from:
+Hades: 2.0% (1/50) chance.

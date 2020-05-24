@@ -1,0 +1,20 @@
+Bloodwell [0x6217]
+"A siphon that seems to fill your life essence to maximum heights."
+Fabled tier siphon.
+
+MP Cost: 20.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Siphon Radius: 3 tiles.
+Base Damage: 650.
+Mana Recovery: 6 seconds.
+While ability key is held, drains 50 hp/second.
+When ability key is released, damages enemies based on health drained, current mana, wisdom stat, and this item's base damage.
+
+While equipped:
++1000 Maximum HP.
+-25 Attack.
+
+Does not drop from enemies.

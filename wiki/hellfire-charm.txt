@@ -1,0 +1,20 @@
+Hellfire Charm [0x7193]
+"A charm said to have the ability to open the gateway to hell… why would you want this in your possession?"
+Sacred tier charm.
+
+MP Cost: 90.
+Cooldown: 5.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Berserk for 3 seconds. Does not use wis mod.
+Spawns an offensive Torii.
+Within 3 tiles: Weak for 3 seconds.
+Disappears after 3 seconds.
+
+While equipped:
++10 Dexterity.
+
+Collector's Edition: All stats are increased by 0.65% per sacred item in inventory. Stackable.
+
+Does not drop from enemies.

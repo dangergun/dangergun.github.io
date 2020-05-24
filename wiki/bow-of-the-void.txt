@@ -1,0 +1,14 @@
+Bow of the Void [0x5466]
+"Every shot that hits a target frees the soul of a forgotten hero. Every shot that misses is trapped for eternity."
+Legendary tier bow.
+
+Does 325-375 damage.
+110% rate of fire.
+Shoots 1 projectile.
+Range: 5.7 tiles.
+Shots have an amplitude of 0.35 and a frequency of 0.
+Shots hit multiple targets.
+Fame Bonus: 8%.
+
+Drops from:
+LH Void Entity: 0.5% (1/200) chance.

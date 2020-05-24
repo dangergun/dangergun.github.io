@@ -1,0 +1,16 @@
+Verdant Spear [0x7870]
+"As you swing this spear, a nice warm breeze follows through blowing away your enemies."
+Untiered sword.
+
+Does 240-260 damage.
+90% rate of fire.
+Shoots 1 projectile.
+Range: 5.0 tiles.
+Fame Bonus: 6%.
+
+While equipped:
++3 Attack.
+-3 Speed.
+
+Drops from:
+Vangor, the Ancient: 1.0% (1/100) chance.

@@ -1,0 +1,20 @@
+Tome of Purification [0xc09]
+"{equip.An_ancient_tome_cloaked_in_white_leather,_created_to_aid_in}"
+Untiered tome.
+
+MP Cost: 120.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Heals 200 HP within 6 tiles. Uses wis mod.
+Removes negative conditions from players within 6 tiles.
+Within 6 tiles: if a player has the effect Hexed, removes Speedy from them.
+
+While equipped:
++7 Vitality.
++7 Wisdom.
+
+Drops from:
+Coffin: 0.1% (1/1000) chance.
+Lord Ruthven: 1.3% (1/76) chance.

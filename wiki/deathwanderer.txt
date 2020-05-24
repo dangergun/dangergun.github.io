@@ -1,0 +1,16 @@
+Deathwanderer [0x1470]
+"The bow that were used by ghostly apparitions from the dark underworld."
+Untiered bow.
+
+Does 220-300 damage.
+80% rate of fire.
+Shoots 1 projectile.
+Range: 6.6 tiles.
+Fame Bonus: 8%.
+
+While equipped:
++100 Maximum HP.
++100 Maximum MP.
+
+Drops from:
+Actual Ghost King: 1.0% (1/100) chance.

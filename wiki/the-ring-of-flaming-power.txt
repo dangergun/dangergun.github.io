@@ -1,0 +1,15 @@
+The Ring of Flaming Power [0x242]
+"A luxurious ring made with a magnificent stone. The owner looks even more luxurious."
+Untiered accessory.
+
+Fame Bonus: 5%.
+
+While equipped:
++155 Maximum HP.
++6 Attack.
++6 Defense.
++6 Speed.
++8 Vitality.
+
+Drops from:
+Archdemon Malphas: 5.0% (1/20) chance.

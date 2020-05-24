@@ -1,0 +1,13 @@
+Menacing Sword of No Escape [0x1597]
+"You can't run, nor can you hide."
+Untiered sword.
+
+Does 198-355 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 4.18 tiles.
+Shots hit multiple targets.
+Fame Bonus: 6%.
+
+Drops from:
+TF The Fallen: 1.0% (1/100) chance.

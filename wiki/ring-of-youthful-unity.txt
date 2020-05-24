@@ -1,0 +1,26 @@
+Ring of Youthful Unity [0x7074]
+"The remains of everything that was before the first rise of the sun now lays embedded within the ring."
+Sacred tier accessory.
+
+Fame Bonus: 8%.
+
+While equipped:
++14 Attack.
++14 Dexterity.
++7 Defense.
++7 Speed.
++7 Vitality.
++7 Wisdom.
++85 Maximum HP.
++85 Maximum MP.
+-20 Restoration.
+-25 Protection.
+-30 Might.
+-35 Luck.
+
++1 Life Steal.
++1 Mana Leech.
+
+Collector's Edition: All stats are increased by 0.65% per sacred item in inventory. Stackable.
+
+Does not drop from enemies.

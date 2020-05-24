@@ -1,0 +1,17 @@
+Fortified Jewel [0x7075]
+"A magnetic stone resides between the ends of the ring, finally trapped within an appropriate asylum."
+Sacred tier accessory.
+
+Fame Bonus: 8%.
+
+While equipped:
++20 Vitality.
++50 Defense.
++50 Protection.
+-10 Attack.
+-20 Wisdom.
+-50 Maximum MP.
+
+Runic Defense: On hit, 8% chance to trigger an AOE heal for the taken damage with a 4 tile radius. Stackable.
+
+Does not drop from enemies.

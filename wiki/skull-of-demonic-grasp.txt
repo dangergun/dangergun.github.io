@@ -1,0 +1,20 @@
+Skull of Demonic Grasp [0x7337]
+"The presence of the demon lingers within the skull, corrupting anyone foolish enough to disturb it's burial"
+Untiered skull.
+
+MP Cost: 140.
+Cooldown: 3.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Armor Broken for 5 seconds. Does not use wis mod.
+On self: Damaging for 3 seconds. Does not use wis mod.
+Steals 400 HP within 2.75 tiles. Centered around the player's cursor.
+
+While equipped:
++15 Might.
++60 Maximum MP.
+-5 Defense.
+
+Drops from:
+Oryx Defense System: 0.5% (1/200) chance.

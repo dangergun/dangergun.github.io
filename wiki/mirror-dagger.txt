@@ -1,0 +1,15 @@
+Mirror Dagger [0x57ad]
+"2 sides of the problem is that it's a total issue to have twice the stupidity!"
+Untiered dagger.
+
+Does 122-190 damage.
+125% rate of fire.
+Shoots 4 projectiles at a 90.0 degree angle.
+Range: 5.6 tiles.
+Fame Bonus: 6%.
+
+While equipped:
++10 Speed.
+
+Drops from:
+Hand of Terradius: 25.0% (1/4) chance.

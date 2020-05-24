@@ -1,0 +1,18 @@
+Staff of Esben [0x766]
+"{equip.Perhaps_all_that_remains_of_Esben,_whoever_he_was._Thanks_t}"
+Untiered staff.
+
+Does 80-100 damage.
+70% rate of fire.
+Shoots 2 projectiles at a 0.0 degree angle.
+Range: 7.2 tiles.
+Shots have an amplitude of 1.35 and a frequency of 0.
+Shots hit multiple targets.
+Fame Bonus: 4%.
+
+While equipped:
++1 Attack.
++3 Speed.
+
+Drops from:
+ic Loot Balloon: 1.0% (1/100) chance.

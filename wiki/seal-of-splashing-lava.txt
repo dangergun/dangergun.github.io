@@ -1,0 +1,15 @@
+Seal of Splashing Lava [0x230]
+"What lava is splashing, we don't know. How it knows it's splashing, we also don't know."
+Untiered seal.
+
+MP Cost: 100.
+Cooldown: 0.5 seconds.
+
+When used:
+On self: Armored for 2 seconds. Uses wis mod.
+Party effect: Damaging for 3 seconds within 6 tiles. Uses wis mod.
+Party effect: Healing for 5 seconds within 6 tiles. Uses wis mod.
+Party effect: Within 6 tiles, +75 Maximum HP for 3 seconds. Uses wis mod.
+
+Drops from:
+Ghost Ship: 1.3% (1/76) chance.

@@ -1,0 +1,21 @@
+Sword of Dark Necromancy [0x47c4]
+"A benevolent blade enchanted by necromancy."
+Untiered sword.
+
+Does 180-200 damage.
+135% rate of fire.
+Shoots 1 projectile.
+Range: 3.5 tiles.
+Shots ignore defense.
+Shots are wavy.
+
+While equipped:
++4 Attack.
++4 Defense.
++75 Maximum HP.
++75 Maximum MP.
+
+Drops from:
+Corrupted Flames of Fate: 1.0% (1/100) chance.
+Doomages: 1.0% (1/100) chance.
+Tridorno: 2.0% (1/50) chance.

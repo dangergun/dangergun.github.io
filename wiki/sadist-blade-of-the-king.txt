@@ -1,0 +1,18 @@
+Sadist Blade of the King [0x796c]
+"No corporeal creature can kill my sorrow."
+Untiered sword.
+
+Does 180-220 damage.
+95% rate of fire.
+Shoots 1 projectile.
+Range: 4.0 tiles.
+Shots hit multiple targets.
+Fame Bonus: 6%.
+
+While equipped:
++3 Wisdom.
++5 Attack.
+-3 Defense.
+
+Drops from:
+Actual Ghost King: 1.0% (1/100) chance.

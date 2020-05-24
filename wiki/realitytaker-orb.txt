@@ -1,0 +1,19 @@
+Realitytaker Orb [0x6218]
+"A darksome, garnet orb that steals weeks of life from those who peer into its core."
+Fabled tier orb.
+
+MP Cost: 100.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Effect on self: +160 Maximum HP for 6 seconds. Uses wis mod.
+Enemy Effect: Slowed for 7 seconds within 5 tiles. Centered around the player's cursor.
+On self: Berserk for 6 seconds. Uses wis mod.
+
+While equipped:
++12 Dexterity.
++8 Vitality.
++80 Maximum HP.
+
+Does not drop from enemies.

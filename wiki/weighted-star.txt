@@ -1,0 +1,25 @@
+Weighted Star [0x7176]
+"A reflective steel star that seems to get heavier with every throw from the user."
+Sacred tier shuriken.
+
+Does 3000-5000 damage.
+Range: 10.0 tiles.
+Shots pass through obstacles.
+MP Cost: 90.
+Cooldown: 2.0 seconds.
+
+When used:
+On self: Armored for 2 seconds. Does not use wis mod.
+On self: Damaging for 2 seconds. Does not use wis mod.
+While ability key is held, Speedy on self and drains 10 mp/second.
+When ability key is released, shoots a shuriken. Does not use atk mod.
+
+While equipped:
++10 Dexterity.
++15 Defense.
+-20 Might.
+-60 Maximum HP.
+
+Galactic Valor: All status effect durations are increased by 5%. Stackable.
+
+Does not drop from enemies.

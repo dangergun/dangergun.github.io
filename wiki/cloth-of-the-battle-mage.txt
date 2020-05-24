@@ -1,0 +1,16 @@
+Cloth of the Battle-Mage [0x69e3]
+"Made for the most outstanding mages in order to protect the wearer from incoming fire."
+Legendary tier robe.
+
+Fame Bonus: 8%.
+
+While equipped:
++145 Maximum HP.
++15 Defense.
++40 Restoration.
++45 Protection.
++75 Maximum MP.
+
+Lifeburst: If your mana is not below half you heal 60 health when using your ability.
+
+Does not drop from enemies.

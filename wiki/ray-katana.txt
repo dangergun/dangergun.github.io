@@ -1,0 +1,13 @@
+Ray Katana [0x915]
+"{equip.A_great_katana_charged_with_the_power_of_the_sun_itself.}"
+Untiered katana.
+
+Does 100-120 damage.
+114% rate of fire.
+Shoots 1 projectile.
+Range: 6.89 tiles.
+Shots hit multiple targets.
+Fame Bonus: 3%.
+
+Drops from:
+Dragon Head: 2.0% (1/50) chance.

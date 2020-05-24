@@ -1,0 +1,13 @@
+Winter Ring [0x7049]
+Untiered accessory.
+
+Fame Bonus: 5%.
+
+While equipped:
++30 Maximum HP.
++30 Maximum MP.
++6 Attack.
++6 Dexterity.
+
+Drops from:
+ic Loot Balloon: 0.5% (1/200) chance.

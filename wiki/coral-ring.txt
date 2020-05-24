@@ -1,0 +1,15 @@
+Coral Ring [0xc13]
+"{equip.A_ring_crafted_from_the_dangerous_Fire_Coral.}"
+Untiered accessory.
+
+Fame Bonus: 4%.
+
+While equipped:
++10 Speed.
++10 Wisdom.
++150 Maximum HP.
++5 Dexterity.
+
+Drops from:
+Coral Gift: 4.0% (1/25) chance.
+Thessal the Mermaid Goddess: 5.0% (1/20) chance.

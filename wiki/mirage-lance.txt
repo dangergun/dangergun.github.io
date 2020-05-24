@@ -1,0 +1,13 @@
+Mirage Lance [0x52d1]
+"An ethereal lance that creates multiple visions of the lance itself."
+Untiered lance.
+
+Does 100-250 damage.
+80% rate of fire.
+Shoots 2 projectiles at a 16.0 degree angle.
+Range: 6.25 tiles.
+Shots hit multiple targets.
+Fame Bonus: 6%.
+
+Drops from:
+The Illusionist: 2.0% (1/50) chance.

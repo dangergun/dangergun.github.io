@@ -1,0 +1,21 @@
+Turkey Meal [0x7907]
+"A scrumptious Thanksgiving meal. Happy Thanksgiving!"
+Untiered consumable.
+
+When used:
+Permanently increases Attack by 5.
+Permanently increases Defense by 5.
+Permanently increases Dexterity by 5.
+Permanently increases Luck by 5.
+Permanently increases Maximum HP by 10.
+Permanently increases Maximum MP by 10.
+Permanently increases Might by 5.
+Permanently increases Protection by 5.
+Permanently increases Restoration by 5.
+Permanently increases Speed by 5.
+Permanently increases Vitality by 5.
+Permanently increases Wisdom by 5.
+
+Drops from:
+Big Turkey God: 10.0% (1/10) chance.
+Big Turkey God: 10.0% (1/10) chance.

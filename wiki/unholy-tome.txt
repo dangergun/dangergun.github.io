@@ -1,0 +1,20 @@
+Unholy Tome [0x772e]
+"An Unholy Brotherhood, Satanic rituals, sacrifice..."
+Untiered tome.
+
+MP Cost: 125.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Heals 300 HP within 7 tiles. Uses wis mod.
+Removes negative conditions from players within 4 tiles.
+Within 4 tiles: if a player has the effect Hexed, removes Speedy from them.
+
+While equipped:
++10 Wisdom.
++60 Maximum MP.
++8 Vitality.
+
+Drops from:
+UNP The Dark Knight: 4.0% (1/25) chance.

@@ -1,0 +1,16 @@
+The Phylactery [0x2363]
+"{equip.I_was_a_fool_before,_but_now_everything_is_so_clear._The_ph}"
+Untiered staff.
+
+Does 85-110 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 8.55 tiles.
+Fame Bonus: 4%.
+
+While equipped:
++2 Attack.
++50 Maximum MP.
+
+Drops from:
+Phylactery Bearer: 0.2% (1/500) chance.

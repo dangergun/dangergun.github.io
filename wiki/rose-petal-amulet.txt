@@ -1,0 +1,14 @@
+Rose Petal Amulet [0x676b]
+"A petal plucked from the chest of Vitalia."
+Untiered accessory.
+
+Fame Bonus: 6%.
+
+While equipped:
++100 Maximum HP.
++20 Vitality.
++6 Attack.
++6 Dexterity.
+
+Drops from:
+Chomper: 0.1% (1/1000) chance.

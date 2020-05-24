@@ -1,0 +1,18 @@
+Ring of the Storm Gods [0x58ed]
+"A ring that shocks the energy of a storm god into it's user."
+Untiered accessory.
+
+Fame Bonus: 6%.
+
+While equipped:
++2 Attack.
++2 Dexterity.
++25 Maximum HP.
++25 Maximum MP.
++30 Luck.
++30 Might.
++4 Defense.
+
+Drops from:
+Construct of the Storm: 1.0% (1/100) chance.
+Iegon the Weather God: 1.0% (1/100) chance.

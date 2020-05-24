@@ -1,0 +1,22 @@
+Abysmal Whip [0x7249]
+"Drenched with the blood of its victims, it's foul odor can only be tolerated by the strongest of souls."
+Sacred tier dagger.
+
+Does 225-260 damage.
+125% rate of fire.
+Shoots 1 projectile.
+Range: 5.51 tiles.
+Shots hit multiple targets.
+Shots ignore defense.
+Fame Bonus: 8%.
+
+While equipped:
++75 Maximum HP.
++8 Vitality.
+
++5 Life Steal.
+
+Runic Defense: On hit, 8% chance to trigger an AOE heal for the taken damage with a 4 tile radius. Stackable.
+
+Drops from:
+Archdemon Malphas: 0.2% (1/500) chance.

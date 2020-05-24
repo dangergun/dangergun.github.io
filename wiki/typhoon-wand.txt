@@ -1,0 +1,20 @@
+Typhoon Wand [0x58ee]
+"This storm can't be controlled.."
+Untiered wand.
+
+Does 130-190 damage.
+120% rate of fire.
+Shoots 1 projectile.
+Range: 8.0 tiles.
+Shots hit multiple targets.
+Shots are wavy.
+Fame Bonus: 6%.
+
+While equipped:
++4 Attack.
++4 Dexterity.
++8 Speed.
+
+Drops from:
+Construct of the Storm: 2.0% (1/50) chance.
+Iegon the Weather God: 1.0% (1/100) chance.

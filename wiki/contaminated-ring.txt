@@ -1,0 +1,17 @@
+Contaminated Ring [0x7879]
+"A ring manifested with the microscopic evils of the dreamworld, letting them near you might not be a great idea."
+Untiered accessory.
+
+Fame Bonus: 7%.
+
+While equipped:
++10 Attack.
++130 Maximum HP.
++14 Speed.
++14 Vitality.
++85 Maximum MP.
+-20 Protection.
+-30 Restoration.
+
+Drops from:
+True Somnus, the Dream Entity: 0.8% (1/125) chance.

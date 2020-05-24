@@ -1,0 +1,23 @@
+Ascendant Quiver [0x61af]
+"A powerful quiver that shoots a magical arrow that pierces through the toughest of armors."
+Untiered quiver.
+
+Does 200-250 damage.
+Range: 15.0 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+Shots ignore defense.
+Shots boomerang.
+MP Cost: 65.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+While equipped:
++10 Protection.
++100 Maximum MP.
++20 Wisdom.
++4 Dexterity.
++4 Speed.
+
+Drops from:
+Truvix, the Lord Wanderer: 2.0% (1/50) chance.

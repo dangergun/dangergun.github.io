@@ -1,0 +1,17 @@
+Percussion Shield [0x6211]
+"A gilded gong modified to be a terrifically noisy shield."
+Fabled tier shield.
+
+Does 150-175 damage.
+Range: 3.2 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+MP Cost: 110.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+While equipped:
++20 Defense.
++20 Protection.
+
+Does not drop from enemies.

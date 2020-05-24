@@ -1,0 +1,18 @@
+Blood-Fang [0x69c4]
+"Stained from all the victims that were unfortunate enough to cross its path."
+Legendary tier dagger.
+
+Does 320-360 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 4.56 tiles.
+Fame Bonus: 8%.
+
+While equipped:
+-80 Maximum HP.
+
++3 Life Steal.
+
+Blood Barrier: If your surge is at least 2 and you use any ability at all you receive armored. The duration of this armored scales with how much HP you currently have.
+
+Does not drop from enemies.

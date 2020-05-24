@@ -1,0 +1,19 @@
+Fairy Plate [0x2364]
+"{equip.This_colorful_platemail_is_enchanted_with_special_protectio}"
+Untiered heavy armor.
+
+Fame Bonus: 7%.
+
+While equipped:
++100 Maximum HP.
++100 Maximum MP.
++25 Defense.
+
+Wearing the whole set will reward you with: +100 HP, +100 MP, +10 Attack, +10 Def, +20 Wis
+
+Drops from:
+Desire Troll: 0.5% (1/200) chance.
+Gigacorn: 0.5% (1/200) chance.
+MegaRototo: 0.5% (1/200) chance.
+Spoiled Creampuff: 0.5% (1/200) chance.
+Swoll Fairy: 0.5% (1/200) chance.

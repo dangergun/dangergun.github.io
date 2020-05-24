@@ -1,0 +1,14 @@
+Guardian Sword [0x7076]
+"Sword of Light, once wielded by the Archangel Michael, was forged for war with the Devil and his demons. Now you must carry on his work."
+Untiered sword.
+
+Does 160-200 damage.
+100% rate of fire.
+Shoots 2 projectiles at a 10.0 degree angle.
+Range: 4.68 tiles.
+Shots hit multiple targets.
+Shots ignore defense.
+Fame Bonus: 6%.
+
+Drops from:
+Truvix, the Lord Wanderer: 1.0% (1/100) chance.

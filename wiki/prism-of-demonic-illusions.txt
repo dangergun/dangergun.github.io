@@ -1,0 +1,21 @@
+Prism of Demonic Illusions [0x7341]
+"A lustrous red prism luring those vulnerable enough into a future of sorrow and eternal regret."
+Untiered prism.
+
+MP Cost: 105.
+Cooldown: 2.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Creates a decoy that lasts for 5.5 seconds.
+On self: Armored for 2.25 seconds. Does not use wis mod.
+On self: Invisible for 2 seconds. Does not use wis mod.
+Teleports the player to the cursor, with a maximum distance of 20 tiles.
+
+While equipped:
++20 Protection.
++8 Dexterity.
+-60 Maximum HP.
+
+Drops from:
+Oryx Defense System: 0.5% (1/200) chance.

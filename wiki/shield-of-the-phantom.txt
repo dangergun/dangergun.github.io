@@ -1,0 +1,16 @@
+Shield of the Phantom [0x5157]
+"This shield is almost transparent, as if it's not truly a part of this world. Formerly wielded by the Dark Shadow, it will crush any fool who dares to oppose its bearer."
+Untiered shield.
+
+Does 200-500 damage.
+Range: 3.2 tiles.
+Shots hit multiple targets.
+MP Cost: 95.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+While equipped:
++17 Defense.
+
+Drops from:
+shtrs Defense System: 2.0% (1/50) chance.

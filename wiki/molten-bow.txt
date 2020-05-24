@@ -1,0 +1,21 @@
+Molten Bow [0x7100]
+"A scarlet bow hot to the touch as the boiling magma flows within it's ruby frame."
+Sacred tier bow.
+
+Does 245-335 damage.
+130% rate of fire.
+Shoots 1 projectile.
+Range: 6.59 tiles.
+Shots have an amplitude of 0.1 and a frequency of 1.
+Shots hit multiple targets.
+Shots ignore defense.
+Fame Bonus: 7%.
+
+While equipped:
++5 Speed.
+
++2 Mana Leech.
+
+Helping Hand: On ability use, 7% chance to give 10 attack and 10 defense to each player in a 3 tile radius for 5 seconds. Stackable.
+
+Does not drop from enemies.

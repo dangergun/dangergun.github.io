@@ -1,0 +1,20 @@
+Skull of Corrupted Souls [0x5479]
+"The cursed skull of a corrupted mind. Good intentions can go horribly wrong."
+Legendary tier skull.
+
+MP Cost: 90.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Berserk for 2 seconds. Does not use wis mod.
+On self: Bravery for 2 seconds. Does not use wis mod.
+On self: Damaging for 2 seconds. Does not use wis mod.
+On self: Sick for 2 seconds. Does not use wis mod.
+
+While equipped:
++100 Maximum HP.
+
++1 Mana Leech.
+
+Does not drop from enemies.

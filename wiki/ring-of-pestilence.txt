@@ -1,0 +1,15 @@
+Ring of Pestilence [0x1581]
+"A ring that will cause sickness and death."
+Untiered accessory.
+
+Fame Bonus: 5%.
+
+While equipped:
++10 Vitality.
++100 Maximum HP.
++2 Attack.
++2 Dexterity.
+-4 Speed.
+
+Drops from:
+Tridorno: 1.5% (1/66) chance.

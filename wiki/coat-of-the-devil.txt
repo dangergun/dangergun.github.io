@@ -1,0 +1,14 @@
+Coat of the Devil [0x1692]
+"The coat that the devil wears when he is in human form."
+Untiered robe.
+
+Fame Bonus: 6%.
+
+While equipped:
++10 Speed.
++14 Defense.
++18 Vitality.
++4 Attack.
+
+Drops from:
+Hades: 2.0% (1/50) chance.

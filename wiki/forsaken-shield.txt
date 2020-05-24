@@ -1,0 +1,20 @@
+Forsaken Shield [0x54dc]
+"A shield of true unholy power found in the Catacombs."
+Untiered shield.
+
+Does 425-500 damage.
+Range: 4.0 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+MP Cost: 120.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+While equipped:
++12 Defense.
++220 Maximum HP.
++8 Dexterity.
+
+Drops from:
+Corrupted Flames of Fate: 9.2% (1/10) chance.
+Tridorno: 5.0% (1/20) chance.

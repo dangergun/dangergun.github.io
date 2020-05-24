@@ -1,0 +1,13 @@
+Ring of the Covetous Heart [0x2361]
+"{equip.As_I_lifted_the_stone_from_itAPOSs_resting_place_it_became_}"
+Untiered accessory.
+
+Fame Bonus: 5%.
+
+While equipped:
++10 Wisdom.
++15 Maximum HP.
++5 Vitality.
+
+Drops from:
+Phylactery Bearer: 1.0% (1/100) chance.

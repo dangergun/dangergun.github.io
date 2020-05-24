@@ -1,0 +1,18 @@
+Shield of Ogmur [0xc0f]
+"{equip.This_massive_shield_was_created_for_the_wealthy_and_powerfu}"
+Untiered shield.
+
+Does 400-500 damage.
+Range: 3.52 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+MP Cost: 100.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+While equipped:
++100 Maximum HP.
++16 Defense.
+
+Drops from:
+Lord of the Lost Lands: 2.0% (1/50) chance.

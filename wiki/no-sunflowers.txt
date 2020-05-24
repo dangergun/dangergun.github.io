@@ -1,0 +1,13 @@
+No Sunflowers [0x43af]
+"You need it or do you just want a free car?"
+Untiered bow.
+
+Does 50-70 damage.
+100% rate of fire.
+Shoots 3 projectiles at a 0.0 degree angle.
+Range: 7.04 tiles.
+Shots hit multiple targets.
+Fame Bonus: 4%.
+
+Drops from:
+Larry Gigsman, the Superhuman: 10.0% (1/10) chance.

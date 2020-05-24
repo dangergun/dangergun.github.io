@@ -1,0 +1,24 @@
+Inscribed Sheath [0x7238]
+"A scribes blade hidden behind a sealed sheath to protect the user from its runes calling for vengeance against its creator."
+Sacred tier sheath.
+
+MP Cost: 90.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Damaging for 4 seconds. Does not use wis mod.
+On self: Surged for 4 seconds. Does not use wis mod.
+While ability key is held, Berserk on self and drains 10 mp/second.
+When ability key is released, 4000 damage within 4 tiles. Uses atk mod.
+
+While equipped:
++10 Vitality.
++100 Maximum HP.
+-50 Restoration.
+
++2 Life Steal.
+
+Helping Hand: On ability use, 7% chance to give 10 attack and 10 defense to each player in a 3 tile radius for 5 seconds. Stackable.
+
+Does not drop from enemies.

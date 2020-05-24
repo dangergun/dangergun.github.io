@@ -1,0 +1,13 @@
+Greater Potion of Might [0x61c9]
+"A potion that permanently increases might by 4."
+Untiered consumable.
+
+When used:
+Permanently increases Might by 4.
+
+Drops from:
+Akeldama, the Disciple of Oryx: 100.0% chance.
+Garnet Statue: 100.0% chance.
+Krokanich: 100.0% chance.
+The Alien King: 100.0% chance.
+True Somnus, the Dream Entity: 100.0% chance.

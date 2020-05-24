@@ -1,0 +1,14 @@
+Armor of Masochism [0x796d]
+"I feel my flesh again! For the first time in a thousand years I LIVE!"
+Untiered heavy armor.
+
+Fame Bonus: 4%.
+
+While equipped:
++20 Defense.
++5 Attack.
++6 Speed.
++6 Wisdom.
+
+Drops from:
+Actual Ghost King: 1.0% (1/100) chance.

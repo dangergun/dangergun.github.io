@@ -1,0 +1,23 @@
+Rejoiced Rod of Victory [0x7180]
+"A lonesome sorcerer's scepter used to keep the evil forces at bay during the final stand."
+Sacred tier scepter.
+
+MP Cost: 130.
+Cooldown: 2.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+Lightning: 800 damage to 8 targets. Uses wis mod.
+Lightning effect: Weak for 2.5 seconds.
+On self: Berserk for 1 second. Does not use wis mod.
+On self: Slowed for 2 seconds. Does not use wis mod.
+
+While equipped:
++20 Wisdom.
++5 Vitality.
++85 Maximum MP.
+-5 Defense.
+
+Open Mind: Mana regeneration is increased by 10% and maximum mana is increased by 5%. Stackable.
+
+Does not drop from enemies.

@@ -1,0 +1,18 @@
+Malice of Corrupt Souls [0x7328]
+"A malice drenched in the blood of those who tried to run from its deadly blade, none survived it's ravaging power."
+Untiered dagger.
+
+Does 160-225 damage.
+80% rate of fire.
+Shoots 2 projectiles at a 13.0 degree angle.
+Range: 6.0 tiles.
+Shots have an amplitude of 0.4 and a frequency of 1.
+Shots ignore defense.
+Fame Bonus: 6%.
+
+While equipped:
++10 Wisdom.
++60 Maximum MP.
+
+Drops from:
+Akeldama, the Disciple of Oryx: 0.5% (1/200) chance.

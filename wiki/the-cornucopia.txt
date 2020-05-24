@@ -1,0 +1,12 @@
+The Cornucopia [0x7911]
+"This cornucopia symbolizes Thanksgiving and the Harvest, which will keep you well-sustained for any situation you come across."
+Untiered accessory.
+
+While equipped:
++5 Defense.
++5 Vitality.
++5 Wisdom.
++50 Maximum MP.
+
+Drops from:
+Big Turkey God: 0.5% (1/200) chance.

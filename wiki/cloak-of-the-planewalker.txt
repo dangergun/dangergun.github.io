@@ -1,0 +1,18 @@
+Cloak of the Planewalker [0xa5a]
+"{equip.An_enchanted_cloak_crafted_by_an_ancient_guild_of_timeshift}"
+Untiered cloak.
+
+MP Cost: 100.
+Cooldown: 6.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+On self: Invisible for 5.5 seconds. Does not use wis mod.
+Teleports the player to the cursor, with a maximum distance of 20 tiles.
+
+While equipped:
++4 Dexterity.
++5 Speed.
+
+Drops from:
+Limon the Sprite God: 2.0% (1/50) chance.

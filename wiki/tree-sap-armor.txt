@@ -1,0 +1,19 @@
+Tree-sap Armor [0x7134]
+"Ancient sap flows through the rigid body of the armor acting as a solvent to keep the structure stable."
+Sacred tier leather armor.
+
+Fame Bonus: 8%.
+
+While equipped:
++100 Maximum MP.
++12 Wisdom.
++120 Maximum HP.
++16 Defense.
++20 Speed.
++30 Luck.
++30 Protection.
++5 Vitality.
+
+Collector's Edition: All stats are increased by 0.65% per sacred item in inventory. Stackable.
+
+Does not drop from enemies.

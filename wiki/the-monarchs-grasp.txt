@@ -1,0 +1,20 @@
+The Monarch's Grasp [0x69dc]
+"Imprints of the realms royalty litter the cane of the staff, another name is added when the wielder falls…"
+Legendary tier staff.
+
+Does 75-105 damage.
+90% rate of fire.
+Shoots 4 projectiles at a 10.0 degree angle.
+Range: 9.0 tiles.
+Shots have an amplitude of 0.5 and a frequency of 2.
+Shots hit multiple targets.
+Shots pass through obstacles.
+Fame Bonus: 8%.
+
+While equipped:
++15 Vitality.
+-80 Maximum HP.
+
+Royalty: When no enemies are 10 squares away from you, you heal much faster.
+
+Does not drop from enemies.

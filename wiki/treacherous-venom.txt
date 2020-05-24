@@ -1,0 +1,19 @@
+Treacherous Venom [0x61c7]
+"A venom extracted from the fangs of Stheno the Snake Queen herself."
+Untiered poison.
+
+MP Cost: 75.
+Cooldown: 0.5 seconds.
+Fame Bonus: 5%.
+
+When used:
+Enemy Effect: Curse for 4 seconds within 3 tiles. Centered around the player's cursor.
+Poison Grenade:
+After 1 second, 300 impact damage + 450 damage over 10 seconds. Uses wis mod.
+
+While equipped:
++40 Luck.
++6 Attack.
+
+Drops from:
+Stheno the Snake Queen: 2.0% (1/50) chance.

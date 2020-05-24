@@ -1,0 +1,14 @@
+Godly Crown [0x586c]
+"A crown only fit for a god..."
+Godslayer tier accessory.
+This item is soulbound.
+
+While equipped:
++1500 Maximum HP.
++200 Defense.
++30 Dexterity.
++400 Attack.
++600 Vitality.
++700 Wisdom.
+
+Does not drop from enemies.

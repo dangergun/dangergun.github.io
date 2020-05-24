@@ -1,0 +1,19 @@
+Lance of Honour [0x69d6]
+"Awarded to those who proved they held respect for their comrades."
+Legendary tier lance.
+
+Does 300-400 damage.
+65% rate of fire.
+Shoots 1 projectile.
+Range: 3.5 tiles.
+Shots hit multiple targets.
+Fame Bonus: 8%.
+
+While equipped:
++10 Speed.
++200 Maximum MP.
++6 Defense.
+
+Moonguard: While using this weapon you are immune to slowed.
+
+Does not drop from enemies.

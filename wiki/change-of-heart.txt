@@ -1,0 +1,9 @@
+Change of Heart [0x7916]
+"What took you so long?"
+Legendary tier consumable.
+
+Use this item to reroll legendaries and sacreds into any shard legendary or rusted sacred through the forge.
+
+Drops from:
+Izual Loot Ctrl: 0.0333% (1/3003) chance.
+TF The Fallen: 0.0333% (1/3003) chance.

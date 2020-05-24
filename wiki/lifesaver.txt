@@ -1,0 +1,23 @@
+Lifesaver [0x7867]
+"Whether at land or sea, Paladin is here as Baywatch to keep you safe!"
+Untiered seal.
+
+MP Cost: 110.
+Cooldown: 0.5 seconds.
+Fame Bonus: 5%.
+
+When used:
+On self: Armorbroken for 2 seconds. Does not use wis mod.
+On self: Speedy for 2.5 seconds. Uses wis mod.
+Party Effect: Damaging for 3.5 seconds within 2 tiles. Centered around the player.
+Party Effect: Healing for 5 seconds within 3.5 tiles. Centered around the player.
+Party effect: Within 4 tiles, +120 Maximum HP for 6 seconds. Uses wis mod.
+
+While equipped:
++100 Maximum MP.
++7 Wisdom.
+-3 Vitality.
+-80 Maximum HP.
+
+Drops from:
+Vangor, the Ancient: 0.7% (1/142) chance.

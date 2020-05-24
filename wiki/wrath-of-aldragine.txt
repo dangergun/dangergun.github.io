@@ -1,0 +1,13 @@
+Wrath of Aldragine [0x44db]
+"The wrath wasn't certain before..now we know why."
+Fabled tier robe.
+
+Fame Bonus: 8%.
+
+While equipped:
++10 Vitality.
++12 Defense.
++18 Attack.
++180 Maximum HP.
+
+Does not drop from enemies.

@@ -1,0 +1,10 @@
+Large Red Dragon Scale Cloth [0x1259]
+"{textiles.large_description}"
+Untiered consumable.
+This item is soulbound.
+
+When used:
+Changes the character's dye.
+
+Drops from:
+lod Red Loot Balloon: 4.5% (1/22) chance.

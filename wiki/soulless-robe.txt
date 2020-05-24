@@ -1,0 +1,13 @@
+Soulless Robe [0x2360]
+"{equip....finally,_I_cornered_and_killed_the_beast._When_I_awoke_i}"
+Untiered robe.
+
+Fame Bonus: 4%.
+
+While equipped:
++15 Defense.
++40 Maximum HP.
++40 Maximum MP.
+
+Drops from:
+Phylactery Bearer: 0.2% (1/500) chance.

@@ -1,0 +1,19 @@
+Overlord's Crown [0x42f6]
+"Made out of the purest metals, this helmet is only destined to be worn by the most ruthless leaders."
+Legendary tier helm.
+
+MP Cost: 120.
+Cooldown: 7.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+Effect on self: +200 Maximum HP for 6 seconds. Does not use wis mod.
+On self: Healing for 4 seconds. Uses wis mod.
+On self: Speedy for 3 seconds. Does not use wis mod.
+Party effect: Berserk for 6 seconds within 4 tiles. Uses wis mod.
+
+While equipped:
++120 Maximum HP.
++14 Defense.
+
+Does not drop from enemies.

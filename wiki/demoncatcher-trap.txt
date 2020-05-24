@@ -1,0 +1,25 @@
+Demoncatcher Trap [0x7344]
+"A trap designed to turn the demonic creatures into nothing but a red painted carcass."
+Untiered trap.
+
+MP Cost: 140.
+Cooldown: 1.0 seconds.
+Fame Bonus: 6%.
+
+When used:
+On self: Armor Broken for 1.5 seconds. Does not use wis mod.
+On self: Berserk for 2 seconds. Does not use wis mod.
+Trap: 150 damage within 3.5 tiles.
+On enemies: Paralyzed for 2 seconds.
+Throw time: 1 second.
+Trap: 300 damage within 4.5 tiles.
+On enemies: Bleeding for 4 seconds.
+Throw time: 0.70 seconds.
+
+While equipped:
++10 Luck.
++20 Might.
++8 Wisdom.
+
+Drops from:
+Oryx Defense System: 0.5% (1/200) chance.

@@ -1,0 +1,20 @@
+Burden of the Warpawn [0x48fe]
+"The end will be forever if we don't stop this war. ~Vardon, the Remembered"
+Legendary tier helm.
+
+MP Cost: 120.
+Cooldown: 8.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+Enemy Effect: Stunned for 4 seconds within 5 tiles. Centered around the player's cursor.
+Heals 200 HP within 4 tiles. Does not use wis mod.
+On self: Berserk for 5 seconds. Does not use wis mod.
+
+While equipped:
++10 Defense.
++10 Dexterity.
++10 Vitality.
++120 Maximum HP.
+
+Does not drop from enemies.

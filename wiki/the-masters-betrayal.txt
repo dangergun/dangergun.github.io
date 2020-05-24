@@ -1,0 +1,26 @@
+The Master's Betrayal [0x621b]
+"The protege has surpassed the master."
+Legendary tier jacket.
+
+Does 325-400 damage.
+Range: 4.5 tiles.
+Shots hit multiple targets.
+Shots ignore defense.
+Shots boomerang.
+MP Cost: 65.
+Surge Cost: 1.
+Cooldown: 2.0 seconds.
+
+When used:
+Teleports the player to the cursor, with a maximum distance of 5 tiles.
+
+While equipped:
++15 Defense.
++250 Maximum HP.
+
+Offensive Stance
++20 Attack
+Defensive Stance
++25 Defense
+
+Does not drop from enemies.

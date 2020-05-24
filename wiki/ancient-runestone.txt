@@ -1,0 +1,24 @@
+Ancient Runestone [0x7182]
+"A spell so potent, any soul it targets gets overwhelmed by its strength, immobilizing them for eternity."
+Sacred tier spell.
+
+Does 350-470 damage.
+Range: 6.0 tiles.
+MP Cost: 135.
+Cooldown: 2.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Damaging for 1.5 seconds. Does not use wis mod.
+On self: Slowed for 1 second. Does not use wis mod.
+Shoots 12 shots in a circle around the cursor.
+
+While equipped:
++12 Attack.
++30 Might.
+
++1 Mana Leech.
+
+Runic Defense: On hit, 8% chance to trigger an AOE heal for the taken damage with a 4 tile radius. Stackable.
+
+Does not drop from enemies.

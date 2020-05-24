@@ -1,0 +1,16 @@
+Scarlet Battle-Axe [0x1485]
+"Found within a burial site, its blade reinforced with ruby."
+Legendary tier sword.
+
+Does 220 damage.
+70% rate of fire.
+Shoots 5 projectiles at a 0.0 degree angle.
+Range: 2.44 tiles.
+Fame Bonus: 8%.
+
+While equipped:
++20% Speed.
+
+Warcry: When your Surge is at least 25 you gain a bonus 300 health and your health regenerates faster.
+
+Does not drop from enemies.

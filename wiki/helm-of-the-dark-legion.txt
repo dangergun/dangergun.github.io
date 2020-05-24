@@ -1,0 +1,19 @@
+Helm of the Dark Legion [0x7335]
+"A helm that grants visions from hell to a brave enough warrior..."
+Untiered helm.
+
+MP Cost: 95.
+Cooldown: 7.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+Party effect: Armored for 4 seconds within 4 tiles. Does not use wis mod.
+Party effect: Damaging for 6 seconds within 4 tiles. Does not use wis mod.
+
+While equipped:
++125 Maximum HP.
++15 Defense.
++4 Speed.
+
+Drops from:
+Oryx Defense System: 0.5% (1/200) chance.

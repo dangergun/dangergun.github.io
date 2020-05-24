@@ -1,0 +1,17 @@
+Holy Grail [0x7077]
+"A highly sought after treasure thought to have been lost during the medieval period."
+Sacred tier accessory.
+
+Fame Bonus: 8%.
+
+While equipped:
++10 Fortune.
++125 Might.
++8 Dexterity.
++85 Luck.
+-20 Vitality.
+-20 Wisdom.
+
+Critical Focus: On enemy hit, 7% chance to increase might by 10% of total luck. Stackable.
+
+Does not drop from enemies.

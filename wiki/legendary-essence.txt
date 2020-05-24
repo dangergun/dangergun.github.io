@@ -1,0 +1,54 @@
+Legendary Essence [0x7917]
+"A strage wisp-like artifact that emits a yellow glow. Inside of it, waits overwhelming power."
+Legendary tier consumable.
+
+Drops from:
+AH Aldragine Loot Ctrl: 0.05% (1/2000) chance.
+AH Aldragine: 0.2% (1/500) chance.
+AH Heart Loot Ctrl: 0.025% (1/4000) chance.
+AH The Sincryer: 0.05% (1/2000) chance.
+AH The Vision of Aldragine: 0.05% (1/2000) chance.
+AH ULTRA Aldragine Loot Ctrl: 0.05% (1/2000) chance.
+AH ULTRA Aldragine: 0.4% (1/250) chance.
+AH ULTRA Heart Loot Ctrl: 0.05% (1/2000) chance.
+AH ULTRA The Sincryer: 0.1% (1/1000) chance.
+AH ULTRA The Vision of Aldragine: 0.1% (1/1000) chance.
+Akeldama, the Disciple of Oryx: 0.01% (1/10000) chance.
+BD Berikao, the Dark Hunter: 0.05% (1/2000) chance.
+BD Portal Spawner 2: 0.05% (1/2000) chance.
+BD Ultra Berikao, the Dark Hunter: 0.05% (1/2000) chance.
+BD Ultra Portal Spawner 2: 0.05% (1/2000) chance.
+BedlamGod: 0.05% (1/2000) chance.
+Bergelmir, the Frost Guardian: 0.4% (1/250) chance.
+Crystal Prisoner: 0.05% (1/2000) chance.
+Cube God: 0.05% (1/2000) chance.
+Dragon Head: 0.05% (1/2000) chance.
+Drannol, the Eternal Beast: 0.05% (1/2000) chance.
+Garnet Statue: 0.05% (1/2000) chance.
+Ghost Ship: 0.05% (1/2000) chance.
+GolemB Test Chest: 0.05% (1/2000) chance.
+GolemC Test Chest: 0.05% (1/2000) chance.
+Hand of Terradius: 0.4% (1/250) chance.
+Hellfire Lord: 0.05% (1/2000) chance.
+Hermit God Drop: 0.05% (1/2000) chance.
+Jade Statue: 0.05% (1/2000) chance.
+Lord Stone Gargoyle: 0.05% (1/2000) chance.
+Lord of the Lost Lands: 0.05% (1/2000) chance.
+Malgor, the Eternal Fiend: 0.05% (1/2000) chance.
+Peepo: 0.05% (1/2000) chance.
+Queen of Hearts: 0.05% (1/2000) chance.
+Sanic: 0.05% (1/2000) chance.
+Scorching Wrath Real: 0.05% (1/2000) chance.
+Skull Shrine: 0.05% (1/2000) chance.
+Sorgigas, the Sor Giant: 0.05% (1/2000) chance.
+Temple Boss: 0.4% (1/250) chance.
+The Cheesehead: 0.05% (1/2000) chance.
+The Horrific: 0.05% (1/2000) chance.
+The Kraken: 0.4% (1/250) chance.
+True Somnus, the Dream Entity: 0.05% (1/2000) chance.
+Truvix, the Lord Wanderer: 0.05% (1/2000) chance.
+Ultra Drannol, the Eternal Beast: 0.05% (1/2000) chance.
+Ultra Scorching Wrath Real: 0.05% (1/2000) chance.
+Yazanahar: 0.05% (1/2000) chance.
+Zaragon, the Blood Mage: 0.05% (1/2000) chance.
+shtrs Defense System: 0.05% (1/2000) chance.

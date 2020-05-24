@@ -1,0 +1,23 @@
+Blazed Bow [0x5865]
+"It is said that this bow was once wielded by Apollo..."
+Godly tier bow.
+
+Does 90-180 damage.
+100% rate of fire.
+Shoots 4 projectiles at a 0.0 degree angle.
+Range: 7.77 tiles.
+Shots hit multiple targets.
+Fame Bonus: 19%.
+
+While equipped:
++10 Defense.
++4 Dexterity.
++8 Attack.
+-100 Maximum HP.
+
+Drops from:
+Elemental Flame: 0.0004% (1/250000) chance.
+Ent God: 0.0004% (1/250000) chance.
+Flying Brain: 0.0004% (1/250000) chance.
+Ghost God: 0.0004% (1/250000) chance.
+White Demon: 0.0004% (1/250000) chance.

@@ -1,0 +1,14 @@
+The Bloody Legacy [0x797e]
+"Old ring. It was passed from hand to hand many generations. Thx to BLOODQWEN, to draw this set."
+Untiered accessory.
+
+Fame Bonus: 4%.
+
+While equipped:
++4 Attack.
++6 Wisdom.
++60 Maximum HP.
++60 Maximum MP.
+
+Drops from:
+shtrs Defense System: 2.0% (1/50) chance.

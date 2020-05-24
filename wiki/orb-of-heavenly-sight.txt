@@ -1,0 +1,18 @@
+Orb of Heavenly Sight [0x217]
+"The eye of Heaven beholds all sins, tremble to the might of the heavenly crystal!"
+Untiered orb.
+
+MP Cost: 110.
+Cooldown: 4.0 seconds.
+Fame Bonus: 5%.
+
+When used:
+Enemy effect: Within 3 tiles of the player's cursor, Stasis for 3 seconds.
+On self: Damaging for 4 seconds. Uses wis mod.
+
+While equipped:
++5 Wisdom.
++50 Maximum MP.
+
+Drops from:
+Riv the Heavenly Champion: 6.0% (1/16) chance.

@@ -1,0 +1,15 @@
+Chestguard of the Underworld [0x1774]
+"Powerful, and quite uplifting ironically. This armor was meant for true knights."
+Untiered heavy armor.
+
+Fame Bonus: 6%.
+
+While equipped:
++26 Defense.
++4 Attack.
++6 Vitality.
+
+Wearing the whole set will reward you with: +200 HP, +20 Vit, +10 Atk
+
+Drops from:
+UNP The Dark Knight: 1.0% (1/100) chance.

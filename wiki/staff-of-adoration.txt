@@ -1,0 +1,13 @@
+Staff of Adoration [0x228b]
+"{equip.The_unusual_shots_that_this_staff_fires_have_been_known_to_}"
+Untiered staff.
+
+Does 50-95 damage.
+100% rate of fire.
+Shoots 2 projectiles at a 0.0 degree angle.
+Range: 8.55 tiles.
+Shots have an amplitude of 0.5 and a frequency of 2.
+Fame Bonus: 1%.
+
+Drops from:
+vlntns Loot Balloon Bella: 10.0% (1/10) chance.

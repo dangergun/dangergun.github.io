@@ -1,0 +1,13 @@
+Garnet's Onslaught [0x56b8]
+"A gigantic bracelet worn by Garnet. Wearing this makes you feel like you can strike down anything. Thanks to: Png"
+Legendary tier accessory.
+
+Fame Bonus: 8%.
+
+While equipped:
++10 Attack.
++10 Defense.
++150 Maximum HP.
+
+Drops from:
+Garnet Statue: 0.1% (1/1000) chance.

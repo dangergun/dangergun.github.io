@@ -1,0 +1,18 @@
+Tome of Holy Protection [0xc1e]
+"{equip.A_tome_dedicated_to_the_works_of_a_forgotten_god._It_is_wri}"
+Untiered tome.
+
+MP Cost: 120.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Heals 200 HP within 6 tiles. Uses wis mod.
+On self: Armored for 4 seconds. Uses wis mod.
+
+While equipped:
++4 Vitality.
++40 Maximum HP.
+
+Drops from:
+Tomb Defender: 5.0% (1/20) chance.

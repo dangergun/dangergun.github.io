@@ -1,0 +1,9 @@
+The Fool Tarot Card [0xf15]
+"{equip.The_fool_represents_innocence,_it_is_the_beginning._When_in}"
+Untiered consumable.
+This item is soulbound.
+
+{equip.Treasure}: {equip.0_of_8}
+
+Drops from:
+Puppet Loot Chest: 4.5% (1/22) chance.

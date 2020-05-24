@@ -1,0 +1,17 @@
+Sourcestone [0x5469]
+"Unknown."
+Legendary tier accessory.
+
+Fame Bonus: 8%.
+
+While equipped:
++10 Speed.
++300 Maximum HP.
++300 Maximum MP.
+
++1 Mana Leech.
+
+Fount: Every time you are hit you will lose 10 Speed for 5 seconds (Unstackable). 
+
+Drops from:
+LH Void Entity: 0.5% (1/200) chance.

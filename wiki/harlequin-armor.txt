@@ -1,0 +1,14 @@
+Harlequin Armor [0x7448]
+"{equip.A_festive_piece_of_armor,_complete_with_bells._Try_not_to_g}"
+Untiered leather armor.
+
+Fame Bonus: 5%.
+
+While equipped:
++14 Defense.
++3 Speed.
++5 Wisdom.
++80 Maximum MP.
+
+Drops from:
+Puppet Loot Chest: 1.0% (1/100) chance.

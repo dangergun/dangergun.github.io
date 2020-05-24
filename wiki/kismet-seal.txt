@@ -1,0 +1,18 @@
+Kismet Seal [0x5093]
+"A legendary seal that emits a dim but pure light, granted only to souls deemed by the Gods to be fated to salvage the Realm."
+Fabled tier seal.
+
+MP Cost: 110.
+Cooldown: 2.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+Party Effect: Damaging for 6 seconds within 4.5 tiles. Centered around the player.
+Party Effect: Healing for 3 seconds within 4.5 tiles. Centered around the player.
+Party effect: Armored for 3 seconds within 4.5 tiles. Does not use wis mod.
+Party effect: Within 4.5 tiles, +100 Maximum MP for 6 seconds. Uses wis mod.
+
+While equipped:
++60 Maximum HP.
+
+Does not drop from enemies.

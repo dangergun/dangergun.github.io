@@ -1,0 +1,18 @@
+Banner of Revenge [0x6212]
+"The banner used to leave the mark of the fallen warrior that dared challenge the Eternal Beast."
+Fabled tier banner.
+
+MP Cost: 140.
+Cooldown: 8.0 seconds.
+Fame Bonus: 6%.
+
+When used:
+On self: Damaging for 3 seconds. Does not use wis mod.
+Party effect: Berserk for 3 seconds within 5 tiles. Does not use wis mod.
+Within 6 tiles, empowers allies for 5 seconds. Stays active for 5 seconds.
+
+While equipped:
++120 Maximum HP.
++8 Dexterity.
+
+Does not drop from enemies.

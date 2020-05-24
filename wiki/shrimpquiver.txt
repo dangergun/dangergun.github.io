@@ -1,0 +1,18 @@
+ShrimpQuiver [0x219]
+" Crafted from the shells of the Hermit God and its minions, oddly enough it makes a good quiver. Thx to OppaLoopa"
+Untiered quiver.
+
+Does 75-125 damage.
+Range: 14.0 tiles.
+MP Cost: 20.
+Cooldown: 0.5 seconds.
+Fame Bonus: 5%.
+
+While equipped:
++2 Wisdom.
++4 Defense.
+-2 Dexterity.
+-4 Speed.
+
+Drops from:
+Thessal the Mermaid Goddess: 4.0% (1/25) chance.

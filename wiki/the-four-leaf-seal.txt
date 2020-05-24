@@ -1,0 +1,19 @@
+The Four-Leaf Seal [0x211]
+"They're after me lucky charms!"
+Untiered seal.
+
+MP Cost: 95.
+Cooldown: 6.0 seconds.
+Fame Bonus: 4%.
+
+When used:
+On self: Speedy for 4 seconds. Does not use wis mod.
+Party effect: Damaging for 5 seconds within 4 tiles. Uses wis mod.
+
+While equipped:
++4 Fortune.
+
+Drops from:
+Lucky Djinn: 2.0% (1/50) chance.
+Lucky Ent God: 2.0% (1/50) chance.
+Puppet Loot Chest: 2.0% (1/50) chance.

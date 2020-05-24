@@ -1,0 +1,9 @@
+Sanctum Key [0x7296]
+"Enter at your own risk."
+Untiered consumable.
+
+When used:
+Creates a Oryx's Sanctum Portal.
+
+Drops from:
+Oryx the Mad God 2: 2.0% (1/50) chance.

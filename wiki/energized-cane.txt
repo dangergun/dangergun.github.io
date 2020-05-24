@@ -1,0 +1,21 @@
+Energized Cane [0x45d3]
+"Charged by the heavens above."
+Sacred tier staff.
+
+Does 200-230 damage.
+130% rate of fire.
+Shoots 1 projectile.
+Range: 7.8 tiles.
+Shots have an amplitude of 0.25 and a frequency of 1.
+Shots hit multiple targets.
+Fame Bonus: 8%.
+
+While equipped:
++100 Maximum MP.
++8 Defense.
++80 Maximum HP.
+
+Arcane Grace: On ability use, 7% chance to not use any mana. Stackable.
+
+Drops from:
+Riv the Heavenly Champion: 0.2% (1/500) chance.

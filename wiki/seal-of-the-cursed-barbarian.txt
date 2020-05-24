@@ -1,0 +1,15 @@
+Seal of the Cursed Barbarian [0x7340]
+"A seal gifted to those who gave their lives during the war in an attempt to raise them from their corpses, granting eternal life in damnation"
+Untiered seal.
+
+MP Cost: 100.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Enemy Effect: Curse for 4 seconds within 5 tiles. Centered around the player.
+Party effect: Armored for 6 seconds within 6.25 tiles. Does not use wis mod.
+Party effect: Damaging for 6 seconds within 6.25 tiles. Does not use wis mod.
+
+Drops from:
+Akeldama, the Disciple of Oryx: 0.5% (1/200) chance.

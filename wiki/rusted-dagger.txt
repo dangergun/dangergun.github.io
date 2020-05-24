@@ -1,0 +1,13 @@
+Rusted Dagger [0x7303]
+"A rusty Dagger radiating immense power from within, why don't you forge it at the anvil with  a Sacred Essence at the blacksmith to repair it!"
+Rusted tier consumable.
+
+Drops from:
+AH Heart Loot Ctrl: 0.025% (1/4000) chance.
+AH ULTRA Heart Loot Ctrl: 0.05% (1/2000) chance.
+Construct of the Storm: 0.05% (1/2000) chance.
+Davy Jones: 0.05% (1/2000) chance.
+Iegon the Weather God: 0.05% (1/2000) chance.
+Limon the Sprite God: 0.05% (1/2000) chance.
+UNP Servant of the Dark Knight: 0.05% (1/2000) chance.
+UNP The Dark Knight: 0.05% (1/2000) chance.

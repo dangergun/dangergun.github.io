@@ -1,0 +1,13 @@
+Ring of the Pyramid [0xba2]
+"{equip.The_dolomite_stone_makes_you_feel_able_to_stand_against_any}"
+Untiered accessory.
+
+Fame Bonus: 5%.
+
+While equipped:
++130 Maximum HP.
++6 Attack.
++6 Defense.
+
+Drops from:
+Tomb Defender: 5.0% (1/20) chance.

@@ -1,0 +1,19 @@
+Candy-Coated Armor [0xc61]
+"{equip.Reinforced_with_magical_hard_candy_from_the_candy_forest._S}"
+Untiered heavy armor.
+
+Fame Bonus: 4%.
+
+While equipped:
++35 Defense.
++40 Protection.
++8 Vitality.
+-4 Dexterity.
+-6 Speed.
+
+Drops from:
+Desire Troll: 1.0% (1/100) chance.
+Gigacorn: 1.0% (1/100) chance.
+MegaRototo: 1.0% (1/100) chance.
+Spoiled Creampuff: 1.0% (1/100) chance.
+Swoll Fairy: 1.0% (1/100) chance.

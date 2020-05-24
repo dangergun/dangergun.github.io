@@ -1,0 +1,14 @@
+An Alien's Blessing [0x54b6]
+"Legend says this ring first came to earth through a human sphincter after a faulty anal probing."
+Legendary tier accessory.
+
+Fame Bonus: 8%.
+
+While equipped:
++10 Dexterity.
++10 Speed.
++15 Defense.
++300 Maximum MP.
++5 Attack.
+
+Does not drop from enemies.

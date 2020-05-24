@@ -1,0 +1,27 @@
+Devil's Snare Trap [0x7188]
+"There's only one way you're gonna catch the devil, and let's be honest, it won't be a pretty sight..."
+Sacred tier trap.
+
+MP Cost: 130.
+Cooldown: 4.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+Trap: 1250 damage within 4 tiles.
+On enemies: Paralyzed for 3 seconds.
+Throw time: 2 seconds.
+Trap: 1900 damage within 2 tiles.
+On enemies: Stunned for 2 seconds.
+Throw time: 3 seconds.
+Trap: 750 damage within 6 tiles.
+On enemies: Slowed for 5 seconds.
+Throw time: 1 second.
+
+While equipped:
++5 Dexterity.
+-10 Wisdom.
+-5 Speed.
+
+Galactic Valor: All status effect durations are increased by 5%. Stackable.
+
+Does not drop from enemies.

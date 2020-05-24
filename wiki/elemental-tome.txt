@@ -1,0 +1,19 @@
+Elemental Tome [0x1462]
+"A holy tome of elemental prayers."
+Untiered tome.
+
+MP Cost: 85.
+Cooldown: 0.5 seconds.
+
+When used:
+Heals 1000 HP within 2.5 tiles. Does not use wis mod.
+Party effect: Healing for 4 seconds within 5 tiles. Uses wis mod.
+Removes negative condition effects from self.
+
+While equipped:
++80 Maximum MP.
+-4 Dexterity.
+
+Drops from:
+Urios Test Chest: 4.0% (1/25) chance.
+Urios, God of Elements: 2.0% (1/50) chance.

@@ -1,0 +1,20 @@
+Gem of True Eminence [0x511a]
+"Shrouded with many mysteries, this prism is said to be the essence of everything that is imperceptible. "
+Legendary tier prism.
+
+MP Cost: 140.
+Cooldown: 6.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+Creates a decoy that lasts for 6.25 seconds.
+On self: Invisible for 6 seconds. Does not use wis mod.
+On self: Invulnerable for 2.4 seconds. Does not use wis mod.
+Teleports the player to the cursor, with a maximum distance of 20 tiles.
+
+While equipped:
++100 Maximum HP.
++4 Speed.
++8 Defense.
+
+Does not drop from enemies.

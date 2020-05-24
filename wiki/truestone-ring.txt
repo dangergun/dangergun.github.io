@@ -1,0 +1,13 @@
+Truestone Ring [0x6182]
+"A ring created from Truestone."
+Untiered accessory.
+
+While equipped:
++180 Maximum MP.
++2 Defense.
++35 Protection.
++8 Dexterity.
+Grants Surged after 120 seconds.
+
+Drops from:
+Truvix, the Lord Wanderer: 2.0% (1/50) chance.

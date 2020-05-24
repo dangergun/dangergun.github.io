@@ -1,0 +1,18 @@
+Book of Burning Souls [0x61d2]
+"This tome is forged from the souls of hell's rejects in order to bring revenge upon the underworld."
+Legendary tier tome.
+
+MP Cost: 50.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Sick for 3 seconds. Does not use wis mod.
+Party effect: Armored for 3 seconds within 6 tiles. Uses wis mod.
+
+While equipped:
++25% Attack.
+
+True Inferno: Using this ability explodes and burns enemies in a radius of 4 squares around you. This explosion does 8000 damage over 8 seconds.
+
+Does not drop from enemies.

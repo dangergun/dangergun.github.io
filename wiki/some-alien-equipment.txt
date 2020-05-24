@@ -1,0 +1,13 @@
+Some Alien Equipment [0x48c3]
+"Equipment that the Overseer uses to keep the blasters shiny and clean."
+Untiered consumable.
+This item is soulbound.
+
+When used:
+Grants the player 125 gold.
+
+Can be used to obtain 125 gold.
+
+Drops from:
+The Alien King: 75.0% chance.
+The Overseer: 50.0% chance.

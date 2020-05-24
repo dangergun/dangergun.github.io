@@ -1,0 +1,15 @@
+Bloodshed Ring [0x5472]
+"A seemingly shattered ring that keeps itself together with an unknown magnetic force. It only stays together on the finger of a true killer."
+Legendary tier accessory.
+
+Fame Bonus: 8%.
+
+While equipped:
++150 Maximum HP.
++20 Defense.
++50 Wisdom.
+-5 Dexterity.
+
+Cultist's Ritual: For every 5 Defense you have, gain 1 Wisdom.
+
+Does not drop from enemies.

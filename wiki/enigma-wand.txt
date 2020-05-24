@@ -1,0 +1,15 @@
+Enigma Wand [0x45a1]
+"A mystery that will never be solved."
+Fabled tier wand.
+
+Does 105-160 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 13.4 tiles.
+Shots hit multiple targets.
+Fame Bonus: 8%.
+
+While equipped:
++140 Maximum MP.
+
+Does not drop from enemies.

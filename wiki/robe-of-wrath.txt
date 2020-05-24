@@ -1,0 +1,14 @@
+Robe of Wrath [0x542c]
+"Evil and malicious..."
+Untiered robe.
+
+Fame Bonus: 6%.
+
+While equipped:
++10 Attack.
++6 Defense.
++60 Maximum HP.
++8 Vitality.
+
+Drops from:
+AH Secret Chest: 25.0% (1/4) chance.

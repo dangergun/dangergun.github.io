@@ -1,0 +1,13 @@
+Crystal Sword [0xa03]
+"{equip.A_lightweight_blade_that_seems_to_dance_in_your_hands.}"
+Untiered sword.
+
+Does 300 damage.
+85% rate of fire.
+Shoots 1 projectile.
+Range: 5.0 tiles.
+Fame Bonus: 3%.
+
+Drops from:
+Asylum Wizzard: 15.0% (1/6) chance.
+Crystal Prisoner: 1.0% (1/100) chance.

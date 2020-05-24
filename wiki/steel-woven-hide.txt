@@ -1,0 +1,15 @@
+Steel-Woven Hide [0x46d5]
+"Power surged between worlds, and over time formed this armor which provides its user with robust energy."
+Legendary tier leather armor.
+
+Fame Bonus: 8%.
+
+While equipped:
++20 Protection.
++200 Maximum HP.
++25 Defense.
++25 Wisdom.
+
+Persistance: You can't be armor broken if your health is lower than 75%.
+
+Does not drop from enemies.

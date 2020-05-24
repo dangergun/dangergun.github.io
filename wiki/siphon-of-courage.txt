@@ -1,0 +1,24 @@
+Siphon of Courage [0x52c4]
+"A siphon used for the greater good. Only the brave can harness the power of this siphon."
+Untiered siphon.
+
+MP Cost: 20.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Siphon Radius: 5 tiles.
+Base Damage: 500.
+Mana Recovery: 6 seconds.
+While ability key is held, drains 50 hp/second.
+When ability key is released, damages enemies based on health drained, current mana, wisdom stat, and this item's base damage.
+
+While equipped:
++240 Maximum MP.
++4 Defense.
++8 Vitality.
+
++2 Life Steal.
+
+Drops from:
+AB The Dark Sorcerer: 5.0% (1/20) chance.

@@ -1,0 +1,18 @@
+Earthbound Lance [0x53d5]
+"Mother nature's lance."
+Untiered lance.
+
+Does 75-220 damage.
+120% rate of fire.
+Shoots 2 projectiles at a 10.0 degree angle.
+Range: 7.99 tiles.
+Shots hit multiple targets.
+Fame Bonus: 6%.
+
+While equipped:
++10 Defense.
+-5 Attack.
+
+Drops from:
+Urios Test Chest: 4.0% (1/25) chance.
+Urios, God of Elements: 2.0% (1/50) chance.

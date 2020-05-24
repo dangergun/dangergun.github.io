@@ -1,0 +1,11 @@
+Snake Eye Ring [0xa41]
+"{equip.A_ring_made_from_the_eye_of_the_Snake_Queen.}"
+Untiered accessory.
+
+While equipped:
++3 Attack.
++3 Speed.
+
+Drops from:
+Snakepit Guard: 10.0% (1/10) chance.
+Stheno the Snake Queen: 10.0% (1/10) chance.

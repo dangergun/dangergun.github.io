@@ -1,0 +1,19 @@
+Temper Orb [0x1578]
+"A violent orb, this item will create massive devastation upon it's opponents. The bearer may not be able to escape it's power, or will his allies."
+Untiered orb.
+
+MP Cost: 80.
+Cooldown: 5.0 seconds.
+Fame Bonus: 6%.
+
+When used:
+Enemy Effect: Curse for 4.0 seconds within 5 tiles. Centered around the player's cursor.
+On self: Speedy for 4 seconds. Does not use wis mod.
+Party effect: Armored for 2.0 seconds within 2.0 tiles. Does not use wis mod.
+
+While equipped:
++5 Speed.
++70 Maximum HP.
+
+Drops from:
+Galleom of Time: 6.0% (1/16) chance.

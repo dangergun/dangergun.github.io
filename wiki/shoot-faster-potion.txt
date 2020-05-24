@@ -1,0 +1,10 @@
+Shoot Faster Potion [0x47b8]
+"That moment when you can't think of a name."
+Untiered consumable.
+
+When used:
+On self: Berserk for 3 seconds. Does not use wis mod.
+
+Drops from:
+AB Secret Chest: 80.0% chance.
+AB The Dark Sorcerer: 80.0% chance.

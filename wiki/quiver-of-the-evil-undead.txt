@@ -1,0 +1,20 @@
+Quiver of the Evil Undead [0x7345]
+"Loaded with enough quiver to take down an army, ever replenishing and always hungry for another corpse."
+Untiered quiver.
+
+Does 200-275 damage.
+Range: 12.0 tiles.
+Shots pass through obstacles.
+MP Cost: 100.
+Cooldown: 1.0 seconds.
+Fame Bonus: 6%.
+
+While equipped:
++20 Luck.
++5 Dexterity.
++5 Speed.
+-5 Defense.
+-60 Maximum HP.
+
+Drops from:
+Oryx Defense System: 0.5% (1/200) chance.

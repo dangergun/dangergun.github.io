@@ -1,0 +1,22 @@
+Omnipotence Ring [0x5470]
+"An unfathomable amount of strength pulses through this ring. Only the most righteous mortals can touch this ring and live."
+Godslayer tier accessory.
+
+Fame Bonus: 10%.
+
+While equipped:
++14 Attack.
++14 Defense.
++14 Dexterity.
++14 Speed.
++14 Vitality.
++14 Wisdom.
++140 Maximum HP.
++140 Maximum MP.
+
++2 Life Steal.
++2 Mana Leech.
+
+Equilibrium: For every Legendary you have equipped, gain 10% of all stats (Stacks up to 30% per Legendary).
+
+Does not drop from enemies.

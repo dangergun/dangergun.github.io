@@ -1,0 +1,18 @@
+Guardian Necklace [0x7136]
+"A necklace stripped down from old deus granting the wearer the powers of a demi-god."
+Sacred tier accessory.
+
+Fame Bonus: 8%.
+
+While equipped:
++10 Restoration.
++420 Maximum HP.
++50 Vitality.
+-10 Wisdom.
+-120 Maximum MP.
+-4 Attack.
+-4 Dexterity.
+
+Enhanced Growth: Health regeneration is increased by 10% and maximum health is increased by 5%. Stackable.
+
+Does not drop from enemies.

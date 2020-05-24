@@ -1,0 +1,12 @@
+Platemail of the Stalwart [0x42fa]
+"An armor made from the strongest metals in order to defend its wearer from harm."
+Legendary tier heavy armor.
+
+Fame Bonus: 8%.
+
+While equipped:
++45 Defense.
++60 Maximum HP.
++75 Protection.
+
+Does not drop from enemies.

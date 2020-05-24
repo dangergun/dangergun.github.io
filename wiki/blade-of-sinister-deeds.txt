@@ -1,0 +1,19 @@
+Blade of Sinister Deeds [0x7324]
+"A demonic blade infused with a sinister power. The blade is said to grow in power as it collects souls of the warrior's enemies."
+Untiered sword.
+
+Does 365 damage.
+90% rate of fire.
+Shoots 1 projectile.
+Range: 3.83 tiles.
+Shots have an amplitude of 0.8 and a frequency of 0.
+Shots pass through obstacles.
+Shots ignore defense.
+Fame Bonus: 6%.
+
+While equipped:
++5 Defense.
++8 Vitality.
+
+Drops from:
+Oryx Defense System: 0.5% (1/200) chance.

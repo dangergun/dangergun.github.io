@@ -1,0 +1,12 @@
+Unlimited AK47 [0x43b6]
+"Blrt!"
+Untiered bow.
+
+Does 300-325 damage.
+150% rate of fire.
+Shoots 1 projectile.
+Range: 9.0 tiles.
+Fame Bonus: 1%.
+
+Drops from:
+Big Turkey God: 0.05% (1/2000) chance.

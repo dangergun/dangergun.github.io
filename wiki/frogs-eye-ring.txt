@@ -1,0 +1,14 @@
+Frog's Eye Ring [0x245]
+"Obtaining this ring reminded you of your youth, back when you still did biology in school."
+Untiered accessory.
+
+Fame Bonus: 4%.
+
+While equipped:
++75 Maximum HP.
++75 Maximum MP.
++8 Wisdom.
+-5 Vitality.
+
+Drops from:
+Murderous Megamoth: 2.0% (1/50) chance.

@@ -1,0 +1,18 @@
+Ring of the Seven Seas [0x5866]
+"Allow the works of poseidon to heal you and strengthen your power to fight."
+Godly tier accessory.
+
+Fame Bonus: 6%.
+
+While equipped:
++100 Maximum MP.
++150 Maximum HP.
++7 Attack.
++7 Dexterity.
+
++2 Mana Leech.
+
+Drops from:
+Djinn: 0.0004% (1/250000) chance.
+Frost Knight: 0.0004% (1/250000) chance.
+Leviathan: 0.0004% (1/250000) chance.

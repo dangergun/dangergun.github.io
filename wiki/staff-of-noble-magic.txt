@@ -1,0 +1,18 @@
+Staff of Noble Magic [0x218]
+" This weapon was crafted in the forges of the heavenly castle."
+Untiered staff.
+
+Does 70-100 damage.
+110% rate of fire.
+Shoots 2 projectiles at a 0.0 degree angle.
+Range: 8.79 tiles.
+Shots have an amplitude of 0.5 and a frequency of 2.
+Fame Bonus: 5%.
+
+While equipped:
++5 Defense.
++5 Speed.
++5 Wisdom.
+
+Drops from:
+Riv the Heavenly Champion: 6.0% (1/16) chance.

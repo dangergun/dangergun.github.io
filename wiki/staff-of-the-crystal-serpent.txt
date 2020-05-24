@@ -1,0 +1,13 @@
+Staff of the Crystal Serpent [0xc15]
+"{equip.An_ancient_staff_used_both_for_sacrifice_and_communion_with}"
+Untiered staff.
+
+Does 60-70 damage.
+110% rate of fire.
+Shoots 2 projectiles at a 0.0 degree angle.
+Range: 9.0 tiles.
+Shots have an amplitude of 0.5 and a frequency of 2.
+Fame Bonus: 2%.
+
+Drops from:
+Mixcoatl the Masked God: 10.0% (1/10) chance.

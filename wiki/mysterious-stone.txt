@@ -1,0 +1,16 @@
+Mysterious Stone [0x5155]
+"Nobody knows where this stone comes from, but they do know that it grants the holder immeasurable power, akin to god. Perhaps this was a gift from the Dark Shadow..."
+Untiered accessory.
+
+Fame Bonus: 6%.
+
+While equipped:
++10 Defense.
++12 Vitality.
++225 Maximum HP.
+-6 Attack.
+-6 Dexterity.
+-60 Maximum MP.
+
+Drops from:
+shtrs Defense System: 2.0% (1/50) chance.

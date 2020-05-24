@@ -1,0 +1,22 @@
+Lucifer's Demise [0x7138]
+"The fallen helm of a mythical tyrant found within the depths of hell, it is said you can hear his calls."
+Sacred tier helm.
+
+MP Cost: 85.
+Cooldown: 5.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Speedy for 4 seconds. Does not use wis mod.
+Party effect: Armored for 4 seconds within 5 tiles. Does not use wis mod.
+Party effect: Berserk for 3 seconds within 5 tiles. Does not use wis mod.
+Party effect: Healing for 4 seconds within 5 tiles. Does not use wis mod.
+
+While equipped:
++10 Vitality.
++100 Maximum HP.
+-6 Wisdom.
+
+Enhanced Growth: Health regeneration is increased by 10% and maximum health is increased by 5%. Stackable.
+
+Does not drop from enemies.

@@ -1,0 +1,16 @@
+Unholy Quiver [0x772f]
+"Hordes of Unholy archers came in the thousands, destroying all from a distance with poisoned arrows"
+Untiered quiver.
+
+Does 375-425 damage.
+Range: 15.0 tiles.
+MP Cost: 120.
+Cooldown: 6.0 seconds.
+Fame Bonus: 6%.
+
+While equipped:
++2 Wisdom.
++5 Attack.
+
+Drops from:
+Lord Ruthven: 0.2% (1/500) chance.

@@ -1,0 +1,15 @@
+Ring of the Hidden Temple [0x169b]
+"A ring of made of ancient stone which holds a gemstone that is said to grant much power."
+Untiered accessory.
+This item is soulbound.
+
+Fame Bonus: 6%.
+
+While equipped:
++100 Maximum MP.
++2 Wisdom.
++5 Defense.
++5 Speed.
+
+Drops from:
+Anubis Test Chest: 5.0% (1/20) chance.

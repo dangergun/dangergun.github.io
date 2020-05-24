@@ -1,0 +1,13 @@
+Leaf Bow [0xcde]
+"{equip.Why_donAPOSt_you_try_throwing_a_leaf?}"
+Untiered bow.
+
+Does 105-140 damage.
+150% rate of fire.
+Shoots 1 projectile.
+Range: 6.3 tiles.
+Shots are wavy.
+Fame Bonus: 4%.
+
+Drops from:
+Murderous Megamoth: 2.0% (1/50) chance.

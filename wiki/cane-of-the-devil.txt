@@ -1,0 +1,17 @@
+Cane of the Devil [0x7103]
+"Everyone needs a weapon during a fight, but not all weapons should be handed down to the mortals..."
+Sacred tier staff.
+
+Does 595-2200 damage.
+33% rate of fire.
+Shoots 1 projectile.
+Range: 7.5 tiles.
+Shots have an amplitude of 0.6 and a frequency of 1.
+Fame Bonus: 7%.
+
+While equipped:
++5 Speed.
+
+Collector's Edition: All stats are increased by 0.65% per sacred item in inventory. Stackable.
+
+Does not drop from enemies.

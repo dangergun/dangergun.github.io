@@ -1,0 +1,22 @@
+Rusted Ancient Shield [0x7199]
+"A rusty shield found concealed within a desert temple beneath the sand rusting away it's true colours."
+Sacred tier shield.
+
+Does 650 damage.
+Range: 4.0 tiles.
+Shots have an amplitude of 0.4 and a frequency of 1.
+Shots hit multiple targets.
+Shots pass through obstacles.
+MP Cost: 120.
+Cooldown: 5.0 seconds.
+Fame Bonus: 6%.
+
+While equipped:
++100 Maximum MP.
++5 Dexterity.
+
++2 Mana Leech.
+
+Adrenaline Rush: On hit, 8% chance to ignore incoming damage. Stackable.
+
+Does not drop from enemies.

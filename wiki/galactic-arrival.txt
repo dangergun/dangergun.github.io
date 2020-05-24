@@ -1,0 +1,25 @@
+Galactic Arrival [0x7092]
+"An orb given to the people of the realm upon their arrival, seemingly watching our every move."
+Sacred tier orb.
+
+MP Cost: 110.
+Cooldown: 5.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+Enemy Effect: Dazed for 6 seconds within 6 tiles. Centered around the player's cursor.
+Enemy Effect: Slowed for 6 seconds within 6 tiles. Centered around the player's cursor.
+Enemy effect: Within 3 tiles of the player's cursor, Stasis for 3.5 seconds.
+On self: Armored for 5 seconds. Uses wis mod.
+On self: Speedy for 4 seconds. Uses wis mod.
+
+While equipped:
++6 Defense.
++6 Dexterity.
++8 Speed.
+-40 Maximum HP.
+-5 Wisdom.
+
+Galactic Valor: All status effect durations are increased by 5%. Stackable.
+
+Does not drop from enemies.

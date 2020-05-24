@@ -1,0 +1,17 @@
+Cloak of Vivacity [0x1619]
+"Formed from the inner soul and from down earth even its aura of meaning will not only create a vast fog but will destroy your spirit."
+Legendary tier cloak.
+
+MP Cost: 200.
+Cooldown: 8.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+Party effect: Invisible for 3 seconds within 4 tiles. Does not use wis mod.
+
+While equipped:
++12 Speed.
++160 Maximum MP.
++40 Maximum HP.
+
+Does not drop from enemies.

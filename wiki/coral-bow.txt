@@ -1,0 +1,14 @@
+Coral Bow [0xc10]
+"{equip.A_bow_fashioned_from_living_coral_found_in_only_the_deepest}"
+Untiered bow.
+
+Does 100-125 damage.
+130% rate of fire.
+Shoots 2 projectiles at a 0.0 degree angle.
+Range: 7.77 tiles.
+Shots hit multiple targets.
+Fame Bonus: 6%.
+
+Drops from:
+Coral Gift: 2.0% (1/50) chance.
+Thessal the Mermaid Goddess: 4.0% (1/25) chance.

@@ -1,0 +1,18 @@
+Toxin of the Vicious [0x6210]
+"A rare venom that could corrode a Sor Crystal."
+Fabled tier poison.
+
+MP Cost: 90.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Poison Grenade:
+After 2 seconds, 700 impact damage + 1000 damage over 6 seconds. Uses wis mod.
+
+While equipped:
++10 Attack.
++15 Dexterity.
+-5 Speed.
+
+Does not drop from enemies.

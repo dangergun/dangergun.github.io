@@ -1,0 +1,21 @@
+Staff of Corrupt Demons [0x7102]
+"Everyone needs a weapon during a fight, but not all weapons should be handed down to the mortals..."
+Sacred tier staff.
+
+Does 80-125 damage.
+80% rate of fire.
+Shoots 5 projectiles at a 7.0 degree angle.
+Range: 6.51 tiles.
+Shots have an amplitude of 0.15 and a frequency of 1.
+Shots pass through obstacles.
+Fame Bonus: 8%.
+
+While equipped:
++15 Vitality.
++75 Maximum HP.
+
++2 Life Steal.
+
+Runic Defense: On hit, 8% chance to trigger an AOE heal for the taken damage with a 4 tile radius. Stackable.
+
+Does not drop from enemies.

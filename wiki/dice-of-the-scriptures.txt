@@ -1,0 +1,18 @@
+Dice of the Scriptures [0x7183]
+"A dice imbued with the power written in the ancient Aldridge language leaving it's tale, a mystery left to unfold."
+Sacred tier dice.
+
+MP Cost: 90.
+Cooldown: 3.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+Grants Dazed, Damaging, or Berserk for 6 seconds.
+On self: Bravery for 3 seconds. Does not use wis mod.
+
+While equipped:
++50 Luck.
+
+Galactic Valor: All status effect durations are increased by 5%. Stackable.
+
+Does not drop from enemies.

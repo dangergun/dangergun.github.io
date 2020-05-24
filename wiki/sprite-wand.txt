@@ -1,0 +1,14 @@
+Sprite Wand [0xa4b]
+"{equip.A_wand_created_from_the_wood_of_Sprite_trees._Seems_to_be_p}"
+Untiered wand.
+This item is soulbound.
+
+Does 5-210 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 9.0 tiles.
+Shots have an amplitude of 1.0 and a frequency of 1.
+
+Drops from:
+Limon the Sprite God: 30.0% (1/3) chance.
+Native Nature Sprite: 5.0% (1/20) chance.

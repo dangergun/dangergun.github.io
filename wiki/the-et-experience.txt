@@ -1,0 +1,16 @@
+The ET Experience [0x48c9]
+"You even feel like an alien!"
+Untiered bow.
+
+Does 200-266 damage.
+130% rate of fire.
+Shoots 1 projectile.
+Range: 9.0 tiles.
+Fame Bonus: 6%.
+
+While equipped:
++20 Maximum MP.
++80 Maximum HP.
+
+Drops from:
+The Alien King: 1.0% (1/100) chance.

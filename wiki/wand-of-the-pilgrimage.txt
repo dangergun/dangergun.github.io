@@ -1,0 +1,15 @@
+Wand of the Pilgrimage [0x7908]
+"A wand forgotten from the ages. Whomever it may belong to, we may never know. It's mysterious power lies within it's forgotten history."
+Untiered wand.
+This item is soulbound.
+
+Does 120-195 damage.
+75% rate of fire.
+Shoots 3 projectiles at a 9.0 degree angle.
+Range: 7.18 tiles.
+Shots have an amplitude of 0.5 and a frequency of 2.
+Shots hit multiple targets.
+Fame Bonus: 4%.
+
+Drops from:
+Big Turkey God: 0.05% (1/2000) chance.

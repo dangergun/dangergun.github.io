@@ -1,0 +1,16 @@
+Grasp of Elysium [0x43a2]
+"Become a machine of the heavens, and strike down the unholy!"
+Legendary tier dagger.
+
+Does 150-180 damage.
+140% rate of fire.
+Shoots 2 projectiles at a 20.0 degree angle.
+Range: 5.88 tiles.
+Shots are wavy.
+Fame Bonus: 8%.
+
+While equipped:
+-20 Restoration.
+-60 Maximum HP.
+
+Does not drop from enemies.

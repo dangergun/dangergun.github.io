@@ -1,0 +1,18 @@
+Helm of the Macrotitans [0x1638]
+"A striking helm built by messengers of the underworld, its design amplifies the wielder's shouts tremendously."
+Untiered helm.
+
+MP Cost: 80.
+Cooldown: 7.0 seconds.
+Fame Bonus: 5%.
+
+When used:
+On self: Healing for 2.8 seconds. Does not use wis mod.
+Party effect: Berserk for 7 seconds within 10 tiles. Does not use wis mod.
+
+While equipped:
++2 Dexterity.
++9 Defense.
+
+Drops from:
+Ogla, the Giant God: 4.0% (1/25) chance.

@@ -1,0 +1,18 @@
+Greater Potion of Speed [0x236a]
+"{equip.A_potion_that_permanently_increases_speed.}"
+Untiered consumable.
+
+When used:
+Permanently increases Speed by 4.
+
+Drops from:
+Elemental Phantom: 100.0% chance.
+Jon Bilgewater the Pirate King: 50.0% chance.
+Lord Stone Gargoyle: 20.0% (1/5) chance.
+Lucky Djinn: 100.0% chance.
+Lucky Ent God: 100.0% chance.
+Oryx the Mad God 1: 60.0% chance.
+Oryx the Mad God 2: 50.0% chance.
+Riv the Heavenly Champion: 60.0% chance.
+True Somnus, the Dream Entity: 100.0% chance.
+Yazanahar: 40.0% chance.

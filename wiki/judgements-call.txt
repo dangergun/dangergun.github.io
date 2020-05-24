@@ -1,0 +1,21 @@
+Judgement's Call [0x1483]
+"A prism made to decimate the users enemies, leaving no margin of error. "
+Legendary tier prism.
+
+MP Cost: 110.
+Cooldown: 1.1 seconds.
+Fame Bonus: 8%.
+
+When used:
+Creates a decoy that lasts for 7 seconds.
+Enemy Effect: Curse for 7 seconds within 3.5 tiles. Centered around the player.
+Enemy Effect: Slowed for 7 seconds within 2.5 tiles. Centered around the player.
+On self: Berserk for 7 seconds. Does not use wis mod.
+Teleports the player to the cursor, with a maximum distance of 20 tiles.
+
+While equipped:
++11 Wisdom.
++7 Attack.
++7 Vitality.
+
+Does not drop from enemies.

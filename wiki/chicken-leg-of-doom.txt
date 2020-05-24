@@ -1,0 +1,12 @@
+Chicken Leg of Doom [0xb21]
+"{equip.A_chicken_leg_of_doom.}"
+Untiered dagger.
+
+Does 65-105 damage.
+90% rate of fire.
+Shoots 1 projectile.
+Range: 6.0 tiles.
+Fame Bonus: 4%.
+
+Drops from:
+TestChicken 2: 1.0% (1/100) chance.

@@ -1,0 +1,22 @@
+Prism of Mirrors [0x6120]
+"A prism constructed in ancient times, its endless reflections predict the user’s demise."
+Legendary tier prism.
+
+MP Cost: 100.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+Creates a decoy that lasts for 3 seconds.
+On self: Damaging for 1 second. Does not use wis mod.
+On self: Speedy for 2 seconds. Does not use wis mod.
+Teleports the player to the cursor, with a maximum distance of 20 tiles.
+
+While equipped:
++10 Protection.
++20 Restoration.
++8 Dexterity.
+
+Dimensional Assault: If you have over 10 surge when you use this ability you do not lose any mana.
+
+Does not drop from enemies.

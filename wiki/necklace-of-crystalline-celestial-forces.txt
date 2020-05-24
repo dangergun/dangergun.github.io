@@ -1,0 +1,14 @@
+Necklace of Crystalline Celestial Forces [0x215]
+" The power of the crystal will light the way for all to live under eternal harmony. Thx to BLOODQWEN"
+Untiered accessory.
+
+Fame Bonus: 5%.
+
+While equipped:
++40 Maximum HP.
++40 Maximum MP.
++5 Speed.
++5 Wisdom.
+
+Drops from:
+Riv the Heavenly Champion: 5.0% (1/20) chance.

@@ -1,0 +1,5 @@
+Rusted Scepter [0x7221]
+"A rusty Scepter radiating immense power from within, why don't you forge it at the anvil with  a Sacred Essence at the blacksmith to repair it!"
+Rusted tier consumable.
+
+Does not drop from enemies.

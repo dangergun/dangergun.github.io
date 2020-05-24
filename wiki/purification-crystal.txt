@@ -1,0 +1,8 @@
+Purification Crystal [0x6801]
+"A diamond prism charged with unknown power."
+Legendary tier consumable.
+
+When used:
+Removes negative condition effects from self.
+
+Does not drop from enemies.

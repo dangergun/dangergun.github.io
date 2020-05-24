@@ -1,0 +1,14 @@
+Snake Skin Armor [0xa3e]
+"{equip.A_tight_fitting_garment_of_snake_skin_that_is_both_function}"
+Untiered leather armor.
+
+Fame Bonus: 1%.
+
+While equipped:
++11 Defense.
++3 Dexterity.
++3 Speed.
+
+Drops from:
+Snakepit Guard: 10.0% (1/10) chance.
+Stheno the Snake Queen: 10.0% (1/10) chance.

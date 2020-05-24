@@ -1,0 +1,14 @@
+Spectral Cloth Armor [0xc28]
+"{equip.A_ghostly_fabric_from_the_other_side.}"
+Untiered leather armor.
+
+Fame Bonus: 2%.
+
+While equipped:
++12 Speed.
++17 Defense.
++5 Attack.
++5 Dexterity.
+
+Drops from:
+Davy Jones: 5.0% (1/20) chance.

@@ -1,0 +1,17 @@
+Ultimate Onrane Cache [0x49e9]
+"A crate containing a large amount of Onrane."
+Untiered consumable.
+
+When used:
+Grants the player 12, 14, 16, 18, or 20 onrane.
+
+Drops from:
+AH Aldragine Loot Ctrl: 30.0% (1/3) chance.
+AH Aldragine: 15.0% (1/6) chance.
+AH ULTRA Aldragine Loot Ctrl: 33.0% (1/3) chance.
+AH ULTRA Aldragine: 30.0% (1/3) chance.
+Drannol, the Eternal Beast: 33.0% (1/3) chance.
+LH Marble Colossus: 30.0% (1/3) chance.
+LH Void Entity: 100.0% chance.
+True Somnus, the Dream Entity: 0.5% (1/200) chance.
+Ultra Drannol, the Eternal Beast: 40.0% chance.

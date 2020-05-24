@@ -1,0 +1,19 @@
+Eternal Deficit [0x6163]
+"A pair of blades longing to find another being as divine as themselves."
+Legendary tier blades.
+
+Does 175-200 damage.
+125% rate of fire.
+Shoots 2 projectiles at a 0.0 degree angle.
+Range: 5.76 tiles.
+Shots hit multiple targets.
+Shots are wavy.
+Fame Bonus: 8%.
+
+While equipped:
++10 Defense.
++10 Speed.
+
+Blademaster's Fury: Using your ability while being under half health will return 1 surge to your surge pool.
+
+Does not drop from enemies.

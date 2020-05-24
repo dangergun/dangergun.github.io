@@ -1,0 +1,19 @@
+Draketail Blade [0x5613]
+"A sharp dagger with the tail of a Drake attached to the bottom of the hilt."
+Untiered dagger.
+
+Does 110-135 damage.
+145% rate of fire.
+Shoots 1 projectile.
+Range: 5.6 tiles.
+Shots ignore defense.
+Shots are wavy.
+Fame Bonus: 6%.
+
+While equipped:
++10 Attack.
++8 Speed.
++8 Vitality.
+
+Drops from:
+Krokanich: 2.0% (1/50) chance.

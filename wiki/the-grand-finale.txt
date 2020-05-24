@@ -1,0 +1,20 @@
+The Grand Finale [0x44df]
+"A explosion of zol will be released on the use of the scepter."
+Fabled tier scepter.
+
+Does 20-40 damage.
+Range: 2.2 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+Shots are wavy.
+Shots boomerang.
+MP Cost: 100.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+While equipped:
++40 Maximum MP.
++6 Speed.
++8 Attack.
+
+Does not drop from enemies.

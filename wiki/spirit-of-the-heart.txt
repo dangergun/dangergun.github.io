@@ -1,0 +1,18 @@
+Spirit of the Heart [0x32d5]
+"You can kill once, but you can't die twice. ~ Nirux"
+Fabled tier staff.
+
+Does 120-220 damage.
+80% rate of fire.
+Shoots 2 projectiles at a 0.0 degree angle.
+Range: 9.0 tiles.
+Shots have an amplitude of 1.6 and a frequency of 2.
+Shots hit multiple targets.
+Shots boomerang.
+Fame Bonus: 8%.
+
+While equipped:
++2 Speed.
++4 Wisdom.
+
+Does not drop from enemies.

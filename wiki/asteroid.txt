@@ -1,0 +1,15 @@
+Asteroid [0x69db]
+"A ring crafted from space rock."
+Legendary tier accessory.
+
+Fame Bonus: 8%.
+
+While equipped:
++10 Vitality.
++10 Wisdom.
++20 Restoration.
++250 Maximum MP.
+
+Manabond: Having this item equipped restores 1/4th mana when using an ability.
+
+Does not drop from enemies.

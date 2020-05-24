@@ -1,0 +1,17 @@
+Death's Vow [0x6202]
+"A cursed charm that drains the energy from your soul but in return will send opposers to oblivion."
+Legendary tier charm.
+
+MP Cost: 130.
+Cooldown: 4.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+Spawns an offensive Torii.
+Within 6 tiles: Bleeding for 5 seconds.
+Disappears after 3 seconds.
+Trap: 400 damage within 3 tiles.
+On enemies: Curse for 3 seconds.
+Throw time: 1 second.
+
+Does not drop from enemies.

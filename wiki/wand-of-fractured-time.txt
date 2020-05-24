@@ -1,0 +1,13 @@
+Wand of Fractured Time [0x1650]
+"A wand built to help suture areas of riven time during the creation of the universe."
+Untiered wand.
+
+Does 120-140 damage.
+120% rate of fire.
+Shoots 1 projectile.
+Range: 13.8 tiles.
+Shots hit multiple targets.
+Fame Bonus: 6%.
+
+Drops from:
+AB The Dark Sorcerer: 10.0% (1/10) chance.

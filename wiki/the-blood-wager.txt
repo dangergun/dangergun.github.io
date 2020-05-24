@@ -1,0 +1,17 @@
+The Blood Wager [0x61d5]
+"Bloody dice used to swindle many hopeful victims."
+Legendary tier dice.
+
+MP Cost: 60.
+Cooldown: 3.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+Grants Weak, Bravery, or Damaging for 5 seconds.
+On self: Surged for 3.5 seconds. Does not use wis mod.
+
+While equipped:
++100 Luck.
+-25 Might.
+
+Does not drop from enemies.

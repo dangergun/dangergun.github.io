@@ -1,0 +1,12 @@
+Rusted Wand [0x7302]
+"A rusty Wand radiating immense power from within, why don't you forge it at the anvil with  a Sacred Essence at the blacksmith to repair it!"
+Rusted tier consumable.
+
+Drops from:
+AH Heart Loot Ctrl: 0.025% (1/4000) chance.
+AH ULTRA Heart Loot Ctrl: 0.05% (1/2000) chance.
+Horrific Creation: 0.05% (1/2000) chance.
+Lord Ruthven: 0.05% (1/2000) chance.
+Riv the Heavenly Champion: 0.05% (1/2000) chance.
+Snakepit Guard: 0.05% (1/2000) chance.
+Stheno the Snake Queen: 0.05% (1/2000) chance.

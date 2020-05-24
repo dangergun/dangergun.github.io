@@ -1,0 +1,12 @@
+Amulet of Granithia [0x67a2]
+"A gem plucked off of the crown of Granithia hung gracefully on a band of rock."
+Untiered accessory.
+
+While equipped:
++120 Maximum HP.
++20 Defense.
++4 Attack.
++4 Dexterity.
+
+Drops from:
+Granithia: 1.0% (1/100) chance.

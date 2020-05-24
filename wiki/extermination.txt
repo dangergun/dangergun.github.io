@@ -1,0 +1,22 @@
+Extermination [0x47ca]
+"Used to destroy everything in sight, this abilities power is unparalleled."
+Legendary tier spell.
+
+Does 300-360 damage.
+Range: 6.0 tiles.
+Shots hit multiple targets.
+Shots ignore defense.
+MP Cost: 125.
+Cooldown: 2.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Berserk for 2.5 seconds. Does not use wis mod.
+On self: Speedy for 3 seconds. Uses wis mod.
+Shoots 12 shots in a circle around the cursor.
+
+While equipped:
++15 Speed.
++8 Attack.
+
+Does not drop from enemies.

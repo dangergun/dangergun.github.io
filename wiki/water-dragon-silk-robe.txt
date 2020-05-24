@@ -1,0 +1,14 @@
+Water Dragon Silk Robe [0x7563]
+"{equip.A_magic_robe_woven_from_enchanted_threads_of_water_harveste}"
+Untiered robe.
+
+Fame Bonus: 5%.
+
+While equipped:
++12 Speed.
++15 Defense.
++5 Vitality.
++9 Attack.
+
+Drops from:
+lod Blue Loot Balloon: 2.0% (1/50) chance.

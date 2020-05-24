@@ -1,0 +1,23 @@
+Axe of Demise [0x7128]
+"An axe so weighted with sin and sorrow that only a mortal with no soul could bear to lift it."
+Sacred tier sword.
+
+Does 280-412 damage.
+154% rate of fire.
+Shoots 1 projectile.
+Range: 3.5 tiles.
+Shots hit multiple targets.
+Shots ignore defense.
+Shots boomerang.
+Fame Bonus: 8%.
+
+While equipped:
++120 Maximum HP.
++25 Vitality.
+-12 Wisdom.
+
++1 Life Steal.
+
+Adrenaline Rush: On hit, 8% chance to ignore incoming damage. Stackable.
+
+Does not drop from enemies.

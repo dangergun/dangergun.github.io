@@ -1,0 +1,18 @@
+Rusted Katana [0x7306]
+"A rusty Katana radiating immense power from within, why don't you forge it at the anvil with  a Sacred Essence at the blacksmith to repair it!"
+Rusted tier consumable.
+
+Drops from:
+AH Heart Loot Ctrl: 0.025% (1/4000) chance.
+AH ULTRA Heart Loot Ctrl: 0.05% (1/2000) chance.
+Arnkz the Mega Samurai: 0.1% (1/1000) chance.
+Blue Son of Arachna Giant Egg Sac: 0.1% (1/1000) chance.
+Hades: 0.1% (1/1000) chance.
+Red Son of Arachna Giant Egg Sac: 0.1% (1/1000) chance.
+Silver Son of Arachna Giant Egg Sac: 0.1% (1/1000) chance.
+Son of Arachna: 0.1% (1/1000) chance.
+Tomb Attacker: 0.05% (1/2000) chance.
+Tomb Defender: 0.05% (1/2000) chance.
+Tomb Support: 0.05% (1/2000) chance.
+Yellow Son of Arachna Giant Egg Sac: 0.1% (1/1000) chance.
+lod Black Loot Balloon: 0.05% (1/2000) chance.

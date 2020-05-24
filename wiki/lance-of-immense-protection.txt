@@ -1,0 +1,21 @@
+Lance of Immense Protection [0x69e5]
+"Wielding this enchants the user with a safeguard."
+Legendary tier lance.
+
+Does 50-100 damage.
+80% rate of fire.
+Shoots 4 projectiles at a 4.0 degree angle.
+Range: 5.22 tiles.
+Shots have an amplitude of 2.0 and a frequency of 1.
+Shots ignore defense.
+Fame Bonus: 8%.
+
+While equipped:
++10 Restoration.
++120 Maximum HP.
++30 Protection.
++6 Speed.
+
+Blessing of the Skies: If your protection is depleted your surge increases by 15 everytime you use an ability.
+
+Does not drop from enemies.

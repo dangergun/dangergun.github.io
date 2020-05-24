@@ -1,0 +1,19 @@
+Helm of the Juggernaut [0xc08]
+"{equip.This_helm_was_forged_of_metal_that_fell_from_the_sky.__It_i}"
+Untiered helm.
+
+MP Cost: 90.
+Cooldown: 6.0 seconds.
+Fame Bonus: 6%.
+
+When used:
+On self: Armored for 4.5 seconds. Does not use wis mod.
+Party effect: Berserk for 4.5 seconds within 4 tiles. Does not use wis mod.
+
+While equipped:
++10 Defense.
++5 Speed.
+
+Drops from:
+Grand Sphinx: 2.2% (1/45) chance.
+Hermit God Drop: 2.0% (1/50) chance.

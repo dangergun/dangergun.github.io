@@ -1,0 +1,12 @@
+Ruby Gemstone [0xc7f]
+"{equip.A_treasure_from_Davy_JonesAPOS_Locker.} Use this to receive gold."
+Untiered consumable.
+This item is soulbound.
+
+When used:
+Grants the player 180 gold.
+
+{equip.Treasure}: {equip.3_of_3}
+
+Drops from:
+Davy Jones: 2.0% (1/50) chance.

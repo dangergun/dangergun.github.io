@@ -1,0 +1,13 @@
+Potion of Luck [0x5823]
+"A potion that permanently increases your luck."
+Untiered consumable.
+
+When used:
+Permanently increases Luck by 2.
+
+Drops from:
+Codename G-24, Nitrostorm: 100.0% chance.
+Construct of the Storm: 20.0% (1/5) chance.
+Galleom of Time: 100.0% chance.
+Iegon the Weather God: 100.0% chance.
+Lenin: 100.0% chance.

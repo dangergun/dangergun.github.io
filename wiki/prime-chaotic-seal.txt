@@ -1,0 +1,19 @@
+Prime Chaotic Seal [0x61ae]
+"A seal used by the great defenders that guarded the powers of the almighty Genisus Core."
+Untiered seal.
+
+MP Cost: 160.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+On self: Sick for 6 seconds. Does not use wis mod.
+Party effect: Bravery for 2 seconds within 3 tiles. Does not use wis mod.
+Party effect: Damaging for 2 seconds within 3 tiles. Uses wis mod.
+Party effect: Within 4.5 tiles, +80 Maximum MP for 4 seconds. Uses wis mod.
+
+While equipped:
++60 Maximum MP.
+
+Drops from:
+Truvix, the Lord Wanderer: 2.0% (1/50) chance.

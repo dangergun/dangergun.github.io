@@ -1,0 +1,15 @@
+Eye of Janus [0x788c]
+"Why is this sparkling eye still alive ? Thanks to petrovlolo to made this set"
+Untiered accessory.
+
+Fame Bonus: 6%.
+
+While equipped:
++2 Defense.
++5 Attack.
++5 Dexterity.
++5 Wisdom.
++50 Maximum MP.
+
+Drops from:
+md Janus the Doorwarden: 8.0% (1/12) chance.

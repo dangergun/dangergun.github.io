@@ -1,0 +1,14 @@
+Rusted Sword [0x7304]
+"A rusty Sword radiating immense power from within, why don't you forge it at the anvil with  a Sacred Essence at the blacksmith to repair it!"
+Rusted tier consumable.
+
+Drops from:
+AH Heart Loot Ctrl: 0.025% (1/4000) chance.
+AH ULTRA Heart Loot Ctrl: 0.05% (1/2000) chance.
+Archdemon Malphas: 0.05% (1/2000) chance.
+Gigacorn: 0.05% (1/2000) chance.
+MegaRototo: 0.05% (1/2000) chance.
+Oryx Stone Guardian Left: 0.05% (1/2000) chance.
+Oryx Stone Guardian Right: 0.05% (1/2000) chance.
+Spoiled Creampuff: 0.05% (1/2000) chance.
+Tunnel Varghus the Eye: 0.05% (1/2000) chance.

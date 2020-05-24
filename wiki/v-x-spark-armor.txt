@@ -1,0 +1,14 @@
+V-X Spark Armor [0x48d2]
+"Prototype armor made by some very smart aliens. I assure you they know what they're doing. A bit bulky though."
+Untiered heavy armor.
+
+Fame Bonus: 6%.
+
+While equipped:
++100 Maximum HP.
++30 Defense.
++8 Attack.
+-10 Speed.
+
+Drops from:
+The Mothership: 1.3% (1/76) chance.

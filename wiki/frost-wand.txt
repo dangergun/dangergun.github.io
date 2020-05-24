@@ -1,0 +1,16 @@
+Frost Wand [0x5095]
+"I left the wand in the fridge. These are the results"
+Untiered wand.
+
+Does 160-200 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 9.8 tiles.
+Fame Bonus: 6%.
+
+While equipped:
+-20 Maximum MP.
+-8 Speed.
+
+Drops from:
+ic Loot Balloon: 9.0% (1/11) chance.

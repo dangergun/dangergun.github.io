@@ -1,0 +1,19 @@
+Volcanic Vengeance [0x61da]
+"Built from the most scorching magma, it is said to deal massive amounts of damage upon the users enemies."
+Legendary tier scepter.
+
+MP Cost: 90.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+Enemy Effect: Armor Broken for 2 seconds within 3 tiles. Centered around the player's cursor.
+Lightning: 1200 damage to 6 targets. Uses wis mod.
+On self: Damaging for 2 seconds. Uses wis mod.
+
+While equipped:
++2 Life Steal.
+
+Scorch: The extreme heat of this scepter's energy causes damage melts away the defenses of enemies.
+
+Does not drop from enemies.

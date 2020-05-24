@@ -1,0 +1,20 @@
+Fortification Shield [0x63a7]
+"An enormous tower-shield whose design is taken from the entry doors of the Grand Citadel."
+Legendary tier shield.
+
+Does 175-300 damage.
+Range: 3.2 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+MP Cost: 125.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+While equipped:
++100 Maximum HP.
++50 Defense.
+-15 Speed.
+
+Titan's Wrath: Anytime you take damage you have a 20% chance to recover most of the damage taken.
+
+Does not drop from enemies.

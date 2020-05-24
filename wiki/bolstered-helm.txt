@@ -1,0 +1,19 @@
+Bolstered Helm [0x69de]
+"Built from elder wood and top grade titanium, this helmet is very sought after in the human realm."
+Legendary tier helm.
+
+MP Cost: 140.
+Cooldown: 7.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Bravery for 4 seconds. Does not use wis mod.
+On self: Speedy for 5 seconds. Does not use wis mod.
+Party effect: Empowered for 1.5 seconds within 6 tiles. Does not use wis mod.
+
+While equipped:
++10 Attack.
++10 Speed.
++50 Luck.
+
+Does not drop from enemies.

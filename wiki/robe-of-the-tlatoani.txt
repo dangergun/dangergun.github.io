@@ -1,0 +1,12 @@
+Robe of the Tlatoani [0xc14]
+"{equip.An_ancient_ceremonial_robe_once_worn_by_the_Tlatoani.}"
+Untiered robe.
+
+Fame Bonus: 2%.
+
+While equipped:
++45 Maximum MP.
++8 Wisdom.
+
+Drops from:
+Mixcoatl the Masked God: 10.0% (1/10) chance.

@@ -1,0 +1,13 @@
+Small Mysterious Crystal [0x514e]
+"A extremely rare crystal found nearby a Mysterious Crystal."
+Untiered consumable.
+This item is soulbound.
+
+When used:
+Grants the player 250 gold.
+
+Can be used to obtain 250 gold.
+{equip.Treasure}: Only 1.
+
+Drops from:
+Crystal Prisoner: 5.0% (1/20) chance.

@@ -1,0 +1,25 @@
+Ancient Aztec Skull [0x7235]
+"The mayans believe the end of the world was to come very soon, their predictions are truly something to fear."
+Sacred tier skull.
+
+MP Cost: 110.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+Enemy Effect: Dazed for 2 seconds within 2.7 tiles. Centered around the player's cursor.
+On self: Berserk for 2 seconds. Does not use wis mod.
+On self: Damaging for 3 seconds. Does not use wis mod.
+Party effect: Surged for 2 seconds within 3.5 tiles. Does not use wis mod.
+Steals 350 HP within 5.5 tiles. Centered around the player's cursor.
+
+While equipped:
++3 Vitality.
++6 Attack.
++6 Dexterity.
+-4 Wisdom.
+-8 Restoration.
+
+Runic Defense: On hit, 8% chance to trigger an AOE heal for the taken damage with a 4 tile radius. Stackable.
+
+Does not drop from enemies.

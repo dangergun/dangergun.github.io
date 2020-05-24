@@ -1,0 +1,13 @@
+Ouija Board [0x510a]
+"A treasure from the Undead Lair."
+Untiered consumable.
+This item is soulbound.
+
+When used:
+Grants the player 125 gold.
+
+Can be used to obtain 125 gold.
+{equip.Treasure}: {equip.1_of_2}
+
+Drops from:
+Septavius the Ghost God: 4.5% (1/22) chance.

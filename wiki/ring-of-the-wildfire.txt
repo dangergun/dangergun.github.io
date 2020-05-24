@@ -1,0 +1,12 @@
+Ring of the Wildfire [0x5075]
+"A ring of that is made of wood but a forever living flame has been set on it. It won't harm the wearer."
+Fabled tier accessory.
+
+Fame Bonus: 6%.
+
+While equipped:
++2 Defense.
++4 Vitality.
++8 Attack.
+
+Does not drop from enemies.

@@ -1,0 +1,13 @@
+Resurrected Warrior's Armor [0xc6e]
+"{equip.A_worn_and_battered_suit_of_armor_embedded_with_a_mystic_ge}"
+Untiered heavy armor.
+
+Fame Bonus: 4%.
+
+While equipped:
++170 Maximum MP.
++20 Wisdom.
++25 Defense.
+
+Drops from:
+Ghost of Skuld: 1.0% (1/100) chance.

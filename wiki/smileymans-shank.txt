@@ -1,0 +1,12 @@
+Smileyman's Shank [0x43b2]
+"I'M GONNA STAB YOU! with a smile."
+Untiered dagger.
+
+Does 95-175 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 5.6 tiles.
+Fame Bonus: 4%.
+
+Drops from:
+Larry Gigsman, the Superhuman: 10.0% (1/10) chance.

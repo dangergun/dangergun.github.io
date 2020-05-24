@@ -1,0 +1,10 @@
+Crystal Bone Ring [0xc17]
+"{equip.A_ring_made_from_a_splinter_of_crystallized_sacrificial_bon}"
+Untiered accessory.
+
+While equipped:
++3 Dexterity.
++3 Wisdom.
+
+Drops from:
+Mixcoatl the Masked God: 10.0% (1/10) chance.

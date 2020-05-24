@@ -1,0 +1,19 @@
+The Dragon's Breath [0x7083]
+"An old knights amulet resides within the hilt granting an ancient dragons power upon the user."
+Sacred tier lance.
+
+Does 100-120 damage.
+100% rate of fire.
+Shoots 3 projectiles at a 6.0 degree angle.
+Range: 6.4 tiles.
+Shots hit multiple targets.
+Shots ignore defense.
+Fame Bonus: 8%.
+
+While equipped:
++5 Vitality.
++50 Protection.
+
+Collector's Edition: All stats are increased by 0.65% per sacred item in inventory. Stackable.
+
+Does not drop from enemies.

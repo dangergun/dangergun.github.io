@@ -1,0 +1,14 @@
+The Eye of Peril [0x1689]
+"The legends shall die, and the hero will turn."
+Untiered accessory.
+
+Fame Bonus: 6%.
+
+While equipped:
++10 Attack.
++20 Might.
++60 Maximum HP.
++60 Maximum MP.
+
+Drops from:
+Hades: 2.0% (1/50) chance.

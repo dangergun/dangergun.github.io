@@ -1,0 +1,12 @@
+Unholy Short Sword [0x773c]
+"Short swords used by undead soldiers, were high in numbers, and were often thrown, impaling enemies all across the battlefield"
+Untiered sword.
+
+Does 280-350 damage.
+80% rate of fire.
+Shoots 1 projectile.
+Range: 5.04 tiles.
+Fame Bonus: 4%.
+
+Drops from:
+UNP The Dark Knight: 4.0% (1/25) chance.

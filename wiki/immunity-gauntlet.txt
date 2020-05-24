@@ -1,0 +1,16 @@
+Immunity Gauntlet [0x69e8]
+"Grants the wearer with the power to rule the world."
+Legendary tier accessory.
+
+Fame Bonus: 8%.
+
+While equipped:
++100 Protection.
++150 Maximum MP.
+-100 Maximum HP.
+
++2 Mana Leech.
+
+Undermind: If you have over 40 surge you activate a blast around you that inflicts weak.
+
+Does not drop from enemies.

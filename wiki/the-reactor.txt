@@ -1,0 +1,15 @@
+The Reactor [0x794b]
+"This thing looks unstable. Better be careful, it might explode. Thx to BLOODQWEN, to draw this set."
+Untiered accessory.
+
+Fame Bonus: 4%.
+
+While equipped:
++10 Defense.
++115 Maximum HP.
++115 Maximum MP.
++3 Vitality.
++5 Attack.
+
+Drops from:
+Dr Terrible: 1.0% (1/100) chance.

@@ -1,0 +1,13 @@
+The World Tarot Card [0x233f]
+"{equip.The_World_-_Card_XXI_of_the_Major_Arcana._Thanks_to_Dappert}"
+Untiered consumable.
+This item is soulbound.
+
+{equip.Treasure}: {equip.6_of_8}
+
+Drops from:
+lod Black Loot Balloon: 13.0% (1/7) chance.
+lod Blue Loot Balloon: 15.0% (1/6) chance.
+lod Green Loot Balloon: 13.0% (1/7) chance.
+lod Ivory Loot: 5.0% (1/20) chance.
+lod Red Loot Balloon: 13.0% (1/7) chance.

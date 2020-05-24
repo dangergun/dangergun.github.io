@@ -1,0 +1,18 @@
+Snake Skin Shield [0xa40]
+"{equip.A_shield_made_of_snake_skin_stretched_across_a_rigid_frame.}"
+Untiered shield.
+
+Does 250-300 damage.
+Range: 3.2 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+MP Cost: 100.
+Cooldown: 0.5 seconds.
+
+While equipped:
++3 Speed.
++7 Defense.
+
+Drops from:
+Snakepit Guard: 10.0% (1/10) chance.
+Stheno the Snake Queen: 10.0% (1/10) chance.

@@ -1,0 +1,15 @@
+Hide of Horrors [0x791a]
+"Crafted in the depths of the realm, this armor has been made to shield the weak and strengthen against the wicked."
+Legendary tier leather armor.
+
+Fame Bonus: 7%.
+
+While equipped:
++100 Maximum HP.
++4 Dexterity.
++40 Defense.
++40 Protection.
++40 Vitality.
+-10 Attack.
+
+Does not drop from enemies.

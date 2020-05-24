@@ -1,0 +1,16 @@
+Sailor's Cap [0x5492]
+"Sailing the high seas has taken a toll on your energy."
+Untiered accessory.
+
+Fame Bonus: 6%.
+
+While equipped:
++15 Attack.
++15 Dexterity.
+-15 Defense.
+-200 Maximum MP.
+
++1 Mana Leech.
+
+Drops from:
+Jon Bilgewater the Pirate King: 0.5% (1/200) chance.

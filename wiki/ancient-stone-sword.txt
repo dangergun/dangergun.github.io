@@ -1,0 +1,13 @@
+Ancient Stone Sword [0xc05]
+"{equip.A_slow_but_powerful_sword_that_is_a_relic_of_a_long_forgott}"
+Untiered sword.
+
+Does 400-450 damage.
+60% rate of fire.
+Shoots 1 projectile.
+Range: 3.91 tiles.
+Fame Bonus: 4%.
+
+Drops from:
+Oryx Stone Guardian Left: 6.0% (1/16) chance.
+Oryx Stone Guardian Right: 6.0% (1/16) chance.

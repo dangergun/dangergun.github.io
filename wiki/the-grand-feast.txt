@@ -1,0 +1,15 @@
+The Grand Feast [0x7909]
+"Ancient magic that blesses lands and can makes lands prosperous resides in this tome. What the source of power is from is yet to be discovered..."
+Untiered tome.
+
+MP Cost: 100.
+Cooldown: 3.0 seconds.
+Fame Bonus: 6%.
+
+When used:
+Heals 275 HP within 4.5 tiles. Uses wis mod.
+Party effect: Empowered for 2 seconds within 4.5 tiles. Uses wis mod.
+Party effect: Healing for 4 seconds within 4.5 tiles. Uses wis mod.
+
+Drops from:
+Big Turkey God: 0.05% (1/2000) chance.

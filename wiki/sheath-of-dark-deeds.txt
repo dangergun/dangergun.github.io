@@ -1,0 +1,26 @@
+Sheath Of Dark Deeds [0x7239]
+"Most sheaths simply hide a blade within, this one hides its dark intentions..."
+Sacred tier sheath.
+
+MP Cost: 80.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Armored for 5 seconds. Does not use wis mod.
+On self: Sick for 3.5 seconds. Does not use wis mod.
+On self: Speedy for 5 seconds. Does not use wis mod.
+Party effect: Empowered for 3 seconds within 3 tiles. Does not use wis mod.
+While ability key is held, Berserk on self and drains 10 mp/second.
+When ability key is released, 1500 damage within 7 tiles. Uses atk mod.
+
+While equipped:
++10 Wisdom.
++100 Maximum MP.
+-15 Vitality.
+-5 Attack.
+-5 Dexterity.
+
+Galactic Valor: All status effect durations are increased by 5%. Stackable.
+
+Does not drop from enemies.

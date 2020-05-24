@@ -1,0 +1,14 @@
+Dagger of Dark Descent [0x42b7]
+"Created for soul harvesting, traps the souls of its victims in an infinite loop of despair."
+Legendary tier dagger.
+
+Does 183-250 damage.
+120% rate of fire.
+Shoots 1 projectile.
+Range: 7.28 tiles.
+Fame Bonus: 8%.
+
+While equipped:
++21 Defense.
+
+Does not drop from enemies.

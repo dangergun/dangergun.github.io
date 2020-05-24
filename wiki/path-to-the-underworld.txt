@@ -1,0 +1,19 @@
+Path to the Underworld [0x1688]
+"Forged from the souls of the dead, this ability grants its user with monstrous power inturn for the users soul."
+Legendary tier seal.
+
+HP Cost: 200.
+MP Cost: 50.
+Cooldown: 4.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Petrify for 2 seconds. Does not use wis mod.
+Party effect: Invulnerable for 0.65 seconds within 4 tiles. Uses wis mod.
+
+While equipped:
+-10 Speed.
+
+-200 HP upon use. This seal hardens you to complete stone for 2 seconds and gives allies invulnerability.
+
+Does not drop from enemies.

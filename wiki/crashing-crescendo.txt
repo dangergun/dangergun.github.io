@@ -1,0 +1,19 @@
+Crashing Crescendo [0x59a1]
+"The shattered blade of a celestial envoy, this crested lance is with bound with a presence that drives it to lead it's bewinged hearlds beyond the stars themselves."
+Untiered lance.
+
+Does 140-200 damage.
+50% rate of fire.
+Shoots 4 projectiles at a 10.0 degree angle.
+Range: 7.2 tiles.
+Shots hit multiple targets.
+Shots ignore defense.
+Fame Bonus: 6%.
+
+While equipped:
++5 Attack.
++5 Speed.
++5 Wisdom.
+
+Drops from:
+Krokanich: 2.0% (1/50) chance.

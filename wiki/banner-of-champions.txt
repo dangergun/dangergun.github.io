@@ -1,0 +1,22 @@
+Banner of Champions [0x7084]
+"A golden banner lined with tapestries from a faraway kingdom gifted on behalf of our treaty."
+Sacred tier banner.
+
+MP Cost: 90.
+Cooldown: 5.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+Enemy Effect: Dazed for 3 seconds within 4 tiles. Centered around the player.
+Enemy Effect: Weak for 3 seconds within 4 tiles. Centered around the player.
+On self: Damaging for 2.5 seconds. Does not use wis mod.
+Within 4 tiles, empowers allies for 5 seconds. Stays active for 5 seconds.
+
+While equipped:
++100 Maximum HP.
++15 Defense.
++30 Protection.
+
+Arcane Grace: On ability use, 7% chance to not use any mana. Stackable.
+
+Does not drop from enemies.

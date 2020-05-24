@@ -1,0 +1,18 @@
+Royalty Bow [0x6213]
+"Orders are orders."
+Fabled tier bow.
+
+Does 55-160 damage.
+125% rate of fire.
+Shoots 4 projectiles at a 0.0 degree angle.
+Range: 6.72 tiles.
+Shots hit multiple targets.
+Fame Bonus: 6%.
+
+While equipped:
++20 Restoration.
++8 Defense.
++8 Vitality.
++80 Maximum HP.
+
+Does not drop from enemies.

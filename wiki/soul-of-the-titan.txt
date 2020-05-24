@@ -1,0 +1,24 @@
+Soul of the Titan [0x791c]
+"A liquid imbued with the titan’s spirit, said to bring dread and death upon whoever its user pleases."
+Legendary tier poison.
+
+MP Cost: 150.
+Cooldown: 0.5 seconds.
+Fame Bonus: 7%.
+
+When used:
+Poison Grenade:
+After 1 second, 400 impact damage + 400 damage over 1 second. Uses wis mod.
+Poison Grenade:
+After 2 seconds, 600 impact damage + 800 damage over 2 seconds. Uses wis mod.
+Poison Grenade:
+After 3 seconds, 800 impact damage + 1750 damage over 3 seconds. Uses wis mod.
+Poison Grenade:
+After 4 seconds, 1000 impact damage + 2800 damage over 4 seconds. Uses wis mod.
+
+While equipped:
++7 Speed.
+-10 Wisdom.
+-30 Restoration.
+
+Does not drop from enemies.

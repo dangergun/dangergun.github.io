@@ -1,0 +1,20 @@
+The Kings Crown [0x796e]
+"Just you? I guess you don't have any friends to play with but don't worry we can still be miserable together."
+Untiered helm.
+
+MP Cost: 85.
+Cooldown: 5.0 seconds.
+Fame Bonus: 6%.
+
+When used:
+On self: Armored for 2 seconds. Does not use wis mod.
+Party effect: Healing for 4 seconds within 6 tiles. Does not use wis mod.
+
+While equipped:
++3 Attack.
++3 Speed.
++3 Wisdom.
++6 Defense.
+
+Drops from:
+Actual Ghost King: 1.0% (1/100) chance.

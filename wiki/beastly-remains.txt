@@ -1,0 +1,19 @@
+Beastly Remains [0x57b9]
+"Made from the bodies of once living colossal beasts this skull contains the power to defend the user from all harm."
+Legendary tier skull.
+
+MP Cost: 85.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+Party Effect: Surged for 6 seconds within 5 tiles. Centered around the player's cursor.
+Steals 600 HP within 7 tiles. Centered around the player's cursor.
+
+While equipped:
++10 Attack.
++20 Dexterity.
++60 Might.
++60 Restoration.
+
+Does not drop from enemies.

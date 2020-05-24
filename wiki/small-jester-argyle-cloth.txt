@@ -1,0 +1,10 @@
+Small Jester Argyle Cloth [0x135a]
+"{textiles.small_description}"
+Untiered consumable.
+This item is soulbound.
+
+When used:
+Changes the character's dye.
+
+Drops from:
+Puppet Loot Chest: 5.0% (1/20) chance.

@@ -1,0 +1,16 @@
+Doku No Ken [0xcdc]
+"{equip.Stuck_in_the_maw_of_the_Son_of_Arachna,_this_Katana_is_coat}"
+Untiered katana.
+
+Does 165-185 damage.
+120% rate of fire.
+Shoots 1 projectile.
+Range: 5.2 tiles.
+Shots have an amplitude of 0.5 and a frequency of 1.
+Shots hit multiple targets.
+Fame Bonus: 4%.
+
+Drops from:
+Silver Son of Arachna Giant Egg Sac: 1.0% (1/100) chance.
+Son of Arachna: 0.5% (1/200) chance.
+Son of Arachna: 1.0% (1/100) chance.

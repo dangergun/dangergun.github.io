@@ -1,0 +1,13 @@
+Wand of Budding Romance [0x228c]
+"{equip.Harnessing_the_unusual_power_of_Bella_DonnaAPOSs_flowers_th}"
+Untiered wand.
+
+Does 85-120 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 9.0 tiles.
+Shots hit multiple targets.
+Fame Bonus: 1%.
+
+Drops from:
+vlntns Loot Balloon Bella: 10.0% (1/10) chance.

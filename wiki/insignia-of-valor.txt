@@ -1,0 +1,8 @@
+Insignia of Valor [0x62a9]
+"A token to recognize your valor and your will to fight against Sidon."
+Legendary tier consumable.
+This item is soulbound.
+
+Use this item in the Tavern to contribute to the Public Challenge Event.
+
+Does not drop from enemies.

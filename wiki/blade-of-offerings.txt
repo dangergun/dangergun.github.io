@@ -1,0 +1,16 @@
+Blade of Offerings [0x5153]
+"Once the end of a halberd wielded by the legendary shadow cult leader, who's said to have captured demons in the darkest depths of hell, this blade is imbued with an unknown and sinister power that is as unwieldy as it is destructive."
+Untiered sword.
+
+Does 240-450 damage.
+125% rate of fire.
+Shoots 1 projectile.
+Range: 4.0 tiles.
+Fame Bonus: 6%.
+
+While equipped:
++4 Defense.
++50 Maximum HP.
+
+Drops from:
+shtrs Defense System: 2.0% (1/50) chance.

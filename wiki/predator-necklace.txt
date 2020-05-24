@@ -1,0 +1,15 @@
+Predator Necklace [0x61b7]
+"A necklace that greatly improves your skills to hunt and kill monsters."
+Legendary tier accessory.
+
+While equipped:
++10 Restoration.
++15 Attack.
++20 Maximum HP.
++25% Speed.
++75 Luck.
++8 Defense.
+
++7 Life Steal.
+
+Does not drop from enemies.

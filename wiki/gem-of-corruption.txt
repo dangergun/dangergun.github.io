@@ -1,0 +1,11 @@
+Gem of Corruption [0x49e3]
+"Crafted to assist the divine mage’s of old to cast a more powerful magic in order to destroy their enemies."
+Legendary tier accessory.
+
+Fame Bonus: 8%.
+
+While equipped:
++150 Wisdom.
++50 Vitality.
+
+Does not drop from enemies.

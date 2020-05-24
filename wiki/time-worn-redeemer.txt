@@ -1,0 +1,14 @@
+Time-Worn Redeemer [0x56c5]
+"A sentient sword seemingly hunting those that contribute to the downfall of the universe."
+Legendary tier sword.
+
+Does 1000-1350 damage.
+30% rate of fire.
+Shoots 1 projectile.
+Range: 3.11 tiles.
+Fame Bonus: 8%.
+
+While equipped:
++400 Maximum HP.
+
+Does not drop from enemies.

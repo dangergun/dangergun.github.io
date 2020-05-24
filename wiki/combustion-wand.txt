@@ -1,0 +1,22 @@
+Combustion Wand [0x7717]
+"If used by someone unworthy, will make them combust into flames."
+Sacred tier wand.
+
+Does 85-215 damage.
+70% rate of fire.
+Shoots 4 projectiles at a 2.0 degree angle.
+Range: 6.0 tiles.
+Shots have an amplitude of 0.6 and a frequency of 1.
+Shots hit multiple targets.
+Fame Bonus: 8%.
+
+While equipped:
++10 Vitality.
++75 Maximum HP.
+
++2 Life Steal.
+
+Runic Defense: On hit, 8% chance to trigger an AOE heal for the taken damage with a 4 tile radius. Stackable.
+
+Drops from:
+Oryx Defense System: 0.2% (1/500) chance.

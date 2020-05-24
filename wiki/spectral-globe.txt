@@ -1,0 +1,26 @@
+Spectral Globe [0x7739]
+"A glass globe encasing the spectre within, protecting the realm from eternal demise."
+Sacred tier prism.
+
+MP Cost: 140.
+Cooldown: 6.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+Creates a decoy that lasts for 4 seconds.
+On self: Invisible for 4 seconds. Does not use wis mod.
+Teleports the player to the cursor, with a maximum distance of 20 tiles.
+
+While equipped:
++10 Attack.
++10 Dexterity.
+
++1 Mana Leech.
+
+Damage: 120-220
+Total Shots: 50
+Summons a decoy that shoots while it runs
+
+Collector's Edition: All stats are increased by 0.65% per sacred item in inventory. Stackable.
+
+Does not drop from enemies.

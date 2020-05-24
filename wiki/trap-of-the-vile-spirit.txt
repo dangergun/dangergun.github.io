@@ -1,0 +1,18 @@
+Trap of the Vile Spirit [0x53dd]
+"A long lost artifact recovered by Davy Jones, believed to have been cursed by the gods of the seven seas themselves."
+Untiered trap.
+
+MP Cost: 100.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Trap: 1500 damage within 2 tiles.
+Throw time: 1 second.
+
+While equipped:
++5 Attack.
++5 Speed.
+
+Drops from:
+Ghost Ship: 9.75% (1/10) chance.

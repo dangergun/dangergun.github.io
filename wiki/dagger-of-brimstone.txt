@@ -1,0 +1,20 @@
+Dagger of Brimstone [0x1575]
+"
+            This dagger was a myth, will you live to tell the tale?
+        "
+Untiered dagger.
+
+Does 160-220 damage.
+80% rate of fire.
+Shoots 1 projectile.
+Range: 5.5 tiles.
+Shots pass through obstacles.
+Shots ignore defense.
+Fame Bonus: 6%.
+
+While equipped:
++60 Maximum HP.
+-4 Defense.
+
+Drops from:
+Skull Shrine: 2.0% (1/50) chance.

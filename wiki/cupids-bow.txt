@@ -1,0 +1,13 @@
+Cupid's Bow [0x228f]
+"{equip.This_probably_doesnAPOSt_have_a_chance_of_making_monsters_f}"
+Untiered bow.
+
+Does 40-65 damage.
+100% rate of fire.
+Shoots 3 projectiles at a 0.0 degree angle.
+Range: 7.04 tiles.
+Shots hit multiple targets.
+Fame Bonus: 1%.
+
+Drops from:
+vlntns Loot Balloon Bella: 10.0% (1/10) chance.

@@ -1,0 +1,15 @@
+Quiver of Thunder [0xc07]
+"{equip.This_strange_quiver_that_was_created_in_a_forgotten_age_by_}"
+Untiered quiver.
+
+Does 310-360 damage.
+Range: 15.0 tiles.
+MP Cost: 100.
+Cooldown: 6.0 seconds.
+Fame Bonus: 6%.
+
+While equipped:
++8 Attack.
+
+Drops from:
+Actual Greater Nature Sprite: 1.5% (1/66) chance.

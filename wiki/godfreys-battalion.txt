@@ -1,0 +1,21 @@
+Godfrey's Battalion [0x7089]
+"A shield imprisoning a garnet within its centre, the glistening jewel praising its user."
+Sacred tier shield.
+
+Does 400-800 damage.
+Range: 4.0 tiles.
+Shots pass through obstacles.
+Shots boomerang.
+MP Cost: 120.
+Cooldown: 4.0 seconds.
+Fame Bonus: 8%.
+
+While equipped:
++130 Maximum HP.
++25 Defense.
+
++2 Life Steal.
+
+Enhanced Growth: Health regeneration is increased by 10% and maximum health is increased by 5%. Stackable.
+
+Does not drop from enemies.

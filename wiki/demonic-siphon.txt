@@ -1,0 +1,28 @@
+Demonic Siphon [0x7232]
+"The skull still holds its ancient power within the cracking bones that are left of the once magnificent creature."
+Sacred tier siphon.
+
+MP Cost: 20.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Berserk for 2 seconds. Does not use wis mod.
+On self: Bravery for 2 seconds. Does not use wis mod.
+Siphon Radius: 5 tiles.
+Base Damage: 850.
+Mana Recovery: 7 seconds.
+While ability key is held, drains 65 hp/second.
+When ability key is released, damages enemies based on health drained, current mana, wisdom stat, and this item's base damage.
+
+While equipped:
++150 Maximum MP.
++20 Protection.
++200 Maximum HP.
+
++2 Life Steal.
++5 Mana Leech.
+
+Enhanced Growth: Health regeneration is increased by 10% and maximum health is increased by 5%. Stackable.
+
+Does not drop from enemies.

@@ -1,0 +1,25 @@
+Grand Curse [0x69e9]
+"In order to protect the realm from certain doom, this spell was crafted to trap those who are tainted."
+Legendary tier spell.
+
+Does 290-340 damage.
+Range: 6.0 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+Shots ignore defense.
+MP Cost: 100.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Armored for 1.4 seconds. Does not use wis mod.
+Shoots 12 shots in a circle around the cursor.
+
+While equipped:
++10 Luck.
++10 Restoration.
++200 Maximum MP.
+
+Expansion: When your Surge is at least 50 you gain bonus mana.
+
+Does not drop from enemies.

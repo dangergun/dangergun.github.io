@@ -1,0 +1,16 @@
+Magical Lodestone [0x5471]
+"The source of power for the Marble Colossus found within his core. It is intended to give life to golems, but it can provide benefits to the living as well."
+Legendary tier accessory.
+
+Fame Bonus: 8%.
+
+While equipped:
++15 Attack.
++15 Defense.
++15 Dexterity.
++15 Speed.
+
+Invigorate: Every time you are hit, 5% chance to gain 10 to all stats (100 for HP and MP, Stackable).
+
+Drops from:
+LH Marble Colossus: 0.2% (1/500) chance.

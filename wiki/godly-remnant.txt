@@ -1,0 +1,24 @@
+Godly Remnant [0x5878]
+"A remnant from the God of Creation, very few of these remain."
+Godly tier consumable.
+
+Infusing this item can grant inhumane power beyond comprehension.
+
+Drops from:
+AH Aldragine Loot Ctrl: 0.1% (1/1000) chance.
+AH Aldragine: 0.2% (1/500) chance.
+AH Big Purple Slime: 0.0004% (1/250000) chance.
+AH Feral of the Zol: 0.0004% (1/250000) chance.
+AH ULTRA Aldragine Loot Ctrl: 0.2% (1/500) chance.
+AH ULTRA Aldragine: 0.4% (1/250) chance.
+Brute of the Hideout: 0.0004% (1/250000) chance.
+Cleric of Zol: 0.0004% (1/250000) chance.
+Cube of Zol: 0.0004% (1/250000) chance.
+Demon of the Dark: 0.0004% (1/250000) chance.
+Drannol, the Eternal Beast: 0.2% (1/500) chance.
+Giant Cube of Zol: 0.0004% (1/250000) chance.
+Niolru: 0.0008% (1/125000) chance.
+Servant of Darkness: 0.0004% (1/250000) chance.
+Ultra Drannol, the Eternal Beast: 1.0% (1/100) chance.
+Zol Bomber: 0.0004% (1/250000) chance.
+Zol Sorcerer: 0.0004% (1/250000) chance.

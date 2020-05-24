@@ -1,0 +1,18 @@
+Sword of Dark Retribution [0x5426]
+"It's blade cursed by the haunting evil that remains from the underworld."
+Fabled tier sword.
+
+Does 125-225 damage.
+110% rate of fire.
+Shoots 2 projectiles at a 4.0 degree angle.
+Range: 3.94 tiles.
+Shots have an amplitude of 0.85 and a frequency of 0.
+Shots ignore defense.
+Fame Bonus: 6%.
+
+While equipped:
++15 Protection.
++3 Attack.
++3 Dexterity.
+
+Does not drop from enemies.

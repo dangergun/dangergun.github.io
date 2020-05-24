@@ -1,0 +1,18 @@
+Quasar Hide [0x7877]
+"A hide blessed by the cosmos, it's promise to protect the user will never be broken."
+Untiered leather armor.
+
+Fame Bonus: 7%.
+
+While equipped:
++110 Maximum HP.
++12 Attack.
++14 Defense.
++8 Dexterity.
+-10 Wisdom.
+-12 Protection.
+-12 Vitality.
+-8 Speed.
+
+Drops from:
+True Somnus, the Dream Entity: 0.8% (1/125) chance.

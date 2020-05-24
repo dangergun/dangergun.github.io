@@ -1,0 +1,20 @@
+Vial of Corrosive Venom [0x7139]
+"Toughly sealed within this vial, this venom is said to burn through the toughest of substances."
+Sacred tier poison.
+
+MP Cost: 160.
+Cooldown: 1.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+Enemy Effect: Bleeding for 2 seconds within 5 tiles. Centered around the player.
+Poison Grenade:
+After 2 seconds, 1200 impact damage + 4000 damage over 4 seconds. Uses wis mod.
+
+While equipped:
++300 Maximum MP.
++8 Dexterity.
+
+Collector's Edition: All stats are increased by 0.65% per sacred item in inventory. Stackable.
+
+Does not drop from enemies.

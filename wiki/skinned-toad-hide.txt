@@ -1,0 +1,13 @@
+Skinned Toad Hide [0x244]
+"Wearing this armor has the added benefit of giving warts to enemies that touch you."
+Untiered leather armor.
+
+Fame Bonus: 5%.
+
+While equipped:
++10 Defense.
++10 Wisdom.
++100 Maximum HP.
+
+Drops from:
+Murderous Megamoth: 2.0% (1/50) chance.

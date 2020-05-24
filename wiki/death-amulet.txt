@@ -1,0 +1,15 @@
+Death Amulet [0x59a3]
+"Spooky."
+Untiered accessory.
+
+Fame Bonus: 3%.
+
+While equipped:
++12 Attack.
++125 Maximum HP.
++3 Dexterity.
++50 Might.
++85 Maximum MP.
+
+Drops from:
+Deathmage: 7.5% (1/13) chance.

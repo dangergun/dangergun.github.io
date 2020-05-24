@@ -1,0 +1,23 @@
+The Untameable [0x61b2]
+"A star said to be forged by the core of a sun, in order to fight against the dreaded armageddon."
+Legendary tier shuriken.
+
+Does 1350-1850 damage.
+Range: 16.5 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+Shots ignore defense.
+MP Cost: 110.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Armored for 3 seconds. Does not use wis mod.
+
+While equipped:
++10 Defense.
++5 Attack.
++50 Maximum HP.
+-10 Dexterity.
+
+Does not drop from enemies.

@@ -1,0 +1,22 @@
+Bloodstar [0x47f5]
+"Made from the blood of innocent lives, cries can be heard from this dreadful star."
+Legendary tier shuriken.
+
+Does 1150-1200 damage.
+Range: 16.5 tiles.
+Shots hit multiple targets.
+Shots ignore defense.
+MP Cost: 105.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Berserk for 4 seconds. Does not use wis mod.
+On self: Surged for 4 seconds. Does not use wis mod.
+
+While equipped:
++5 Speed.
++6 Attack.
++7 Vitality.
+
+Does not drop from enemies.

@@ -1,0 +1,9 @@
+Death Tarot Card [0x233c]
+"{equip.Death_-_Card_XIII_of_the_Major_Arcana._Thanks_to_Dappertron}"
+Untiered consumable.
+This item is soulbound.
+
+{equip.Treasure}: {equip.3_of_8}
+
+Drops from:
+Lord Ruthven: 12.0% (1/8) chance.

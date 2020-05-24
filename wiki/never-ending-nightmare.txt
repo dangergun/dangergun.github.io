@@ -1,0 +1,18 @@
+Never Ending Nightmare [0x7872]
+"A blade so cruel that every slash intensifies the recurring pain from it’s incredibly sharp blade."
+Legendary tier katana.
+
+Does 105-155 damage.
+130% rate of fire.
+Shoots 2 projectiles at a 11.0 degree angle.
+Range: 4.93 tiles.
+Shots ignore defense.
+Fame Bonus: 8%.
+
+While equipped:
++30 Might.
++40 Luck.
+-8 Defense.
+
+Drops from:
+True Somnus, the Dream Entity: 0.25% (1/400) chance.

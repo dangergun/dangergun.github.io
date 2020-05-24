@@ -1,0 +1,18 @@
+Sword of the Frog Bearer [0x7602]
+"Ribbit."
+Untiered sword.
+
+Does 200-210 damage.
+95% rate of fire.
+Shoots 1 projectile.
+Range: 6.0 tiles.
+Shots have an amplitude of 0.25 and a frequency of 1.
+Shots ignore defense.
+Fame Bonus: 6%.
+
+While equipped:
++3 Attack.
++3 Dexterity.
+
+Drops from:
+Peepo: 1.0% (1/100) chance.

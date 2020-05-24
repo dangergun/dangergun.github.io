@@ -1,0 +1,14 @@
+Lorespire Robe [0x5126]
+"A grand robe found deep in the treasures of the place where the Dreadnought was locked away."
+Untiered robe.
+
+Fame Bonus: 6%.
+
+While equipped:
++10 Defense.
++180 Maximum HP.
++4 Attack.
+-80 Maximum MP.
+
+Drops from:
+Treasure Basilisk: 1.0% (1/100) chance.

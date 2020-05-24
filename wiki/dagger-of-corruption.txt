@@ -1,0 +1,12 @@
+Dagger of Corruption [0x51a3]
+"The entities that have been corrupted by the Zol never come back the same."
+Fabled tier dagger.
+
+Does 200-260 damage.
+76% rate of fire.
+Shoots 1 projectile.
+Range: 5.6 tiles.
+Shots are wavy.
+Fame Bonus: 8%.
+
+Does not drop from enemies.

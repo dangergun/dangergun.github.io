@@ -1,0 +1,11 @@
+Master Eon [0x53aa]
+"The original Eon has returned."
+Legendary tier consumable.
+
+When used:
+Fully maxes all stats.
+
+Drops from:
+Larry Gigsman, the Superhuman: 0.7% (1/142) chance.
+Malgor, the Eternal Fiend: 0.1% (1/1000) chance.
+True Somnus, the Dream Entity: 0.1% (1/1000) chance.

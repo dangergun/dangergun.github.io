@@ -1,0 +1,9 @@
+Nightmare Shard [0x791d]
+"A strage stone-like artifact that emits a purple glow. Inside of it, waits overwhelming power."
+Legendary tier consumable.
+
+Drops from:
+Akeldama, the Disciple of Oryx: 0.1% (1/1000) chance.
+Sorgigas, the Sor Giant: 0.2% (1/500) chance.
+True Somnus, the Dream Entity: 0.2% (1/500) chance.
+Tunnel Varghus the Eye: 0.1% (1/1000) chance.

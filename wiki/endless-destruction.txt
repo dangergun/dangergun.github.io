@@ -1,0 +1,20 @@
+Endless Destruction [0x42f8]
+"This dagger was said to have formed from a black hole many eons ago."
+Legendary tier dagger.
+
+Does 180-260 damage.
+120% rate of fire.
+Shoots 1 projectile.
+Range: 6.78 tiles.
+Shots hit multiple targets.
+Shots ignore defense.
+Fame Bonus: 8%.
+
+While equipped:
++15 Speed.
+
++1 Mana Leech.
+
+Manastrike: If your mana is at least 1/2 full your critical chance is increased by 20%.
+
+Does not drop from enemies.

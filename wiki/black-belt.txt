@@ -1,0 +1,11 @@
+Black Belt [0x5223]
+"Wear this around your waist and you will certainly feel unstoppable."
+Untiered accessory.
+
+While equipped:
++8 Attack.
++8 Dexterity.
++8 Speed.
+
+Drops from:
+Arnkz the Mega Samurai: 5.0% (1/20) chance.

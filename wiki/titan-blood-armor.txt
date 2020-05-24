@@ -1,0 +1,13 @@
+Titan Blood Armor [0x1475]
+"It was only then that the world knew the earth was at end.... "
+Untiered heavy armor.
+
+Fame Bonus: 8%.
+
+While equipped:
++15 Defense.
++20 Vitality.
++250 Maximum HP.
+
+Drops from:
+Zaragon, the Blood Mage: 2.0% (1/50) chance.

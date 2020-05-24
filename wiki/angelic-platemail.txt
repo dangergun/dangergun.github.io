@@ -1,0 +1,21 @@
+Angelic Platemail [0x7067]
+"Forged from Magically Infused gold, this armor never loses shape."
+Sacred tier heavy armor.
+
+Fame Bonus: 8%.
+
+While equipped:
++10 Vitality.
++12 Dexterity.
++125 Maximum HP.
++17 Defense.
++20 Luck.
++20 Might.
++8 Attack.
+-10 Wisdom.
+-20 Restoration.
+-50 Maximum MP.
+
+Treasure Hunter: On loot roll, 8% chance to apply a 100% drop chance increase. Stackable.
+
+Does not drop from enemies.

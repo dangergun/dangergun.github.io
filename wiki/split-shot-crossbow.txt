@@ -1,0 +1,13 @@
+Split-Shot Crossbow [0x542b]
+"When fired, the arrows split off to gain more coverage but keep the power of the crossbow intact."
+Legendary tier bow.
+
+Does 350-500 damage.
+42% rate of fire.
+Shoots 2 projectiles at a 0.0 degree angle.
+Range: 6.6 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+Fame Bonus: 8%.
+
+Does not drop from enemies.

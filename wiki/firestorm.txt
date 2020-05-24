@@ -1,0 +1,13 @@
+FireStorm [0x277]
+"Theres a fire, not really a storm but it sounds cooler."
+Untiered dagger.
+
+Does 90-145 damage.
+108% rate of fire.
+Shoots 3 projectiles at a 10.0 degree angle.
+Range: 5.8 tiles.
+Shots have an amplitude of 0.3 and a frequency of 0.
+Fame Bonus: 5%.
+
+Drops from:
+Dragon Head: 1.0% (1/100) chance.

@@ -1,0 +1,21 @@
+Marble Tablet [0x61b0]
+"The remains of the Gargoyle, enchanted with its residual energy."
+Untiered spell.
+
+Does 200-300 damage.
+Range: 6.0 tiles.
+Shots hit multiple targets.
+MP Cost: 120.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Shoots 12 shots in a circle around the cursor.
+
+While equipped:
++12% Maximum HP.
+
++1 Life Steal.
+
+Drops from:
+Lord Stone Gargoyle: 1.0% (1/100) chance.

@@ -1,0 +1,15 @@
+Robe of the Gargoyle Summoner [0x59a4]
+"A neccessary robe used to summon the ancient Stone Gargoyle."
+Untiered robe.
+
+Fame Bonus: 6%.
+
+While equipped:
++120 Maximum MP.
++18 Defense.
++30 Restoration.
++5 Wisdom.
++7 Dexterity.
+
+Drops from:
+Lord Stone Gargoyle: 1.0% (1/100) chance.

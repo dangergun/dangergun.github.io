@@ -1,0 +1,16 @@
+Unholy Wand [0x363]
+"Decrepit wands used by undead mages, used to summon eldritch terrors from the far corners of hell to lay waste to all that stood in their way Thanks to Pringle/Turtlebat."
+Untiered wand.
+
+Does 80-125 damage.
+75% rate of fire.
+Shoots 3 projectiles at a 20.0 degree angle.
+Range: 8.0 tiles.
+Shots have an amplitude of 2.4 and a frequency of 3.
+Shots hit multiple targets.
+Shots pass through obstacles.
+Fame Bonus: 6%.
+
+Drops from:
+BedlamGod: 1.0% (1/100) chance.
+Lord Ruthven: 0.2% (1/500) chance.

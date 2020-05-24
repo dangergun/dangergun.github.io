@@ -1,0 +1,15 @@
+Bow of Dreadful Reign [0x5071]
+"A bow that will leave you with no regrets."
+Untiered bow.
+
+Does 160-250 damage.
+75% rate of fire.
+Shoots 2 projectiles at a 0.0 degree angle.
+Range: 7.4 tiles.
+
+While equipped:
++10 Restoration.
++10 Speed.
+
+Drops from:
+The Dreadnought: 2.0% (1/50) chance.

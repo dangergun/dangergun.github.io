@@ -1,0 +1,23 @@
+Spell of 1000 Strikes [0x48fd]
+"Formed by the very bolts in the sky in order to bestow its enemies with wraith and destruction."
+Legendary tier spell.
+
+Does 200-280 damage.
+Range: 6.0 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+Shots are parametric.
+MP Cost: 140.
+Cooldown: 2.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+Shoots 12 shots in a circle around the cursor.
+
+While equipped:
++10 Attack.
++10 Dexterity.
++100 Maximum HP.
++100 Maximum MP.
+
+Does not drop from enemies.

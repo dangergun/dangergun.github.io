@@ -1,0 +1,15 @@
+Chasuble of Holy Light [0xc1f]
+"{equip.An_ornate_robe_worn_by_servants_of_the_faith.}"
+Untiered robe.
+
+Fame Bonus: 3%.
+
+While equipped:
++10 Defense.
++4 Vitality.
++4 Wisdom.
++50 Maximum MP.
+
+Drops from:
+Coffin: 1.0% (1/100) chance.
+Lord Ruthven: 5.0% (1/20) chance.

@@ -1,0 +1,19 @@
+Eidolon Toxin [0x63ec]
+"A specialized poison used to ward off phantoms of the Undead Lair."
+Untiered poison.
+
+MP Cost: 70.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Poison Grenade:
+After 3 seconds, 1000 impact damage + 400 damage over 4 seconds. Uses wis mod.
+
+While equipped:
++10 Protection.
++20 Luck.
++8 Speed.
+
+Drops from:
+Septavius the Ghost God: 2.0% (1/50) chance.

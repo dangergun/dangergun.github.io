@@ -1,0 +1,16 @@
+Unlucky Leprechaun's Hat [0x212]
+"He dashed off in the nude, absentmindedly leaving his hat behind. Thx to Cloudedshadow97"
+Untiered accessory.
+
+Fame Bonus: 5%.
+
+While equipped:
++2 Fortune.
++7 Defense.
++7 Dexterity.
++7 Wisdom.
+
+Drops from:
+Lucky Djinn: 2.0% (1/50) chance.
+Lucky Ent God: 2.0% (1/50) chance.
+Puppet Loot Chest: 2.0% (1/50) chance.

@@ -1,0 +1,10 @@
+Rusted Staff [0x7300]
+"A rusty Staff radiating immense power from within, why don't you forge it at the anvil with  a Sacred Essence at the blacksmith to repair it!"
+Rusted tier consumable.
+
+Drops from:
+AH Heart Loot Ctrl: 0.025% (1/4000) chance.
+AH ULTRA Heart Loot Ctrl: 0.05% (1/2000) chance.
+Hand of Terradius: 1.0% (1/100) chance.
+The Illusionist: 0.1% (1/1000) chance.
+ic Loot Balloon: 0.1% (1/1000) chance.

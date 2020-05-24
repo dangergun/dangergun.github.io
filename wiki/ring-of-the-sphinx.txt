@@ -1,0 +1,13 @@
+Ring of the Sphinx [0xba0]
+"{equip.The_malachite_stone_makes_you_feel_at_peace_with_the_land.}"
+Untiered accessory.
+
+Fame Bonus: 5%.
+
+While equipped:
++130 Maximum MP.
++6 Dexterity.
++6 Wisdom.
+
+Drops from:
+Tomb Support: 5.0% (1/20) chance.

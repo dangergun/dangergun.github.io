@@ -1,0 +1,20 @@
+Merit of Rebellion [0x44f1]
+"Break the rules together."
+Fabled tier sheath.
+
+MP Cost: 110.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Damaging for 3 seconds. Does not use wis mod.
+On self: Speedy for 3 seconds. Does not use wis mod.
+While ability key is held, Berserk on self and drains 10 mp/second.
+When ability key is released, 850 damage within 6 tiles. Uses atk mod.
+
+While equipped:
++4 Wisdom.
++8 Speed.
++80 Maximum MP.
+
+Does not drop from enemies.

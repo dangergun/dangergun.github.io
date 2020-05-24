@@ -1,0 +1,19 @@
+Dirk of Benevolence [0x47c6]
+"Your fate lies within your weapon in times of war."
+Untiered dagger.
+
+Does 170-190 damage.
+120% rate of fire.
+Shoots 1 projectile.
+Range: 5.0 tiles.
+Shots hit multiple targets.
+Fame Bonus: 5%.
+
+While equipped:
++50 Maximum HP.
+
++1 Life Steal.
+
+Drops from:
+AB Secret Chest: 2.0% (1/50) chance.
+AB The Dark Sorcerer: 5.0% (1/20) chance.

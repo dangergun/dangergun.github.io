@@ -1,0 +1,16 @@
+Hellfire Orb [0x7608]
+"{equip.This_orb_of_ancient_bloodstone_has_a_dark_reputation_of_twi}"
+Untiered orb.
+
+MP Cost: 100.
+Cooldown: 2.0 seconds.
+Fame Bonus: 6%.
+
+When used:
+Enemy Effect: Curse for 2 seconds within 2 tiles. Centered around the player's cursor.
+Enemy Effect: Petrify for 3 seconds within 2 tiles. Centered around the player's cursor.
+Party effect: Healing for 3 seconds within 3 tiles. Does not use wis mod.
+Steals 750 HP within 2 tiles. Centered around the player's cursor.
+
+Drops from:
+Hellfire Lord: 1.0% (1/100) chance.

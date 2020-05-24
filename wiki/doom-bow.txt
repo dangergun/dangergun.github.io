@@ -1,0 +1,13 @@
+Doom Bow [0xc02]
+"{equip.No_mortal_can_fire_this_dreaded_bow_without_resting_in_betw}"
+Untiered bow.
+
+Does 400-500 damage.
+40% rate of fire.
+Shoots 1 projectile.
+Range: 7.04 tiles.
+Shots hit multiple targets.
+Fame Bonus: 6%.
+
+Drops from:
+Septavius the Ghost God: 5.0% (1/20) chance.

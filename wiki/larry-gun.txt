@@ -1,0 +1,12 @@
+Larry Gun [0x5060]
+"Pew."
+Legendary tier bow.
+
+Does 550-625 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 5.28 tiles.
+Fame Bonus: 12%.
+
+Drops from:
+Larry Gigsman, the Superhuman: 0.05% (1/2000) chance.

@@ -1,0 +1,13 @@
+Battleplate of Sacred Warlords [0x1599]
+"The upper arms are protected by pointed, layered metal rerebraces which sit nicely under the shoulderplates. The lower arms are covered by vambraces which have a curved animal bone attached to each outer side, the bone curves upwards towards the shoulder."
+Untiered heavy armor.
+
+Fame Bonus: 7%.
+
+While equipped:
++100 Maximum HP.
++12 Attack.
++22 Defense.
+
+Drops from:
+TF The Fallen: 1.0% (1/100) chance.

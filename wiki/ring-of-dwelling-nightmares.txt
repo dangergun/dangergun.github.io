@@ -1,0 +1,20 @@
+Ring of Dwelling Nightmares [0x7887]
+"A rumored tale follows this ring: Anyone who bears the legacy of the ring can hear the agonizing cries of the former owners of this ring."
+Untiered accessory.
+
+Fame Bonus: 7%.
+
+While equipped:
++125 Maximum MP.
++15 Restoration.
++20 Wisdom.
++4 Attack.
++8 Speed.
+-16 Might.
+-24 Luck.
+-95 Maximum HP.
+
+Wearing the whole set will reward you with: +115 MP, +16 Wis, +14 Speed, +12 Attack, +8 Def, +20 Res
+
+Drops from:
+Aleph, the Lost Soul: 0.5% (1/200) chance.

@@ -1,0 +1,22 @@
+Strike of Calamity [0x7884]
+"A wand charged with power as calamitous as Somnus himself, one strike could bring disaster upon the galaxies."
+Untiered wand.
+
+Does 230-570 damage.
+80% rate of fire.
+Shoots 1 projectile.
+Range: 7.29 tiles.
+Shots have an amplitude of 0.45 and a frequency of 1.
+Shots hit multiple targets.
+Fame Bonus: 8%.
+
+While equipped:
++12 Wisdom.
++8 Speed.
++80 Maximum MP.
+-45 Maximum HP.
+
+Wearing the whole set will reward you with: +115 MP, +16 Wis, +14 Speed, +12 Attack, +8 Def, +20 Res
+
+Drops from:
+Luna, the Mischievous: 0.5% (1/200) chance.

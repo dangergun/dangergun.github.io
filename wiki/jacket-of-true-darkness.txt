@@ -1,0 +1,26 @@
+Jacket of True Darkness [0x615f]
+"This jacket seems to have a shadowy fog that surrounds itself."
+Untiered jacket.
+
+Does 50-200 damage.
+Range: 4.5 tiles.
+Shots ignore defense.
+Shots boomerang.
+MP Cost: 60.
+Surge Cost: 1.
+Cooldown: 2.0 seconds.
+
+When used:
+On self: Invincible for 0.75 seconds. Does not use wis mod.
+
+While equipped:
++120 Maximum HP.
+
+Offensive Stance
++20 Attack
+Defensive Stance
++25 Defense
+
+Drops from:
+UNP Servant of the Dark Knight: 5.0% (1/20) chance.
+UNP The Dark Knight: 5.0% (1/20) chance.

@@ -1,0 +1,18 @@
+Garments of the Underground [0x548e]
+"After the death of her son, Arachna weaved this robe with silk and remains of the stolen eggs to honor their deaths."
+Untiered robe.
+
+Fame Bonus: 6%.
+
+While equipped:
++15 Defense.
++30 Vitality.
++5 Speed.
++70 Maximum HP.
++9 Dexterity.
+
++3 Life Steal.
+
+Drops from:
+Son of Arachna: 0.5% (1/200) chance.
+Yellow Son of Arachna Giant Egg Sac: 1.0% (1/100) chance.

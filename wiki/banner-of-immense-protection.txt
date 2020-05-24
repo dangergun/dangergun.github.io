@@ -1,0 +1,20 @@
+Banner of Immense Protection [0x69c9]
+"Used to protect the ones most dear to its user."
+Legendary tier banner.
+
+MP Cost: 90.
+Cooldown: 8.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+Within 3.5 tiles, empowers allies for 7 seconds. Stays active for 6 seconds.
+
+While equipped:
++10 Defense.
++10 Wisdom.
++40 Protection.
+-20 Restoration.
+
+Templar's Gift: If your surge is above 5 upon using your banner you remove all negative conditions upon yourself.
+
+Does not drop from enemies.

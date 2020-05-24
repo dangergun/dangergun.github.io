@@ -1,0 +1,12 @@
+Bloodstone of Enmity [0x6814]
+"A rock found near the grave of Drannol. It seems to hold a great amount of power."
+Legendary tier consumable.
+
+When used:
+On self: Berserk for 7 seconds. Does not use wis mod.
+On self: Bravery for 7 seconds. Does not use wis mod.
+On self: Slowed for 7 seconds. Does not use wis mod.
+
+Drops from:
+Drannol, the Eternal Beast: 0.1% (1/1000) chance.
+Ultra Drannol, the Eternal Beast: 0.2% (1/500) chance.

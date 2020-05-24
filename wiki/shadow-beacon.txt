@@ -1,0 +1,20 @@
+Shadow Beacon [0x52ab]
+"A machine infused with dark energy that sends a pulse of shadow particles into the sky."
+Untiered banner.
+
+MP Cost: 90.
+Cooldown: 6.0 seconds.
+Fame Bonus: 6%.
+
+When used:
+On self: Berserk for 5 seconds. Does not use wis mod.
+On self: Healing for 2.5 seconds. Does not use wis mod.
+On self: Surged for 3 seconds. Does not use wis mod.
+Within 3 tiles, empowers allies for 5 seconds. Stays active for 6 seconds.
+
+While equipped:
++8 Defense.
+
+Drops from:
+Tunnel Varghus the Eye: 2.0% (1/50) chance.
+Varghus Test Chest: 3.5% (1/28) chance.

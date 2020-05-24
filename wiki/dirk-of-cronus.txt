@@ -1,0 +1,17 @@
+Dirk of Cronus [0xc0a]
+"{equip.This_legendary_dagger_was_commissioned_by_a_band_of_mad_rog}"
+Untiered dagger.
+
+Does 150-265 damage.
+114% rate of fire.
+Shoots 1 projectile.
+Range: 4.48 tiles.
+Fame Bonus: 6%.
+
+While equipped:
++100 Maximum MP.
++6 Speed.
++6 Wisdom.
+
+Drops from:
+Cube God: 1.0% (1/100) chance.

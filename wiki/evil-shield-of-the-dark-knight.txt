@@ -1,0 +1,21 @@
+Evil Shield of the Dark Knight [0x1773]
+"A shield that sometimes moves by itself, as if it was living."
+Untiered shield.
+
+Does 120-230 damage.
+Range: 3.2 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+MP Cost: 110.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+While equipped:
++12 Attack.
++4 Speed.
++40 Maximum HP.
+
+Wearing the whole set will reward you with: +200 HP, +20 Vit, +10 Atk
+
+Drops from:
+UNP The Dark Knight: 1.0% (1/100) chance.

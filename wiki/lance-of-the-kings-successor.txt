@@ -1,0 +1,19 @@
+Lance of the King's Successor [0x7082]
+"Designed to be used by the upcoming king of Aldridge to rule the mighty Kingdom he deserves."
+Sacred tier lance.
+
+Does 130-220 damage.
+80% rate of fire.
+Shoots 2 projectiles at a 9.0 degree angle.
+Range: 4.8 tiles.
+Shots hit multiple targets.
+Fame Bonus: 8%.
+
+While equipped:
++30 Maximum HP.
++35 Luck.
++35 Might.
+
+Critical Focus: On enemy hit, 7% chance to increase might by 10% of total luck. Stackable.
+
+Does not drop from enemies.

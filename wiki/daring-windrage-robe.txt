@@ -1,0 +1,12 @@
+Daring Windrage Robe [0x1579]
+"A wonderful robe used by the best of the best. All the mages want one!"
+Untiered robe.
+
+While equipped:
++17 Defense.
++6 Attack.
++6 Dexterity.
++6 Wisdom.
+
+Drops from:
+Tridorno: 1.5% (1/66) chance.

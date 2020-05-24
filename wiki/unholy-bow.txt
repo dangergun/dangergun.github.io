@@ -1,0 +1,13 @@
+Unholy Bow [0x770a]
+"Enchanted with evil, bound in sorcery, and curse are those who use it."
+Untiered bow.
+
+Does 80-90 damage.
+100% rate of fire.
+Shoots 2 projectiles at a 0.0 degree angle.
+Range: 5.88 tiles.
+Shots hit multiple targets.
+Fame Bonus: 6%.
+
+Drops from:
+UNP The Dark Knight: 4.0% (1/25) chance.

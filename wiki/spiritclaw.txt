@@ -1,0 +1,22 @@
+Spiritclaw [0x48fb]
+"Lives won't be spared."
+Godly tier sword.
+
+Does 250-350 damage.
+150% rate of fire.
+Shoots 1 projectile.
+Range: 3.0 tiles.
+Shots hit multiple targets.
+Shots ignore defense.
+Shots are wavy.
+Fame Bonus: 10%.
+
+While equipped:
++30 Restoration.
++50 Maximum MP.
+
+Drops from:
+AH Aldragine Loot Ctrl: 0.1% (1/1000) chance.
+AH Aldragine: 0.1% (1/1000) chance.
+AH ULTRA Aldragine Loot Ctrl: 0.2% (1/500) chance.
+AH ULTRA Aldragine: 0.2% (1/500) chance.

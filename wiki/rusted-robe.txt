@@ -1,0 +1,12 @@
+Rusted Robe [0x7209]
+"A rusty Robe radiating immense power from within, why don't you forge it at the anvil with  a Sacred Essence at the blacksmith to repair it!"
+Rusted tier consumable.
+
+Drops from:
+Anubis Test Chest: 0.1% (1/1000) chance.
+Dr Terrible: 0.1% (1/1000) chance.
+Horrific Creation: 0.1% (1/1000) chance.
+Oryx Defense System: 0.1% (1/1000) chance.
+Temple Boss: 1.0% (1/100) chance.
+Urios, God of Elements: 0.1% (1/1000) chance.
+lod Blue Loot Balloon: 0.05% (1/2000) chance.

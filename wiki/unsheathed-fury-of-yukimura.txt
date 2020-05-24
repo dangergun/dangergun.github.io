@@ -1,0 +1,19 @@
+Unsheathed Fury of Yukimura [0x7110]
+"Only ever held by the fearless Yukimura and hidden away from humanity to protect them from his eternal fury"
+Sacred tier katana.
+
+Does 205-240 damage.
+120% rate of fire.
+Shoots 2 projectiles at a 18.0 degree angle.
+Range: 5.5 tiles.
+Shots have an amplitude of 0.7 and a frequency of 2.
+Shots hit multiple targets.
+Fame Bonus: 8%.
+
+While equipped:
++10 Speed.
+-8 Wisdom.
+
+Runic Offense: On hit, 8% chance to trigger an AOE damage for 1.5x of taken damage with a 4 tile radius. Stackable.
+
+Does not drop from enemies.

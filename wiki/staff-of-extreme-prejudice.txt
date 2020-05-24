@@ -1,0 +1,13 @@
+Staff of Extreme Prejudice [0xc03]
+"{equip.Once_the_most_powerful_staff_in_existence;_a_crack_in_its_f}"
+Untiered staff.
+
+Does 80-95 damage.
+40% rate of fire.
+Shoots 10 projectiles at a 36.0 degree angle.
+Range: 4.0 tiles.
+Shots have an amplitude of 0.15 and a frequency of 2.
+Fame Bonus: 6%.
+
+Drops from:
+Limon the Sprite God: 2.0% (1/50) chance.

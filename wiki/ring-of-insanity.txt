@@ -1,0 +1,19 @@
+Ring of Insanity [0x7400]
+"A ring with a crimson glow, rumored to cast a curse on whoever wears it. Once worn, it consumes minds and drives people to the brink of insanity."
+Sacred tier accessory.
+
+Fame Bonus: 8%.
+
+While equipped:
++250 Maximum HP.
++5 Attack.
++70 Vitality.
+-15 Wisdom.
+-80 Maximum MP.
+
++2 Life Steal.
+
+Enhanced Growth: Health regeneration is increased by 10% and maximum health is increased by 5%. Stackable.
+
+Drops from:
+Akeldama, the Disciple of Oryx: 0.2% (1/500) chance.

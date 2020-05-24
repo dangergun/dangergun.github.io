@@ -1,0 +1,14 @@
+Bloodbath Dagger [0x770f]
+"A dagger left behind from a great massacre in Bedlam Asylum."
+Untiered dagger.
+
+Does 80-130 damage.
+120% rate of fire.
+Shoots 2 projectiles at a 8.0 degree angle.
+Range: 5.72 tiles.
+Shots have an amplitude of 0.1 and a frequency of 0.
+Shots hit multiple targets.
+Fame Bonus: 4%.
+
+Drops from:
+Zaragon, the Blood Mage: 2.0% (1/50) chance.

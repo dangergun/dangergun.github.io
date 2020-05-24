@@ -1,0 +1,18 @@
+Scepter of the Other [0x55b8]
+"A scepter that contains mystical abilities borrowed from the energy of time itself."
+Legendary tier scepter.
+
+MP Cost: 120.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+Lightning: 600 damage to 6 targets. Uses wis mod.
+Lightning effect: Petrify for 2.0 seconds.
+On self: Slowed for 1.5 seconds. Does not use wis mod.
+
+While equipped:
++10 Defense.
++10 Dexterity.
+
+Does not drop from enemies.

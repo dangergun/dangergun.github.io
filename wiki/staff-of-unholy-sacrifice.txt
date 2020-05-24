@@ -1,0 +1,11 @@
+Staff of Unholy Sacrifice [0x5482]
+"A commanding staff used by vile cult leaders. It has a strange force inside it that prevents it from facing forward of the user."
+Legendary tier staff.
+
+Does 195-225 damage.
+100% rate of fire.
+Shoots 4 projectiles at a 356.0 degree angle.
+Range: 8.05 tiles.
+Fame Bonus: 8%.
+
+Does not drop from enemies.

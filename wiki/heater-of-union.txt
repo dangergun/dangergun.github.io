@@ -1,0 +1,20 @@
+Heater of Union [0x69e4]
+"A shield used to shake the enemy and allows the user great defense."
+Legendary tier shield.
+
+Does 380-420 damage.
+Range: 3.2 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+MP Cost: 110.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+While equipped:
++15 Defense.
++30 Restoration.
++30% Maximum HP.
+
+Rockheart: While equipped you are immune to petrify if you have more than 5 surge.
+
+Does not drop from enemies.

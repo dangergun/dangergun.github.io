@@ -1,0 +1,20 @@
+Quiver of the Shadows [0x5467]
+"A mysterious quiver formed of pure evil and dark matter. Its ethereal existence creates a small implosion of nearby atmosphere when drawn."
+Legendary tier quiver.
+
+Does 700-800 damage.
+Range: 10.0 tiles.
+Shots hit multiple targets.
+Shots ignore defense.
+MP Cost: 80.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+On self: Berserk for 2 seconds. Does not use wis mod.
+
+While equipped:
+-10 Speed.
+
+Drops from:
+LH Void Entity: 0.5% (1/200) chance.

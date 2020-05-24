@@ -1,0 +1,13 @@
+Unholy Dagger [0x770c]
+"A true Unholy Dagger, used for many sacrifices to the Dark Lords of the Realm."
+Untiered dagger.
+
+Does 130-220 damage.
+114% rate of fire.
+Shoots 1 projectile.
+Range: 4.4 tiles.
+Shots have an amplitude of 0.15 and a frequency of 0.
+Fame Bonus: 4%.
+
+Drops from:
+UNP The Dark Knight: 4.0% (1/25) chance.

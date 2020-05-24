@@ -1,0 +1,16 @@
+Eradication Bow [0x42c7]
+"Destroys everything and anything that dares to block its path."
+Legendary tier bow.
+
+Does 100-140 damage.
+100% rate of fire.
+Shoots 5 projectiles at a 0.0 degree angle.
+Range: 6.91 tiles.
+Shots pass through obstacles.
+Fame Bonus: 8%.
+
+While equipped:
++100 Maximum MP.
+-100 Maximum HP.
+
+Does not drop from enemies.

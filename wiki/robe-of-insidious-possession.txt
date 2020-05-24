@@ -1,0 +1,15 @@
+Robe of Insidious Possession [0x7334]
+"A robe made with the skin of demons from the depths of hell. These demons possess those who wear, with immortality at the cost of their souls..."
+Untiered robe.
+
+Fame Bonus: 8%.
+
+While equipped:
++10 Wisdom.
++15 Defense.
++150 Maximum MP.
++8 Attack.
++8 Dexterity.
+
+Drops from:
+Akeldama, the Disciple of Oryx: 0.5% (1/200) chance.

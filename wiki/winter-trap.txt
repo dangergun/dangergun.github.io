@@ -1,0 +1,19 @@
+Winter Trap [0x7048]
+Untiered trap.
+
+MP Cost: 80.
+Cooldown: 0.5 seconds.
+Fame Bonus: 4%.
+
+When used:
+Steals 50 HP within 5 tiles. Centered around the player's cursor.
+Trap: 350 damage within 5 tiles.
+On enemies: Paralyzed for 3.5 seconds.
+Throw time: 1 second.
+
+While equipped:
++2 Dexterity.
++2 Speed.
+
+Drops from:
+ic Loot Balloon: 0.5% (1/200) chance.

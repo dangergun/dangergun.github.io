@@ -1,0 +1,19 @@
+Strike Amulet [0x9d2]
+"{equip.A_magical_amulet_that_enables_lightning_assaults.}"
+Legendary tier tome.
+
+MP Cost: 10.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+Enemy Effect: Dazed for 2 seconds within 3 tiles. Centered around the player's cursor.
+Teleports the player to the cursor, with a maximum distance of 20 tiles.
+
+While equipped:
++10 Restoration.
++25 Protection.
++8 Speed.
++8 Wisdom.
+
+Does not drop from enemies.

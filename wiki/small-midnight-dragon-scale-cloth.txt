@@ -1,0 +1,10 @@
+Small Midnight Dragon Scale Cloth [0x1357]
+"{textiles.small_description}"
+Untiered consumable.
+This item is soulbound.
+
+When used:
+Changes the character's dye.
+
+Drops from:
+lod Black Loot Balloon: 4.5% (1/22) chance.

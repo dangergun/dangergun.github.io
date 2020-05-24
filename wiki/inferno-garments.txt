@@ -1,0 +1,18 @@
+Inferno Garments [0x7063]
+"A garment forged within a blazing volcano hallowed by the fiery spirits residing within."
+Sacred tier robe.
+
+Fame Bonus: 8%.
+
+While equipped:
++12 Attack.
++15 Dexterity.
++16 Defense.
++17 Speed.
++20 Restoration.
++60 Maximum MP.
+-50 Maximum HP.
+
+Collector's Edition: All stats are increased by 0.65% per sacred item in inventory. Stackable.
+
+Does not drop from enemies.

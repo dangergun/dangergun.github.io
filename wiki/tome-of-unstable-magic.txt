@@ -1,0 +1,20 @@
+Tome of Unstable Magic [0x7336]
+"A book buried alongside hades himself in his tombstone. "
+Untiered tome.
+
+MP Cost: 110.
+Cooldown: 3.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+Heals 500 HP within 2 tiles. Does not use wis mod.
+On self: Armor Broken for 7 seconds. Does not use wis mod.
+On self: Berserk for 3.5 seconds. Uses wis mod.
+On self: Damaging for 4 seconds. Uses wis mod.
+
+While equipped:
++10 Vitality.
++80 Maximum MP.
+
+Drops from:
+Akeldama, the Disciple of Oryx: 0.5% (1/200) chance.

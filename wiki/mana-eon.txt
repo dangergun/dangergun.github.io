@@ -1,0 +1,10 @@
+Mana Eon [0x45a5]
+"This relic can be shattered. Once shattered it causes the mortal to have the power of the gods."
+Untiered consumable.
+
+When used:
+Permanently increases Maximum MP by 999.
+
+Drops from:
+True Somnus, the Dream Entity: 1.0% (1/100) chance.
+Yazanahar: 10.0% (1/10) chance.

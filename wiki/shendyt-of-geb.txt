@@ -1,0 +1,15 @@
+Shendyt of Geb [0x235c]
+"{equip.A_ceremonial_garment_worn_by_those_who_whorship_the_god_Geb}"
+Untiered robe.
+
+Fame Bonus: 4%.
+
+While equipped:
++15 Defense.
++25 Maximum HP.
++25 Maximum MP.
++7 Vitality.
++7 Wisdom.
+
+Drops from:
+Tomb Attacker: 1.0% (1/100) chance.

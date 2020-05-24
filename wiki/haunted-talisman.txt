@@ -1,0 +1,26 @@
+Haunted Talisman [0x7189]
+"This Talisman holds the ghost of its former self, forever trapped inside."
+Sacred tier talisman.
+
+MP Cost: 100.
+Cooldown: 3.0 seconds.
+
+When used:
+On self: Berserk for 2 seconds. Does not use wis mod.
+On self: Sick for 1.5 seconds. Does not use wis mod.
+
+While equipped:
++10 Attack.
++20 Restoration.
+-10 Vitality.
+-20 Protection.
+-50 Maximum HP.
+
+Spawns a ghost to aid you in combat.
+Damage: 1300
+Lifetime: 4.2
+Effect: Cursed for 2 secs
+
+Runic Offense: On hit, 8% chance to trigger an AOE damage for 1.5x of taken damage with a 4 tile radius. Stackable.
+
+Does not drop from enemies.

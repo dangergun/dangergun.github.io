@@ -1,0 +1,23 @@
+Flashburst Spell [0x61ad]
+"Command the power of the genisus by will by using this spell."
+Untiered spell.
+
+Does 270-480 damage.
+Range: 3.0 tiles.
+Shots hit multiple targets.
+Shots boomerang.
+MP Cost: 120.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Shoots 12 shots in a circle around the cursor.
+
+While equipped:
++30 Protection.
+-40 Maximum MP.
+
++3 Mana Leech.
+
+Drops from:
+Codename G-24, Nitrostorm: 2.0% (1/50) chance.

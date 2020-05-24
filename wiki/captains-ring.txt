@@ -1,0 +1,13 @@
+Captain's Ring [0xc27]
+"{equip.Captain_Davy_JonesAPOS_ring.}"
+Untiered accessory.
+
+Fame Bonus: 2%.
+
+While equipped:
++4 Attack.
++4 Dexterity.
++60 Maximum HP.
+
+Drops from:
+Davy Jones: 5.0% (1/20) chance.

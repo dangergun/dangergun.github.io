@@ -1,0 +1,19 @@
+Soul of the Bearer [0x2362]
+"{equip.All_shall_know_my_power._Not_even_the_Mad_God_can_stop_me.}"
+Untiered orb.
+
+MP Cost: 100.
+Cooldown: 4.0 seconds.
+Fame Bonus: 4%.
+
+When used:
+Enemy Effect: Curse for 1.5 seconds within 4.5 tiles. Centered around the player.
+Enemy effect: Within 3 tiles of the player's cursor, Stasis for 3 seconds.
+
+While equipped:
++1 Dexterity.
++1 Speed.
++3 Attack.
+
+Drops from:
+Phylactery Bearer: 0.2% (1/500) chance.

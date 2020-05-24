@@ -1,0 +1,22 @@
+Skull of the Titan [0x47d8]
+"A helmet made from the cranium of the titan, which grants the wearer a powerful defence."
+Legendary tier helm.
+
+MP Cost: 100.
+Cooldown: 10.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Armored for 4.5 seconds. Does not use wis mod.
+On self: Speedy for 6 seconds. Does not use wis mod.
+Party effect: Berserk for 9 seconds within 7 tiles. Uses wis mod.
+
+While equipped:
++150 Maximum HP.
++35 Vitality.
+
++1 Life Steal.
+
+Affliction: If you are attacked by an enemy you deal half the damage back to them.
+
+Does not drop from enemies.

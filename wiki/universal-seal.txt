@@ -1,0 +1,26 @@
+Universal Seal [0x7086]
+"A seal held by the cosmic beings above the realm, how did it get here?"
+Sacred tier seal.
+
+MP Cost: 80.
+Cooldown: 5.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Bravery for 2 seconds. Does not use wis mod.
+On self: Speedy for 3 seconds. Does not use wis mod.
+On self: Surged for 2 seconds. Does not use wis mod.
+Party effect: Damaging for 4 seconds within 4 tiles. Does not use wis mod.
+Party effect: Healing for 4 seconds within 4 tiles. Does not use wis mod.
+Party effect: Within 4 tiles, +200 Maximum HP for 4 seconds. Does not use wis mod.
+Party effect: Within 4 tiles, +200 Maximum MP for 4 seconds. Does not use wis mod.
+
+While equipped:
++10 Dexterity.
++5% Luck.
+-10 Might.
+-5 Speed.
+
+Runic Offense: On hit, 8% chance to trigger an AOE damage for 1.5x of taken damage with a 4 tile radius. Stackable.
+
+Does not drop from enemies.

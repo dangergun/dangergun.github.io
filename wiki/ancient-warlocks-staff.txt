@@ -1,0 +1,23 @@
+Ancient Warlock's Staff [0x47f3]
+"An already known power increased to it's maximum potential morphed to be handled by mortals."
+Sacred tier staff.
+
+Does 140-200 damage.
+54% rate of fire.
+Shoots 12 projectiles at a 36.0 degree angle.
+Range: 4.07 tiles.
+Shots have an amplitude of 0.15 and a frequency of 2.
+Fame Bonus: 8%.
+
+While equipped:
++60 Maximum HP.
++60 Maximum HP.
++8 Attack.
++8 Defense.
++8 Speed.
++8 Vitality.
+
+Adrenaline Rush: On hit, 8% chance to ignore incoming damage. Stackable.
+
+Drops from:
+Limon the Sprite God: 0.2% (1/500) chance.

@@ -1,0 +1,12 @@
+Ring of Undeadly Conjury [0x518e]
+"A ring that will give you the strength of the undead on your side."
+Untiered accessory.
+
+While equipped:
++7 Attack.
++7 Dexterity.
++7 Speed.
++80 Maximum HP.
+
+Drops from:
+Corrupted Flames of Fate: 9.2% (1/10) chance.

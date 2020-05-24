@@ -1,0 +1,18 @@
+Corruption Spell [0x52c8]
+"A spell that will inflict the worst of pain upon it's enemy and will consume their life essence."
+Fabled tier spell.
+
+Does 250-350 damage.
+Range: 3.0 tiles.
+Shots ignore defense.
+MP Cost: 100.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Shoots 12 shots in a circle around the cursor.
+
+While equipped:
++15 Dexterity.
+
+Does not drop from enemies.

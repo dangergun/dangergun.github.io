@@ -1,0 +1,18 @@
+Glaive of Victory [0x64f4]
+"A glaive used to celebrate victory."
+Untiered lance.
+
+Does 160-200 damage.
+70% rate of fire.
+Shoots 2 projectiles at a 5.0 degree angle.
+Range: 8.0 tiles.
+Shots hit multiple targets.
+Shots ignore defense.
+Fame Bonus: 6%.
+
+While equipped:
++20 Maximum MP.
++20 Restoration.
+
+Drops from:
+The Horrific: 2.6% (1/38) chance.

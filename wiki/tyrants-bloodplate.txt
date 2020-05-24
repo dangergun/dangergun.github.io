@@ -1,0 +1,13 @@
+Tyrant's Bloodplate [0x7333]
+"Armor made from interlocking iron links."
+Untiered heavy armor.
+
+While equipped:
++12 Dexterity.
++17 Defense.
++5 Speed.
++75 Maximum HP.
++75 Maximum MP.
+
+Drops from:
+Akeldama, the Disciple of Oryx: 0.5% (1/200) chance.

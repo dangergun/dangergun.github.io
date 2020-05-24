@@ -1,0 +1,20 @@
+Scutum of the Legionnaire [0x1571]
+"Built for the most noble of knights in order to protect their kingdom."
+Legendary tier shield.
+
+Does 370-460 damage.
+Range: 4.29 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+MP Cost: 110.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+While equipped:
++10 Defense.
++4 Dexterity.
++60 Maximum HP.
++8 Speed.
+Grants Armored after 150 seconds.
+
+Does not drop from enemies.

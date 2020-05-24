@@ -1,0 +1,13 @@
+Black Flame Staff [0x7604]
+"Hot hot hot hot hot hot hot hot!"
+Untiered staff.
+
+Does 50-70 damage.
+80% rate of fire.
+Shoots 4 projectiles at a 7.0 degree angle.
+Range: 7.0 tiles.
+Shots have an amplitude of 0.5 and a frequency of 2.
+Fame Bonus: 6%.
+
+Drops from:
+Hellfire Lord: 1.0% (1/100) chance.

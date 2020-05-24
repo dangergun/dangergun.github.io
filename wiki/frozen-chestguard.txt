@@ -1,0 +1,15 @@
+Frozen Chestguard [0x64b4]
+"An ancient frozen armor that has a ring of unbreakable ice attached to it."
+Untiered heavy armor.
+
+Fame Bonus: 6%.
+
+While equipped:
++135 Maximum MP.
++25 Wisdom.
++30 Protection.
++35 Defense.
++5 Attack.
+
+Drops from:
+Bergelmir, the Frost Guardian: 50.0% chance.

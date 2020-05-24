@@ -1,0 +1,15 @@
+Iron Protection [0x794a]
+"A heavy armor, yet light as a feather."
+Untiered robe.
+
+Fame Bonus: 6%.
+
+While equipped:
++14 Defense.
++6 Wisdom.
++60 Maximum HP.
++7 Attack.
++80 Maximum MP.
+
+Drops from:
+Dr Terrible: 1.0% (1/100) chance.

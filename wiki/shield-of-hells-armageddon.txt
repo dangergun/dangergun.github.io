@@ -1,0 +1,23 @@
+Shield of Hell's Armageddon [0x7342]
+"A shield wielded by the defenders of the gates of hell preventing an oncoming armageddon."
+Untiered shield.
+
+Does 400-500 damage.
+Range: 3.2 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+MP Cost: 140.
+Cooldown: 1.0 seconds.
+Fame Bonus: 6%.
+
+When used:
+On self: Dazed for 1.5 seconds. Does not use wis mod.
+
+While equipped:
++10 Defense.
++15 Restoration.
++2 Attack.
++2 Dexterity.
+
+Drops from:
+Oryx Defense System: 0.5% (1/200) chance.

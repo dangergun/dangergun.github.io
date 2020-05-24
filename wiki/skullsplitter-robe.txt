@@ -1,0 +1,18 @@
+Skullsplitter Robe [0x7064]
+"A dystopian robe worn by the shamans of the shadows to save themselves from the demons haunting them."
+Sacred tier robe.
+
+Fame Bonus: 8%.
+
+While equipped:
++18 Defense.
++30 Protection.
++300 Maximum MP.
++40 Wisdom.
++90 Maximum HP.
+
++2 Mana Leech.
+
+Open Mind: Mana regeneration is increased by 10% and maximum mana is increased by 5%. Stackable.
+
+Does not drop from enemies.

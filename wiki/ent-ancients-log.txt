@@ -1,0 +1,17 @@
+Ent Ancients Log [0x269]
+"This heavy log has been made out of an Ent Ancients corpse. Hunted down by the Stone-born berserkers of Leernoth, used for absolute obliteration of their enemies in combat."
+Untiered sword.
+
+Does 570-660 damage.
+40% rate of fire.
+Shoots 1 projectile.
+Range: 3.5 tiles.
+Fame Bonus: 4%.
+
+While equipped:
++3 Attack.
+-2 Speed.
+-3 Defense.
+
+Drops from:
+Actual Ent Ancient: 1.3% (1/76) chance.

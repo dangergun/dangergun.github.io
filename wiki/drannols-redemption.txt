@@ -1,0 +1,12 @@
+Drannol's Redemption [0x7925]
+"{equip.Indestructible_magical_armor_made_for_the_elite_stoneborn_c}"
+Godslayer tier heavy armor.
+
+Fame Bonus: 8%.
+
+While equipped:
++2500 Maximum HP.
+-10 Dexterity.
+-20 Attack.
+
+Does not drop from enemies.

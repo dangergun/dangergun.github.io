@@ -1,0 +1,28 @@
+Potion of Dexterity [0xa4c]
+"{equip.A_potion_that_permanently_increases_dexterity.}"
+Untiered consumable.
+
+When used:
+Permanently increases Dexterity by 2.
+
+Drops from:
+Angelic Commander: 6.666% (1/15) chance.
+Codename G-24, Nitrostorm: 33.0% (1/3) chance.
+Colothiois the Exalted: 100.0% chance.
+Construct of the Concealment: 6.666% (1/15) chance.
+Corrupted Flames of Fate: 100.0% chance.
+Dragon Head: 10.0% (1/10) chance.
+Elemental Flame: 20.0% (1/5) chance.
+Ent: 2.0% (1/50) chance.
+Frost Knight: 6.666% (1/15) chance.
+GolemC Test Chest: 100.0% chance.
+Lenin: 100.0% chance.
+Limon the Sprite God: 100.0% chance.
+Mad Jester: 10.0% (1/10) chance.
+Pentaract Tower Corpse: 10.0% (1/10) chance.
+Sorgigas, the Sor Giant: 50.0% chance.
+Thunder God: 6.666% (1/15) chance.
+Tridorno: 60.0% chance.
+Varghus Test Chest: 80.0% chance.
+Zeus: 100.0% chance.
+lod Ivory Wyvern: 30.0% (1/3) chance.

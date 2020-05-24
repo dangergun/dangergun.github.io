@@ -1,0 +1,16 @@
+Ring of Boiling Lava [0x232]
+"This stone ring looks safe to handle, but something tells me to be careful about it..."
+Untiered accessory.
+
+Fame Bonus: 5%.
+
+While equipped:
++2 Speed.
++4 Vitality.
++5 Defense.
++5 Wisdom.
++80 Maximum HP.
+-25 Maximum MP.
+
+Drops from:
+Ghost Ship: 1.3% (1/76) chance.

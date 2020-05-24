@@ -1,0 +1,20 @@
+Sky-Striker [0x61db]
+"Wand imbued with earthly energy that is so strong it pierces the heavens. When wielded it is said to pierce through the air itself."
+Legendary tier wand.
+
+Does 150-500 damage.
+95% rate of fire.
+Shoots 1 projectile.
+Range: 5.1 tiles.
+Shots have an amplitude of 0.5 and a frequency of 0.
+Shots pass through obstacles.
+Fame Bonus: 8%.
+
+While equipped:
++15 Vitality.
+
++1 Life Steal.
+
+Sky-Striker: (Must have Book of Burning Souls or the Volcanic Vengeance equipped) If your ability isn't lower than 6 tiers using your ability has a chance to throw a meteor that deals damage based on both your max health and mana.
+
+Does not drop from enemies.

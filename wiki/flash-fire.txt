@@ -1,0 +1,16 @@
+Flash-Fire [0x1398]
+"Formed from the fires of satan, this armor contains the many evil souls of his victims."
+Legendary tier leather armor.
+
+Fame Bonus: 8%.
+
+While equipped:
++10 Attack.
++100 Luck.
++16 Defense.
++5 Speed.
++75 Might.
+
+Combustion: If your ability isn't lower than 6 tiers using your ability causes an explosion that burns enemies around you. This explosion does 3000 damage over 7 seconds.
+
+Does not drop from enemies.

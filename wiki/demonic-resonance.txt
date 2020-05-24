@@ -1,0 +1,23 @@
+Demonic Resonance [0x672c]
+"Bound together by an unbreakable bond, this demon trapped inside protects its user in order to save its own skin."
+Legendary tier talisman.
+
+MP Cost: 100.
+Cooldown: 4.0 seconds.
+
+When used:
+Enemy Effect: Paralyzed for 3 seconds within 5 tiles. Centered around the player.
+On self: Berserk for 6 seconds. Does not use wis mod.
+
+While equipped:
++10 Protection.
++12 Dexterity.
++20 Might.
++80 Maximum HP.
+
+Spawns a ghost to aid you in combat.
+Damage: 800
+Lifetime: 6
+Effect: Dazed for 4 secs
+
+Does not drop from enemies.

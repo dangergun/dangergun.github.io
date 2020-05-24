@@ -1,0 +1,13 @@
+Diamond Bladed Katana [0x228a]
+"{equip.Diamonds_are_a_girls_best_friend,_they_also_happen_to_make_}"
+Untiered katana.
+
+Does 115-135 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 4.2 tiles.
+Shots hit multiple targets.
+Fame Bonus: 1%.
+
+Drops from:
+vlntns Loot Balloon Bella: 10.0% (1/10) chance.

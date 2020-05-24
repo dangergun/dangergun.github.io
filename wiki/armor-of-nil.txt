@@ -1,0 +1,15 @@
+Armor of Nil [0x5468]
+"This armor does not deflect projectiles like most materials known to man. It absorbs and engulfs them, sending them to a new plane of reality."
+Legendary tier leather armor.
+
+Fame Bonus: 8%.
+
+While equipped:
++30 Protection.
++60 Defense.
+-8 Speed.
+
+Void Energy: Every time you are hit you will gain 10 Maximum HP for 5 seconds (Stackable). 
+
+Drops from:
+LH Void Entity: 0.5% (1/200) chance.

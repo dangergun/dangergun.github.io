@@ -1,0 +1,19 @@
+Bow of Ancient Carnage [0x7322]
+"A bow once used to slaughter an entire Kingdom. The Kingdom cursed this bow with an evil fate upon whoever holds it..."
+Untiered bow.
+
+Does 150 damage.
+110% rate of fire.
+Shoots 2 projectiles at a 11.0 degree angle.
+Range: 8.44 tiles.
+Shots have an amplitude of 1.26 and a frequency of 1.
+Shots hit multiple targets.
+Shots pass through obstacles.
+Fame Bonus: 6%.
+
+While equipped:
++3 Speed.
++5 Vitality.
+
+Drops from:
+Oryx Defense System: 0.5% (1/200) chance.

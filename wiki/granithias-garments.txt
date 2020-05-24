@@ -1,0 +1,14 @@
+Granithia's Garments [0x67a3]
+"You can feel the strength of Granithia embedded in this robe."
+Untiered robe.
+
+Fame Bonus: 6%.
+
+While equipped:
++24 Defense.
++240 Maximum HP.
++4 Attack.
++4 Dexterity.
+
+Drops from:
+Granithia: 1.0% (1/100) chance.

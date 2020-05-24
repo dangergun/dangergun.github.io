@@ -1,0 +1,13 @@
+Ring of Divine Faith [0xc20]
+"{equip.A_ring_that_symbolizes_divine_might.}"
+Untiered accessory.
+
+Fame Bonus: 2%.
+
+While equipped:
++5 Vitality.
++5 Wisdom.
+
+Drops from:
+Coffin: 1.0% (1/100) chance.
+Lord Ruthven: 5.0% (1/20) chance.

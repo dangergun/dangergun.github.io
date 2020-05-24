@@ -1,0 +1,20 @@
+Skull Helm [0x57b8]
+"The skull of a dark skeleton king. He was slayed by the last generation of RotMG players and was replaced with the Pumpkin King."
+Untiered helm.
+
+MP Cost: 90.
+Cooldown: 7.0 seconds.
+Fame Bonus: 6%.
+
+When used:
+On self: Berserk for 5 seconds. Does not use wis mod.
+Party effect: Speedy for 6 seconds within 4 tiles. Does not use wis mod.
+Party effect: Within 3 tiles, +20 Maximum MP for 5 seconds. Does not use wis mod.
+
+While equipped:
++6 Speed.
++8 Attack.
++8 Defense.
+
+Drops from:
+Pumpkin King of Peril: 6.0% (1/16) chance.

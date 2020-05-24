@@ -1,0 +1,11 @@
+Poison Fang Dagger [0x709]
+"{equip.A_dagger_fashioned_from_the_fang_of_an_enormous_spider.}"
+Untiered dagger.
+
+Does 55-120 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 5.6 tiles.
+
+Drops from:
+Arachna the Spider Queen: 10.0% (1/10) chance.

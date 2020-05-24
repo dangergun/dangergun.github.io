@@ -1,0 +1,25 @@
+Plaguebearer Seal [0x7087]
+"A seal held by the cosmic beings above the realm, how did it get here?"
+Sacred tier seal.
+
+MP Cost: 90.
+Cooldown: 4.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+Enemy Effect: Armor Broken for 4 seconds within 4 tiles. Centered around the player's cursor.
+On self: Berserk for 4 seconds. Does not use wis mod.
+On self: Sick for 3 seconds. Does not use wis mod.
+Party effect: Damaging for 6 seconds within 6 tiles. Does not use wis mod.
+Party effect: Within 6 tiles, +165 Maximum HP for 4 seconds. Does not use wis mod.
+
+While equipped:
++2 Attack.
++2 Dexterity.
+-10 Restoration.
+-5 Defense.
+-5 Speed.
+
+Collector's Edition: All stats are increased by 0.65% per sacred item in inventory. Stackable.
+
+Does not drop from enemies.

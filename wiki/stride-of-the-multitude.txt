@@ -1,0 +1,12 @@
+Stride of the Multitude [0x169f]
+"Forged from the quintessence of the masses marching to defend their homes, this armor gives unparalleled speed."
+Legendary tier heavy armor.
+
+Fame Bonus: 8%.
+
+While equipped:
++200 Maximum HP.
++24 Defense.
++50% Speed.
+
+Does not drop from enemies.

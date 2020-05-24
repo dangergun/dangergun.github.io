@@ -1,0 +1,26 @@
+Bottled Mercury [0x7874]
+"A sturdy glass bottle containing a potent poison, if anyone were to get a hold of this mercury many lives would be lost..."
+Sacred tier poison.
+
+MP Cost: 300.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+Enemy Effect: Slowed for 6 seconds within 2 tiles. Centered around the player's cursor.
+Enemy Effect: Weak for 3 seconds within 2.5 tiles. Centered around the player's cursor.
+On self: Berserk for 2.5 seconds. Does not use wis mod.
+On self: Bleeding for 2.5 seconds. Does not use wis mod.
+Poison Grenade:
+After 2.5 seconds, 2200 impact damage + 7000 damage over 8 seconds. Uses wis mod.
+
+While equipped:
++15 Wisdom.
++8 Speed.
+-10 Vitality.
+-70 Maximum HP.
+
+Runic Defense: On hit, 8% chance to trigger an AOE heal for the taken damage with a 4 tile radius. Stackable.
+
+Drops from:
+True Somnus, the Dream Entity: 0.2% (1/500) chance.

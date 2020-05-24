@@ -1,0 +1,15 @@
+Potion of Protection [0x68fe]
+"A potion that permanently increases your protection."
+Untiered consumable.
+
+When used:
+Permanently increases Protection by 2.
+
+Drops from:
+BedlamGod: 50.0% chance.
+Codename G-24, Nitrostorm: 100.0% chance.
+Lenin: 100.0% chance.
+Riv the Heavenly Champion: 100.0% chance.
+Son of Arachna: 30.0% (1/3) chance.
+The Mothership: 50.0% chance.
+The Overseer: 100.0% chance.

@@ -1,0 +1,19 @@
+Phantom Talisman [0x672b]
+"A talisman that calls the lost spirits that haunt the undead lair."
+Untiered talisman.
+
+MP Cost: 100.
+Cooldown: 4.0 seconds.
+
+While equipped:
++40 Maximum MP.
++6 Speed.
++8 Attack.
+
+Spawns a ghost to aid you in combat.
+Damage: 680
+Lifetime: 6
+Effect: Cursed for 4 secs
+
+Drops from:
+Septavius the Ghost God: 2.0% (1/50) chance.

@@ -1,0 +1,29 @@
+Potion of Life [0xae9]
+"{equip.A_potion_that_permanently_increases_health.}"
+Untiered consumable.
+
+When used:
+Permanently increases Maximum HP by 10.
+
+Drops from:
+Anubis Test Chest: 100.0% chance.
+Anubis Test Chest: 100.0% chance.
+Cube God: 20.0% (1/5) chance.
+Desire Troll: 8.0% (1/12) chance.
+Doomages: 100.0% chance.
+Ghost Ship: 20.0% (1/5) chance.
+Gigacorn: 8.0% (1/12) chance.
+Grand Sphinx: 20.0% (1/5) chance.
+Hades: 100.0% chance.
+Lenin: 100.0% chance.
+Lord of the Lost Lands: 20.0% (1/5) chance.
+Mad Jester: 100.0% chance.
+MegaRototo: 8.0% (1/12) chance.
+Pentaract Tower Corpse: 20.0% (1/5) chance.
+Spoiled Creampuff: 8.0% (1/12) chance.
+Swoll Fairy: 8.0% (1/12) chance.
+The Mothership: 20.0% (1/5) chance.
+Tridorno: 80.0% chance.
+UNP The Dark Knight: 100.0% chance.
+shtrs Defense System: 20.0% (1/5) chance.
+shtrs Loot Balloon King: 100.0% chance.

@@ -1,0 +1,12 @@
+Cheval Trap Dagger [0x1648]
+"A spined dagger that is designed to remain on the ground if it fails to hit its target."
+Fabled tier dagger.
+
+Does 0-500 damage.
+10% rate of fire.
+Shoots 1 projectile.
+Range: 4.53 tiles.
+Shots hit multiple targets.
+Fame Bonus: 5%.
+
+Does not drop from enemies.

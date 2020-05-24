@@ -1,0 +1,23 @@
+Greater Potion of Vitality [0x236b]
+"{equip.A_potion_that_permanently_increases_vitality.}"
+Untiered consumable.
+
+When used:
+Permanently increases Vitality by 4.
+
+Drops from:
+Archdemon Malphas: 100.0% chance.
+Elemental Phantom: 100.0% chance.
+Hellfire Lord: 100.0% chance.
+Hermit God Drop: 100.0% chance.
+Lord Stone Gargoyle: 20.0% (1/5) chance.
+Malgor, the Eternal Fiend: 100.0% chance.
+Oryx the Mad God 2: 50.0% chance.
+Oryx the Mad God 2OA: 100.0% chance.
+Riv the Heavenly Champion: 60.0% chance.
+Sanic: 100.0% chance.
+The Alien King: 100.0% chance.
+Tomb Support: 80.0% chance.
+True Somnus, the Dream Entity: 100.0% chance.
+Vitalia: 100.0% chance.
+Yazanahar: 40.0% chance.

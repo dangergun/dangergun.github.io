@@ -1,0 +1,22 @@
+Blades of Majesty [0x6706]
+"Forged from the purest platinum for the mightiest of kings."
+Legendary tier blades.
+
+Does 140-155 damage.
+105% rate of fire.
+Shoots 3 projectiles at a 8.0 degree angle.
+Range: 3.9 tiles.
+Shots have an amplitude of 0.25 and a frequency of 1.
+Shots ignore defense.
+Fame Bonus: 8%.
+
+While equipped:
++110 Maximum HP.
++5 Attack.
++5 Dexterity.
+-10 Defense.
+-70 Maximum MP.
+
+Slayer Recovery Technique: If your surge is at least 10 when using your ability you gain health based on how much surge you have.
+
+Does not drop from enemies.

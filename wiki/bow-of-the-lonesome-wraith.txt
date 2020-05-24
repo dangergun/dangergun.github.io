@@ -1,0 +1,18 @@
+Bow of the Lonesome Wraith [0x47b7]
+"Forever."
+Untiered bow.
+
+Does 195-240 damage.
+70% rate of fire.
+Shoots 4 projectiles at a 30.0 degree angle.
+Range: 6.06 tiles.
+Shots have an amplitude of 1.0 and a frequency of 2.
+Shots hit multiple targets.
+Fame Bonus: 5%.
+
+While equipped:
+-100 Maximum HP.
+
+Drops from:
+AB Secret Chest: 2.0% (1/50) chance.
+AB The Dark Sorcerer: 5.0% (1/20) chance.

@@ -1,0 +1,19 @@
+Hellslicer [0x5046]
+"An extremely red katana that burns through anything by touch."
+Untiered katana.
+
+Does 130-200 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 4.34 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+Shots ignore defense.
+Fame Bonus: 6%.
+
+While equipped:
++6 Speed.
++80 Maximum HP.
+
+Drops from:
+Hades: 2.0% (1/50) chance.

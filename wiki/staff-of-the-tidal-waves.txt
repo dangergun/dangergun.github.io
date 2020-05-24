@@ -1,0 +1,18 @@
+Staff of the Tidal Waves [0x7868]
+"you'll be the most popular guy on the beach with a staff that makes waves, Surf's up bro!"
+Untiered staff.
+
+Does 70-90 damage.
+130% rate of fire.
+Shoots 2 projectiles at a 0.0 degree angle.
+Range: 8.82 tiles.
+Shots ignore defense.
+Shots are wavy.
+Fame Bonus: 6%.
+
+While equipped:
++2 Attack.
++60 Maximum MP.
+
+Drops from:
+Vangor, the Ancient: 1.0% (1/100) chance.

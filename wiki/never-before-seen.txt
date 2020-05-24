@@ -1,0 +1,16 @@
+Never Before Seen [0x47db]
+"A robe that promotes swift movement and god-like life essence never before seen."
+Legendary tier robe.
+
+Fame Bonus: 8%.
+
+While equipped:
++12 Speed.
++15 Dexterity.
++200 Maximum HP.
++5 Attack.
++5 Defense.
+-4 Wisdom.
+-6 Vitality.
+
+Does not drop from enemies.

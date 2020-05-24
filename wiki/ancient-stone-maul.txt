@@ -1,0 +1,17 @@
+Ancient Stone Maul [0x61b8]
+"A large maul made of gargoyle stone with an amethyst encrusted handle. "
+Untiered sword.
+
+Does 170-210 damage.
+60% rate of fire.
+Shoots 3 projectiles at a 0.0 degree angle.
+Range: 4.3 tiles.
+Fame Bonus: 6%.
+
+While equipped:
++6 Defense.
++8 Attack.
++80 Maximum HP.
+
+Drops from:
+Lord Stone Gargoyle: 2.0% (1/50) chance.

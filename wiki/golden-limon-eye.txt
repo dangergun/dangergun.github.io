@@ -1,0 +1,13 @@
+Golden Limon Eye [0x509f]
+"A treasure from the Sprite World."
+Untiered consumable.
+This item is soulbound.
+
+When used:
+Grants the player 125 gold.
+
+Can be used to obtain 125 gold.
+{equip.Treasure}: {equip.1_of_2}
+
+Drops from:
+Limon the Sprite God: 3.2% (1/31) chance.

@@ -1,0 +1,25 @@
+Ancient Wood Cane [0x7105]
+"A handcrafted cane used by the village elder of an ancient Aldridge town."
+Sacred tier wand.
+
+Does 392-420 damage.
+126% rate of fire.
+Shoots 1 projectile.
+Range: 6.1 tiles.
+Shots have an amplitude of 1.05 and a frequency of 1.
+Shots hit multiple targets.
+Shots pass through obstacles.
+Shots boomerang.
+Fame Bonus: 7%.
+
+While equipped:
++100 Maximum MP.
++25 Wisdom.
+-5 Speed.
+-7 Vitality.
+
++3 Mana Leech.
+
+Open Mind: Mana regeneration is increased by 10% and maximum mana is increased by 5%. Stackable.
+
+Does not drop from enemies.

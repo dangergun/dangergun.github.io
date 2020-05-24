@@ -1,0 +1,11 @@
+Rusted Bow [0x7203]
+"A rusty Bow radiating immense power from within, why don't you forge it at the anvil with  a Sacred Essence at the blacksmith to repair it!"
+Rusted tier consumable.
+
+Drops from:
+AH Heart Loot Ctrl: 0.025% (1/4000) chance.
+AH ULTRA Heart Loot Ctrl: 0.05% (1/2000) chance.
+Codename G-24, Nitrostorm: 0.05% (1/2000) chance.
+Puppet Master v2: 0.05% (1/2000) chance.
+Septavius the Ghost God: 0.05% (1/2000) chance.
+The Dreadnought: 0.05% (1/2000) chance.

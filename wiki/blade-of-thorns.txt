@@ -1,0 +1,18 @@
+Blade of Thorns [0x676a]
+"A long, narrow, curved blade made of thorns held together by the petals of Vitalia."
+Untiered katana.
+
+Does 200-220 damage.
+125% rate of fire.
+Shoots 1 projectile.
+Range: 5.85 tiles.
+Shots hit multiple targets.
+Fame Bonus: 6%.
+
+While equipped:
++125 Maximum HP.
++20 Vitality.
++6 Attack.
+
+Drops from:
+Vitalia: 2.0% (1/50) chance.

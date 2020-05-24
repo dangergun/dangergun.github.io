@@ -1,0 +1,16 @@
+Poseidon's Gauntlet [0x5872]
+"Poseidon's very own gauntlet, using the godly remnant had seemed to cause the ring to morph into a Gauntlet radiating with power."
+Godslayer tier accessory.
+This item is soulbound.
+
+Fame Bonus: 10%.
+
+While equipped:
++12 Attack.
++12 Dexterity.
++200 Maximum HP.
++200 Maximum MP.
+
++6 Mana Leech.
+
+Does not drop from enemies.

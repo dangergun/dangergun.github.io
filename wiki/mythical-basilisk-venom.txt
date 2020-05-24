@@ -1,0 +1,19 @@
+Mythical Basilisk Venom [0x59a2]
+"A sparkly venom that emits a magical light."
+Untiered poison.
+
+MP Cost: 90.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Berserk for 4 seconds. Uses wis mod.
+Poison Grenade:
+After 1 second, 180 impact damage + 720 damage over 5 seconds. Uses wis mod.
+
+While equipped:
++40 Maximum HP.
++6 Defense.
+
+Drops from:
+The Dreadnought: 5.0% (1/20) chance.

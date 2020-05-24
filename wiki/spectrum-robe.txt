@@ -1,0 +1,14 @@
+Spectrum Robe [0x5140]
+"A robe that will reflect light off into different colors."
+Untiered robe.
+
+Fame Bonus: 6%.
+
+While equipped:
++10 Defense.
++20 Wisdom.
++220 Maximum MP.
++8 Vitality.
+
+Drops from:
+Riv the Heavenly Champion: 6.0% (1/16) chance.

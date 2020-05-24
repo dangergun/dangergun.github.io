@@ -1,0 +1,13 @@
+Celestial Blade [0x7565]
+"{equip.An_ancient_weapon_imbued_with_the_power_of_the_cosmos.}"
+Untiered katana.
+
+Does 124-180 damage.
+135% rate of fire.
+Shoots 3 projectiles at a 30.0 degree angle.
+Range: 4.64 tiles.
+Shots have an amplitude of 0.5 and a frequency of 0.
+Fame Bonus: 4%.
+
+Drops from:
+lod Black Loot Balloon: 2.0% (1/50) chance.

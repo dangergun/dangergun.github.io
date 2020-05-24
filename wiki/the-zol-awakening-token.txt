@@ -1,0 +1,10 @@
+The Zol Awakening (Token) [0x51a2]
+"A wicked corrupted force must be stopped.."
+Untiered consumable.
+This item is soulbound.
+
+When used:
+"FUnlockPortal" Activated Effect not implemented.
+
+Drops from:
+Oryx the Mad God 1: 0.5% (1/200) chance.

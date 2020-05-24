@@ -1,0 +1,18 @@
+Revenant Claw [0x7265]
+"A sword thought to have been long lost for centuries, it pulls all power it can gain. It's unstable power is rumored to corrupt even the purest of souls, consuming them to absolute darkness."
+Godslayer tier sword.
+
+Does 500-612 damage.
+120% rate of fire.
+Shoots 1 projectile.
+Range: 4.0 tiles.
+Shots hit multiple targets.
+Shots ignore defense.
+Shots are wavy.
+Fame Bonus: 14%.
+
+While equipped:
++150 Maximum MP.
++60 Restoration.
+
+Does not drop from enemies.

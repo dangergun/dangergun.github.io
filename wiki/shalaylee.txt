@@ -1,0 +1,18 @@
+Shalaylee [0x214]
+"O' Sha sha sha 'laylee."
+Untiered sword.
+
+Does 160-190 damage.
+108% rate of fire.
+Shoots 1 projectile.
+Range: 5.0 tiles.
+Shots ignore defense.
+Fame Bonus: 6%.
+
+While equipped:
++2 Fortune.
+
+Drops from:
+Lucky Djinn: 2.0% (1/50) chance.
+Lucky Ent God: 2.0% (1/50) chance.
+Puppet Loot Chest: 2.0% (1/50) chance.

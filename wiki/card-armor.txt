@@ -1,0 +1,15 @@
+Card Armor [0x7004]
+"This enchanted armor is made from recycled paper. Remarkably, it is stronger than even mithril, and makes the wearer feel unbeatable."
+Untiered heavy armor.
+
+Fame Bonus: 5%.
+
+While equipped:
++20 Defense.
++25 Maximum HP.
++3 Vitality.
++5 Attack.
++5 Dexterity.
+
+Drops from:
+Queen of Hearts: 1.0% (1/100) chance.

@@ -1,0 +1,18 @@
+Malgoric Skull [0x672e]
+"The skull of Malgor himself."
+Untiered skull.
+
+MP Cost: 90.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Enemy Effect: Bleeding for 3 seconds within 6 tiles. Centered around the player's cursor.
+Steals 300 HP within 6 tiles. Centered around the player's cursor.
+
+While equipped:
++12 Dexterity.
++60 Maximum HP.
+
+Drops from:
+Malgor, the Eternal Fiend: 5.0% (1/20) chance.

@@ -1,0 +1,12 @@
+Medium Sacred Fragment [0x63e4]
+"A fragment of what seems to be a blue crystal. It glows light blue and might contain some type of hidden power."
+Untiered consumable.
+
+When used:
+Grants the player 10 sacred fragments.
+
+Drops from:
+Drannol, the Eternal Beast: 1.5% (1/66) chance.
+Granithia: 1.0% (1/100) chance.
+Malgor, the Eternal Fiend: 10.0% (1/10) chance.
+Ultra Drannol, the Eternal Beast: 3.3% (1/30) chance.

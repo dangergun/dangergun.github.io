@@ -1,0 +1,21 @@
+Heatblast Trap [0x6214]
+"A trap that sends a blast of heat to the victim and burns their defenses right off."
+Fabled tier trap.
+
+MP Cost: 110.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Trap: 250 damage within 6 tiles.
+On enemies: Bleeding for 6 seconds.
+Throw time: 1 second.
+Trap: 750 damage within 6 tiles.
+On enemies: Dazed for 6 seconds.
+Throw time: 1 second.
+
+While equipped:
++100 Maximum HP.
++6 Defense.
+
+Does not drop from enemies.

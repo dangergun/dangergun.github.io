@@ -1,0 +1,17 @@
+Potion of Restoration [0x68fd]
+"A potion that permanently increases your restoration."
+Untiered consumable.
+
+When used:
+Permanently increases Restoration by 2.
+
+Drops from:
+Archdemon Malphas: 20.0% (1/5) chance.
+Lenin: 100.0% chance.
+Ogla, the Giant God: 75.0% chance.
+The Dreadnought: 100.0% chance.
+The Mothership: 50.0% chance.
+Tunnel Varghus the Eye: 60.0% chance.
+Urios Test Chest: 100.0% chance.
+Urios, God of Elements: 100.0% chance.
+Varghus Test Chest: 100.0% chance.

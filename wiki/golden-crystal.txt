@@ -1,0 +1,13 @@
+Golden Crystal [0x5100]
+"A treasure from the Sprite World."
+Untiered consumable.
+This item is soulbound.
+
+When used:
+Grants the player 150 gold.
+
+Can be used to obtain 150 gold.
+{equip.Treasure}: {equip.2_of_2}
+
+Drops from:
+Limon the Sprite God: 3.0% (1/33) chance.

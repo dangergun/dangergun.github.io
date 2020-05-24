@@ -1,0 +1,9 @@
+Two Tiny Sacred Fragments [0x63e3]
+"Two fragments of what seems to be a blue crystal. It glows light blue and might contain some type of hidden power."
+Untiered consumable.
+
+When used:
+Grants the player 2 sacred fragments.
+
+Drops from:
+Malgor, the Eternal Fiend: 100.0% chance.

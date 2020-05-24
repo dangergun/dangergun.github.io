@@ -1,0 +1,12 @@
+Cultist Armor [0x5154]
+"This mysterious armor is worn by the ritualist leader during their sacrificial ceremonies. It seems that it's been imbued with the power of the Dark Shadow, perhaps due to the blood spilled upon its metal."
+Untiered heavy armor.
+
+Fame Bonus: 6%.
+
+While equipped:
++5 Defense.
++500 Maximum HP.
+
+Drops from:
+shtrs Defense System: 2.0% (1/50) chance.

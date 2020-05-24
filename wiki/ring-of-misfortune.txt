@@ -1,0 +1,11 @@
+Ring of Misfortune [0x45d1]
+"User of this ring is said to have a horrific end."
+Legendary tier accessory.
+
+Fame Bonus: 8%.
+
+While equipped:
++360 Maximum HP.
+-100 Maximum MP.
+
+Does not drop from enemies.

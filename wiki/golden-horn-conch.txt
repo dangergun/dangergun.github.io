@@ -1,0 +1,12 @@
+Golden Horn Conch [0xc75]
+"{equip.A_treasure_from_the_Ocean_Trench.} Use this to receive gold."
+Untiered consumable.
+This item is soulbound.
+
+When used:
+Grants the player 180 gold.
+
+{equip.Treasure}: {equip.3_of_3}
+
+Drops from:
+Thessal the Mermaid Goddess: 5.0% (1/20) chance.

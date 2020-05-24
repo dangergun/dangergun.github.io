@@ -1,0 +1,21 @@
+Clump of Bark [0x26c]
+"A small shield used by the Woodland Rangers of the Aether. It provided them with the speed and agility necessary to win the titanic war against the Berserkers of Leernoth for peace towards the Faeries in Mount Hallow."
+Untiered shield.
+
+Does 240-300 damage.
+Range: 3.81 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+MP Cost: 90.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+While equipped:
++12 Defense.
++2 Speed.
++4 Attack.
++4 Wisdom.
+-2 Dexterity.
+
+Drops from:
+Actual Ent Ancient: 1.3% (1/76) chance.

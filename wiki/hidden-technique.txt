@@ -1,0 +1,14 @@
+Hidden Technique [0x63f1]
+"Watch as I demonstrate true talent!"
+Untiered dagger.
+
+Does 80-130 damage.
+125% rate of fire.
+Shoots 1 projectile.
+Range: 5.88 tiles.
+Shots hit multiple targets.
+While equipped:
++5 Life Steal.
+
+Drops from:
+Arnkz the Mega Samurai: 10.0% (1/10) chance.

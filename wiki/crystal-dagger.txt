@@ -1,0 +1,13 @@
+Crystal Dagger [0x64c8]
+"A dagger made of crystal."
+Untiered dagger.
+
+Does 145-165 damage.
+120% rate of fire.
+Shoots 1 projectile.
+Range: 7.11 tiles.
+Shots ignore defense.
+Fame Bonus: 5%.
+
+Drops from:
+Crystal Prisoner: 1.0% (1/100) chance.

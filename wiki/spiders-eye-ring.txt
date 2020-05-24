@@ -1,0 +1,10 @@
+Spider's Eye Ring [0x708]
+"{equip.A_ring_crafted_from_the_faceted_eye_of_an_enormous_spider.}"
+Untiered accessory.
+
+While equipped:
++3 Vitality.
++3 Wisdom.
+
+Drops from:
+Arachna the Spider Queen: 10.0% (1/10) chance.

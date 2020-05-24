@@ -1,0 +1,15 @@
+Aegis of the Devourer [0x46d9]
+"The devourer must not be awakened once again or our world will tear and shatter to pieces."
+Legendary tier heavy armor.
+
+Fame Bonus: 8%.
+
+While equipped:
++10 Attack.
++200 Maximum HP.
++22 Defense.
+-100 Maximum MP.
+
+Vengeance: The less health that you currently have effects how much more damage you deal.
+
+Does not drop from enemies.

@@ -1,0 +1,18 @@
+Ivory Ring [0x510d]
+"A ring that was found in the hidden chest from the Lair of Draconis."
+Untiered accessory.
+
+Fame Bonus: 6%.
+
+While equipped:
++180 Maximum HP.
++4 Attack.
++8 Defense.
+
+Drops from:
+lod Black Loot Balloon: 1.0% (1/100) chance.
+lod Blue Loot Balloon: 1.0% (1/100) chance.
+lod Green Loot Balloon: 1.0% (1/100) chance.
+lod Ivory Loot: 5.5% (1/18) chance.
+lod Ivory Wyvern: 5.5% (1/18) chance.
+lod Red Loot Balloon: 1.0% (1/100) chance.

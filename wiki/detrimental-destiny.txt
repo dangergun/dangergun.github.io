@@ -1,0 +1,19 @@
+Detrimental Destiny [0x45ef]
+"A scepter infused with essence of the future, in order not to be abused, it was sealed away from any evil that may come in contact with it."
+Legendary tier scepter.
+
+MP Cost: 90.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+Lightning: 650 damage to 8 targets. Uses wis mod.
+Lightning effect: Slowed for 3.5 seconds.
+On self: Berserk for 3.5 seconds. Does not use wis mod.
+
+While equipped:
++120 Maximum HP.
++4 Dexterity.
++8 Attack.
+
+Does not drop from enemies.

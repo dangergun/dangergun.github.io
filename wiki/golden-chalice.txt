@@ -1,0 +1,12 @@
+Golden Chalice [0xc7e]
+"{equip.A_treasure_from_Davy_JonesAPOS_Locker.} Use this to receive gold."
+Untiered consumable.
+This item is soulbound.
+
+When used:
+Grants the player 150 gold.
+
+{equip.Treasure}: {equip.2_of_3}
+
+Drops from:
+Davy Jones: 2.5% (1/40) chance.

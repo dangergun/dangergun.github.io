@@ -1,0 +1,23 @@
+Key of Rage [0x788d]
+"When Janus threw their keys -one different from the other, and lay motionless and quietly called me..."
+Untiered trap.
+
+MP Cost: 120.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+On self: Berserk for 2 seconds. Does not use wis mod.
+On self: Bleeding for 3 seconds. Does not use wis mod.
+Trap: 400 damage within 5 tiles.
+On enemies: Curse for 4 seconds.
+Throw time: 1 second.
+
+While equipped:
++2 Attack.
++2 Dexterity.
++2 Wisdom.
+-2 Defense.
+
+Drops from:
+md Janus the Doorwarden: 8.0% (1/12) chance.

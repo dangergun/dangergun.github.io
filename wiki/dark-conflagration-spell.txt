@@ -1,0 +1,19 @@
+Dark Conflagration Spell [0x1643]
+"A spell created to hold a calamitous inferno within time, unbinding the temporal locks unleashes a fraction of its destructive power. WARNING: Fatigue may be caused after use of this spell."
+Legendary tier spell.
+
+Does 410-570 damage.
+Range: 3.0 tiles.
+Shots have an amplitude of 2.0 and a frequency of 6.
+MP Cost: 160.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+On self: Unstable for 2 seconds. Does not use wis mod.
+Shoots 12 shots in a circle around the cursor.
+
+While equipped:
+-80 Maximum HP.
+
+Does not drop from enemies.

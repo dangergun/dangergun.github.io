@@ -1,0 +1,15 @@
+Necromantic Charm [0x5818]
+"A vile, foul smelling charm used by those who practice the unholy art of raising that which should not be raised."
+Untiered charm.
+
+MP Cost: 100.
+Cooldown: 3.0 seconds.
+Fame Bonus: 6%.
+
+When used:
+Spawns an offensive Torii.
+Within 5 tiles: Weak for 4 seconds.
+Disappears after 6 seconds.
+
+Drops from:
+Tridorno: 1.5% (1/66) chance.

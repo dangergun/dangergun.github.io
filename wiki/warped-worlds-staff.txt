@@ -1,0 +1,16 @@
+Warped Worlds Staff [0x1463]
+"A staff that binds our reality to another."
+Untiered staff.
+
+Does 155-200 damage.
+150% rate of fire.
+Shoots 1 projectile.
+Range: 6.6 tiles.
+Shots hit multiple targets.
+Shots are wavy.
+
+While equipped:
+-10 Speed.
+
+Drops from:
+The Illusionist: 1.0% (1/100) chance.

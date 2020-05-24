@@ -1,0 +1,12 @@
+Fiery Bonemail [0x7949]
+"An armor that seemingly grants you the power of fire. It's power harnesses energy that absorbs anything that touches it."
+Untiered heavy armor.
+
+Fame Bonus: 5%.
+
+While equipped:
++14 Attack.
++30 Defense.
+
+Drops from:
+Archdemon Malphas: 0.33% (1/303) chance.

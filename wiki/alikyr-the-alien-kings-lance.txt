@@ -1,0 +1,19 @@
+Alikyr the Alien King's Lance [0x5874]
+"A Prized Possession from the Alien king, some say they've witnessed him use this lance in the last war."
+Untiered lance.
+
+Does 150-170 damage.
+50% rate of fire.
+Shoots 4 projectiles at a 4.0 degree angle.
+Range: 5.51 tiles.
+Shots have an amplitude of 0.8 and a frequency of 0.
+Shots hit multiple targets.
+Fame Bonus: 5%.
+
+While equipped:
++5 Attack.
++5 Speed.
++5 Vitality.
+
+Drops from:
+The Alien King: 1.0% (1/100) chance.

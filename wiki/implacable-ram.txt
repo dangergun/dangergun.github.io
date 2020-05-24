@@ -1,0 +1,16 @@
+Implacable Ram [0x6386]
+"A massive battering ram used to smash down sturdy castle doors."
+Fabled tier lance.
+
+Does 80-160 damage.
+50% rate of fire.
+Shoots 6 projectiles at a 6.0 degree angle.
+Range: 3.45 tiles.
+Shots ignore defense.
+Fame Bonus: 6%.
+
+While equipped:
++100 Maximum HP.
+-6 Speed.
+
+Does not drop from enemies.

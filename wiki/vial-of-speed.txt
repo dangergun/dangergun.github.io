@@ -1,0 +1,30 @@
+Vial of Speed [0x62a1]
+"A potion that permanently ascends your speed stat by 1."
+Untiered consumable.
+
+When used:
+Permanently increases Speed by 5. Can only be used by ascended characters.
+
+Drops from:
+AH Aldragine Loot Ctrl: 10.0% (1/10) chance.
+AH Aldragine: 10.0% (1/10) chance.
+AH Heart Loot Ctrl: 10.0% (1/10) chance.
+AH The Sincryer: 10.0% (1/10) chance.
+AH The Vision of Aldragine: 10.0% (1/10) chance.
+AH ULTRA Aldragine Loot Ctrl: 10.0% (1/10) chance.
+AH ULTRA Aldragine: 10.0% (1/10) chance.
+AH ULTRA Heart Loot Ctrl: 10.0% (1/10) chance.
+AH ULTRA The Sincryer: 10.0% (1/10) chance.
+AH ULTRA The Vision of Aldragine: 10.0% (1/10) chance.
+BD Berikao, the Dark Hunter: 10.0% (1/10) chance.
+BD Portal Spawner 2: 10.0% (1/10) chance.
+BD Twisted Sentry Treasure: 1.0% (1/100) chance.
+BD Ultra Berikao, the Dark Hunter: 10.0% (1/10) chance.
+BD Ultra Portal Spawner 2: 10.0% (1/10) chance.
+Drannol, the Eternal Beast: 10.0% (1/10) chance.
+LH Marble Colossus: 50.0% chance.
+LH Void Entity: 50.0% chance.
+Scorching Wrath Real: 10.0% (1/10) chance.
+True Somnus, the Dream Entity: 10.0% (1/10) chance.
+Ultra Drannol, the Eternal Beast: 10.0% (1/10) chance.
+Ultra Scorching Wrath Real: 10.0% (1/10) chance.

@@ -1,0 +1,17 @@
+Inferno of Truth [0x69c3]
+"These flames will cleanse our realm.."
+Legendary tier staff.
+
+Does 110-190 damage.
+130% rate of fire.
+Shoots 1 projectile.
+Range: 10.0 tiles.
+Shots have an amplitude of 2.28 and a frequency of 0.
+Shots are wavy.
+Fame Bonus: 8%.
+
+While equipped:
++10 Vitality.
++10 Wisdom.
+
+Does not drop from enemies.

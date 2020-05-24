@@ -1,0 +1,21 @@
+Helm of the Unholy Warrior [0x7091]
+"A Helm hand sculpted from the carcusses of those that a ravageous warrior exiled."
+Sacred tier helm.
+
+MP Cost: 100.
+Cooldown: 6.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Bravery for 5 seconds. Does not use wis mod.
+Party effect: Berserk for 5 seconds within 5 tiles. Does not use wis mod.
+
+While equipped:
++50 Luck.
+-5 Speed.
+
++1 Mana Leech.
+
+Helping Hand: On ability use, 7% chance to give 10 attack and 10 defense to each player in a 3 tile radius for 5 seconds. Stackable.
+
+Does not drop from enemies.

@@ -1,0 +1,15 @@
+Bracer of the Guardian [0xbad]
+"{equip.Wearing_it_makes_you_feel_particularly_strong.}"
+Untiered accessory.
+
+Fame Bonus: 5%.
+
+While equipped:
++12 Attack.
++12 Defense.
++130 Maximum HP.
++130 Maximum MP.
+
+Drops from:
+shtrs Bridge Sentinel: 0.5% (1/200) chance.
+shtrs Loot Balloon Bridge: 0.5% (1/200) chance.

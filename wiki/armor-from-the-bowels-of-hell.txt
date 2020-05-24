@@ -1,0 +1,14 @@
+Armor from the Bowels of Hell [0x241]
+"Armor from hell, it kinda of instills fear in you, but at the same time it makes you desire a Barbeque!"
+Untiered leather armor.
+
+Fame Bonus: 5%.
+
+While equipped:
++19 Defense.
++3 Attack.
++85 Maximum HP.
+-45 Maximum MP.
+
+Drops from:
+Archdemon Malphas: 5.0% (1/20) chance.

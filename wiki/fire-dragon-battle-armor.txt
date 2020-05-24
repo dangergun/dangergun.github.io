@@ -1,0 +1,14 @@
+Fire Dragon Battle Armor [0x7564]
+"{equip.Battle_armor_made_from_Fire_Dragon_scales,_one_of_the_stron}"
+Untiered heavy armor.
+
+Fame Bonus: 5%.
+
+While equipped:
++10 Vitality.
++20 Defense.
++6 Speed.
++8 Attack.
+
+Drops from:
+lod Red Loot Balloon: 2.0% (1/50) chance.

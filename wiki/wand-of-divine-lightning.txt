@@ -1,0 +1,18 @@
+Wand of Divine Lightning [0x69d8]
+"A wand so strong even the god’s banished it to never be used again."
+Legendary tier wand.
+
+Does 155-185 damage.
+150% rate of fire.
+Shoots 1 projectile.
+Range: 6.89 tiles.
+Shots hit multiple targets.
+Shots ignore defense.
+Fame Bonus: 6%.
+
+While equipped:
++10 Speed.
++30 Luck.
++30 Might.
+
+Does not drop from enemies.

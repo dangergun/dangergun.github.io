@@ -1,0 +1,20 @@
+The Forth-Calling [0x1399]
+"Constructed by the high elves, this quiver was made to blast through everything with its colossal force."
+Legendary tier quiver.
+
+Does 3000 damage.
+Range: 15.0 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+Shots ignore defense.
+MP Cost: 140.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Speedy for 2 seconds. Does not use wis mod.
+
+While equipped:
++14 Attack.
+
+Does not drop from enemies.

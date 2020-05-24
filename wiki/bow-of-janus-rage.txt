@@ -1,0 +1,12 @@
+Bow of Janus rage [0x788a]
+"Janus the Doorwaden gave gifts to who could defeat him. This bow has got lucky ones."
+Untiered bow.
+
+Does 105-140 damage.
+35% rate of fire.
+Shoots 4 projectiles at a 4.0 degree angle.
+Range: 6.56 tiles.
+Fame Bonus: 6%.
+
+Drops from:
+md Janus the Doorwarden: 8.0% (1/12) chance.

@@ -1,0 +1,21 @@
+Sheath of the Vengeful Son [0x548f]
+"Everytime it is unsheathed, the bearer is possessed by the hatred and sorrow of the banished Son of Arachna."
+Untiered sheath.
+
+MP Cost: 80.
+Cooldown: 1.0 seconds.
+Fame Bonus: 9%.
+
+When used:
+Enemy Effect: Stunned for 3 seconds within 3.5 tiles. Centered around the player's cursor.
+On self: Speedy for 2 seconds. Does not use wis mod.
+While ability key is held, Berserk on self and drains 10 mp/second.
+When ability key is released, 3400 damage within 3.5 tiles. Uses atk mod.
+
+While equipped:
++2 Dexterity.
++5 Attack.
+
+Drops from:
+Blue Son of Arachna Giant Egg Sac: 1.0% (1/100) chance.
+Son of Arachna: 0.5% (1/200) chance.

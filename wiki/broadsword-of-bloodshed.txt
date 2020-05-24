@@ -1,0 +1,14 @@
+Broadsword of Bloodshed [0x1770]
+"The great sword used by the Dark Knight to obliterate all in his way."
+Untiered sword.
+
+Does 175-200 damage.
+150% rate of fire.
+Shoots 1 projectile.
+Range: 3.55 tiles.
+Shots hit multiple targets.
+Fame Bonus: 6%.
+Wearing the whole set will reward you with: +200 HP, +20 Vit, +10 Atk
+
+Drops from:
+UNP The Dark Knight: 1.0% (1/100) chance.

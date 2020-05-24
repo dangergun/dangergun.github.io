@@ -1,0 +1,19 @@
+Beyond the Nature's Power [0x7065]
+"Can you hear nature calling for you? Can you feel the power flowing through you?"
+Sacred tier heavy armor.
+
+Fame Bonus: 8%.
+
+While equipped:
++10 Speed.
++150 Maximum HP.
++225 Maximum MP.
++24 Defense.
++30 Restoration.
++30 Wisdom.
+-20 Luck.
+-20 Might.
+
+Open Mind: Mana regeneration is increased by 10% and maximum mana is increased by 5%. Stackable.
+
+Does not drop from enemies.

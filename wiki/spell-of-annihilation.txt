@@ -1,0 +1,22 @@
+Spell of Annihilation [0x7347]
+"A runestone inscribed with the cursed language of the god of war, none shall oppose it's awesome power."
+Untiered spell.
+
+Does 330 damage.
+Range: 3.0 tiles.
+Shots hit multiple targets.
+Shots boomerang.
+MP Cost: 95.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Shoots 12 shots in a circle around the cursor.
+
+While equipped:
++10 Vitality.
++5 Attack.
+-5 Defense.
+
+Drops from:
+Oryx Defense System: 0.5% (1/200) chance.

@@ -1,0 +1,17 @@
+Adroit Armor [0x179a]
+"Articulated armor built by an ancient empire renowned for its acrobatic soldiers."
+Untiered leather armor.
+
+Fame Bonus: 6%.
+
+While equipped:
++10 Speed.
++14 Attack.
++19 Defense.
++20 Restoration.
++40 Maximum MP.
+
++2 Mana Leech.
+
+Drops from:
+Hand of Terradius: 25.0% (1/4) chance.

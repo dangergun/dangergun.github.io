@@ -1,0 +1,24 @@
+Bloodclot Poison [0x7338]
+"A flask containing the liquid remains of those who attempted to rise against the unstoppable tyrant himself."
+Untiered poison.
+
+MP Cost: 180.
+Cooldown: 2.0 seconds.
+Fame Bonus: 6%.
+
+When used:
+On self: Armor Broken for 2 seconds. Does not use wis mod.
+Poison Grenade:
+After 0.80 seconds, 600 impact damage + 500 damage over 4 seconds. Uses wis mod.
+Poison Grenade:
+After 1 second, 500 impact damage + 500 damage over 3 seconds. Uses wis mod.
+Poison Grenade:
+After 1.20 seconds, 450 impact damage + 500 damage over 2 seconds. Uses wis mod.
+
+While equipped:
++20 Might.
++40 Luck.
+-50 Maximum HP.
+
+Drops from:
+Oryx Defense System: 0.5% (1/200) chance.

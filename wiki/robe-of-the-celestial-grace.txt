@@ -1,0 +1,19 @@
+Robe of the Celestial Grace [0x7886]
+"A robe filled with an overwhelming aura, it is rumored that one who wears it becomes blessed with the power of the cosmos."
+Untiered robe.
+
+Fame Bonus: 8%.
+
+While equipped:
++130 Maximum MP.
++14 Defense.
++15 Wisdom.
++35 Restoration.
+-12 Dexterity.
+
++1 Mana Leech.
+
+Wearing the whole set will reward you with: +115 MP, +16 Wis, +14 Speed, +12 Attack, +8 Def, +20 Res
+
+Drops from:
+Grod, the Cosmic Parasite: 0.5% (1/200) chance.

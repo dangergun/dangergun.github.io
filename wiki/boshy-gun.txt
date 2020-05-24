@@ -1,0 +1,13 @@
+Boshy Gun [0x7052]
+"It was Boshy Time"
+Godslayer tier bow.
+
+Does 500-700 damage.
+50% rate of fire.
+Shoots 5 projectiles at a 5.0 degree angle.
+Range: 9.6 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+Fame Bonus: 5%.
+
+Does not drop from enemies.

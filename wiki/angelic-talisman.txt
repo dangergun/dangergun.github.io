@@ -1,0 +1,26 @@
+Angelic Talisman [0x7058]
+"Summons an Angels soul to aid you against the most vicious demons."
+Sacred tier talisman.
+
+MP Cost: 110.
+Cooldown: 3.5 seconds.
+
+When used:
+On self: Healing for 2 seconds. Uses wis mod.
+
+While equipped:
++15 Luck.
++35 Protection.
++7 Wisdom.
+
+Spawns a ghost to aid you in combat.
+Heals: 60 HP/sec within 3 tiles
+Lifetime: 4
+Spawns a ghost to aid you in combat.
+Damage: 200
+Lifetime: 3
+Effect: Weak for 1.5 seconds
+
+Runic Defense: On hit, 8% chance to trigger an AOE heal for the taken damage with a 4 tile radius. Stackable.
+
+Does not drop from enemies.

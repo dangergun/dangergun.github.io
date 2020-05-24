@@ -1,0 +1,17 @@
+Serial's Cloth of Gore [0x7332]
+"A cloth cursed with foul plague and presence. Those who give a soul of a loved one redeem themselves for this..."
+Untiered leather armor.
+
+Fame Bonus: 10%.
+
+While equipped:
++100 Maximum HP.
++12 Dexterity.
++15 Defense.
++30 Might.
++8 Speed.
+
++1 Life Steal.
+
+Drops from:
+Akeldama, the Disciple of Oryx: 0.5% (1/200) chance.

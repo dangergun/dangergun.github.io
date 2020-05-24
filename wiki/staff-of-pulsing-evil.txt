@@ -1,0 +1,17 @@
+Staff of Pulsing Evil [0x7330]
+"A staff pulsating with dark magic throughout it's frame being nothing more than cold to the touch of a mortal being."
+Untiered staff.
+
+Does 100-120 damage.
+70% rate of fire.
+Shoots 3 projectiles at a 10.0 degree angle.
+Range: 7.5 tiles.
+Shots are wavy.
+Fame Bonus: 8%.
+
+While equipped:
++6 Attack.
++6 Dexterity.
+
+Drops from:
+Akeldama, the Disciple of Oryx: 0.5% (1/200) chance.

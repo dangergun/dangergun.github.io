@@ -1,0 +1,21 @@
+Omnipotent Ring [0x5483]
+"An unfathomable amount of strength pulses through this ring. Only the most righteous mortals can touch this ring and live."
+Godly tier accessory.
+
+Fame Bonus: 10%.
+
+While equipped:
++12 Attack.
++12 Defense.
++12 Dexterity.
++12 Speed.
++12 Vitality.
++12 Wisdom.
++120 Maximum HP.
++120 Maximum MP.
+
++1 Life Steal.
++1 Mana Leech.
+
+Drops from:
+LH Void Entity: 0.2% (1/500) chance.

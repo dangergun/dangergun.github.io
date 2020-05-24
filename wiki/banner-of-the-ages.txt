@@ -1,0 +1,22 @@
+Banner of the Ages [0x7197]
+"A banner painted with the emblems of those that participated in the wars sworn to be forgotten"
+Sacred tier banner.
+
+MP Cost: 100.
+Cooldown: 5.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Armored for 3 seconds. Does not use wis mod.
+On self: Damaging for 3 seconds. Does not use wis mod.
+On self: Sick for 4 seconds. Does not use wis mod.
+Within 8 tiles, empowers allies for 7 seconds. Stays active for 5 seconds.
+
+While equipped:
++10 Protection.
++5 Defense.
+-5 Vitality.
+
+Collector's Edition: All stats are increased by 0.65% per sacred item in inventory. Stackable.
+
+Does not drop from enemies.

@@ -1,0 +1,15 @@
+Waterlogged Blade [0x5437]
+"Found at the bottom of the ocean centuries later, absorbed with its surroundings."
+Legendary tier sword.
+
+Does 310-435 damage.
+117% rate of fire.
+Shoots 1 projectile.
+Range: 3.5 tiles.
+Fame Bonus: 8%.
+
+While equipped:
++30 Vitality.
++40 Protection.
+
+Does not drop from enemies.

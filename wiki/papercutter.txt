@@ -1,0 +1,13 @@
+Papercutter [0x43ad]
+"The evil, wicked papercut now kills your enemies! Inflict them with the hated papercut!"
+Untiered katana.
+
+Does 140-160 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 4.2 tiles.
+Shots hit multiple targets.
+Fame Bonus: 4%.
+
+Drops from:
+Larry Gigsman, the Superhuman: 10.0% (1/10) chance.

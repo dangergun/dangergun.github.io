@@ -1,0 +1,21 @@
+Wyvern's Touch [0x7107]
+"A corrupt wyvern's tail still holding onto the cursed magic bestowed upon by an evil mage."
+Sacred tier wand.
+
+Does 600-780 damage.
+65% rate of fire.
+Shoots 1 projectile.
+Range: 6.5 tiles.
+Shots have an amplitude of 0.45 and a frequency of 1.
+Fame Bonus: 8%.
+
+While equipped:
++4 Defense.
++40 Maximum HP.
+-10 Wisdom.
+-50 Maximum MP.
+-7 Speed.
+
+Collector's Edition: All stats are increased by 0.65% per sacred item in inventory. Stackable.
+
+Does not drop from enemies.

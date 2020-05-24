@@ -1,0 +1,17 @@
+Toxin Infused Blade [0x7042]
+"A poison coated blade found within a jungles depths hidden from man's touch."
+Sacred tier dagger.
+
+Does 270-330 damage.
+110% rate of fire.
+Shoots 1 projectile.
+Range: 7.0 tiles.
+Fame Bonus: 7%.
+
+While equipped:
++30 Luck.
++50 Might.
+
+Critical Focus: On enemy hit, 7% chance to increase might by 10% of total luck. Stackable.
+
+Does not drop from enemies.

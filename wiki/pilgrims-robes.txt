@@ -1,0 +1,14 @@
+Pilgrim's Robes [0x7910]
+"These robes represent the hard work and well-spirited nature of the harvesters as they prepare for the cruel winter."
+Untiered robe.
+
+Fame Bonus: 6%.
+
+While equipped:
++15 Defense.
++50 Maximum HP.
++55 Maximum MP.
++8 Wisdom.
+
+Drops from:
+Big Turkey God: 0.5% (1/200) chance.

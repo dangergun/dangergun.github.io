@@ -1,0 +1,17 @@
+Doomgrazer [0x44d9]
+"The mind is a valuable thing to have, until it's corrupted. ~ Nexus Crier"
+Fabled tier sword.
+
+Does 260-400 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 3.9 tiles.
+Shots hit multiple targets.
+Shots ignore defense.
+Fame Bonus: 8%.
+
+While equipped:
++5 Attack.
++50 Maximum HP.
+
+Does not drop from enemies.

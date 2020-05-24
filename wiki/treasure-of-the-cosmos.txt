@@ -1,0 +1,16 @@
+Treasure of the Cosmos [0x7198]
+"A strange ring found afloat outside of an observatory, it seems to bring vast luck upon the user."
+Sacred tier accessory.
+
+Fame Bonus: 8%.
+
+While equipped:
++20 Fortune.
++200 Luck.
++40 Might.
+-125 Maximum HP.
+-125 Maximum MP.
+
+Treasure Hunter: On loot roll, 8% chance to apply a 100% drop chance increase. Stackable.
+
+Does not drop from enemies.

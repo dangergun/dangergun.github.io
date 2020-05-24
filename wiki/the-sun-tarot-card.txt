@@ -1,0 +1,13 @@
+The Sun Tarot Card [0x233b]
+"{equip.The_Sun_-_Card_XIX_of_the_Major_Arcana._Thanks_to_Dappertro}"
+Untiered consumable.
+This item is soulbound.
+
+{equip.Treasure}: {equip.2_of_8}
+
+Drops from:
+Desire Troll: 10.0% (1/10) chance.
+Gigacorn: 10.0% (1/10) chance.
+MegaRototo: 10.0% (1/10) chance.
+Spoiled Creampuff: 10.0% (1/10) chance.
+Swoll Fairy: 10.0% (1/10) chance.

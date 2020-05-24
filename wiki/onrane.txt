@@ -1,0 +1,48 @@
+Onrane [0x49a5]
+"Odd valuable currency that has been sought out for decades by wise merchants."
+Untiered consumable.
+
+When used:
+Grants the player 1 onrane.
+
+Used to buy legendary items or other items.
+
+Drops from:
+AB The Dark Sorcerer: 5.0% (1/20) chance.
+AH Secret Chest: 100.0% chance.
+Akeldama, the Disciple of Oryx: 100.0% chance.
+BD Twisted Sentry Treasure: 4.5% (1/22) chance.
+Bergelmir, the Frost Guardian: 100.0% chance.
+Big Turkey God: 10.0% (1/10) chance.
+Big Turkey God: 10.0% (1/10) chance.
+Big Turkey God: 10.0% (1/10) chance.
+Codename G-24, Nitrostorm: 5.0% (1/20) chance.
+Doomages: 30.0% (1/3) chance.
+Hand of Terradius: 100.0% chance.
+Izual Loot Ctrl: 100.0% chance.
+LH Pot 1: 5.0% (1/20) chance.
+LH Pot 2: 5.0% (1/20) chance.
+LH Pot 3: 5.0% (1/20) chance.
+LH Pot 4: 5.0% (1/20) chance.
+LH Pot 5: 5.0% (1/20) chance.
+LH Pot 6: 5.0% (1/20) chance.
+LH Pot 7: 5.0% (1/20) chance.
+Malgor, the Eternal Fiend: 50.0% chance.
+Oryx Defense System: 100.0% chance.
+TF The Fallen: 5.0% (1/20) chance.
+Temple Boss: 100.0% chance.
+The Illusionist: 60.0% chance.
+The Kraken: 100.0% chance.
+Tomb Attacker: 75.0% chance.
+Tomb Defender: 75.0% chance.
+Tomb Support: 75.0% chance.
+Treasure Statue of the Catacombs: 40.0% chance.
+Tridorno: 100.0% chance.
+Vitalia: 100.0% chance.
+Xanarich, the Chosen One: 100.0% chance.
+shtrs Abandoned Switch 1: 20.0% (1/5) chance.
+shtrs Abandoned Switch 2: 20.0% (1/5) chance.
+shtrs Abandoned Switch 3: 20.0% (1/5) chance.
+shtrs Bridge Sentinel: 50.0% chance.
+shtrs The Forgotten King: 50.0% chance.
+shtrs Twilight Archmage: 50.0% chance.

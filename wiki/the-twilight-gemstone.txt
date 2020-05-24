@@ -1,0 +1,16 @@
+The Twilight Gemstone [0xbac]
+"{equip.An_odd_stone,_eminating_a_dark_and_mysterious_energy.}"
+Untiered accessory.
+
+Fame Bonus: 5%.
+
+While equipped:
++13 Defense.
++13 Speed.
++180 Maximum MP.
+
++1 Mana Leech.
+
+Drops from:
+shtrs Loot Balloon Mage: 0.5% (1/200) chance.
+shtrs Twilight Archmage: 0.5% (1/200) chance.

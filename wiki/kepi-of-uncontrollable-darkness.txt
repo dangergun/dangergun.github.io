@@ -1,0 +1,21 @@
+Kepi of Uncontrollable Darkness [0x1699]
+"A skull of the Dark Knight's minions, it has been morphed to be worn by a hero."
+Untiered helm.
+
+MP Cost: 110.
+Cooldown: 5.0 seconds.
+Fame Bonus: 6%.
+
+When used:
+On self: Berserk for 2.5 seconds. Does not use wis mod.
+On self: Bleeding for 2.5 seconds. Does not use wis mod.
+On self: Blind for 4 seconds. Does not use wis mod.
+On self: Damaging for 3.5 seconds. Does not use wis mod.
+
+While equipped:
++10 Defense.
++5 Attack.
+-7 Vitality.
+
+Drops from:
+Cube God: 2.0% (1/50) chance.

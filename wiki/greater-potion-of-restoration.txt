@@ -1,0 +1,16 @@
+Greater Potion of Restoration [0x61ca]
+"A potion that permanently increases restoration by 4."
+Untiered consumable.
+
+When used:
+Permanently increases Restoration by 4.
+
+Drops from:
+Akeldama, the Disciple of Oryx: 100.0% chance.
+Archdemon Malphas: 33.0% (1/3) chance.
+Garnet Statue: 100.0% chance.
+Izual Loot Ctrl: 100.0% chance.
+Krokanich: 100.0% chance.
+Malgor, the Eternal Fiend: 50.0% chance.
+True Somnus, the Dream Entity: 100.0% chance.
+Tunnel Varghus the Eye: 100.0% chance.

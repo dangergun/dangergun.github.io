@@ -1,0 +1,30 @@
+Blood-Stained Jacket [0x7236]
+"Passed Down through many generations of Blademasters, this jacket has never been cleaned to hold the memories of their fallen victims."
+Sacred tier jacket.
+
+Does 80-150 damage.
+Range: 4.5 tiles.
+Shots ignore defense.
+Shots boomerang.
+MP Cost: 200.
+Surge Cost: 1.
+Cooldown: 2.0 seconds.
+
+When used:
+On self: Berserk for 2 seconds. Does not use wis mod.
+On self: Damaging for 2 seconds. Does not use wis mod.
+
+While equipped:
++10 Attack.
++10 Dexterity.
+-10 Might.
+-10 Speed.
+
+Offensive Stance
++20 Attack
+Offensive Stance 2
++20 Dexterity
+
+Runic Offense: On hit, 8% chance to trigger an AOE damage for 1.5x of taken damage with a 4 tile radius. Stackable.
+
+Does not drop from enemies.

@@ -1,0 +1,10 @@
+Amulet of Resurrection [0x47cb]
+"An amulet that will sometimes resurrect you upon your death."
+Legendary tier accessory.
+This item resurrects the player.
+
+While equipped:
++100 Maximum HP.
+
+Drops from:
+Ghost of Skuld: 0.1% (1/1000) chance.

@@ -1,0 +1,14 @@
+Necklace of Victory [0x64fb]
+"A necklace to symbolize victory."
+Untiered accessory.
+
+Fame Bonus: 6%.
+
+While equipped:
++160 Maximum HP.
++60 Restoration.
++8 Vitality.
+-40 Maximum MP.
+
+Drops from:
+The Horrific: 1.4% (1/71) chance.

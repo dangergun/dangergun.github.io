@@ -1,0 +1,23 @@
+Nightcrawler's Head [0x7234]
+"The realm used to be peaceful and caring until the shade fell, this is all that's left of their attempt at domination."
+Sacred tier skull.
+
+MP Cost: 100.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+Enemy Effect: Armor Broken for 4 seconds within 3 tiles. Centered around the player's cursor.
+Enemy Effect: Slowed for 2.5 seconds within 4 tiles. Centered around the player's cursor.
+Enemy Effect: Stunned for 1.7 seconds within 2.5 tiles. Centered around the player's cursor.
+On self: Berserk for 2 seconds. Does not use wis mod.
+Steals 250 HP within 6 tiles. Centered around the player's cursor.
+
+While equipped:
++5 Dexterity.
+
++1 Mana Leech.
+
+Collector's Edition: All stats are increased by 0.65% per sacred item in inventory. Stackable.
+
+Does not drop from enemies.

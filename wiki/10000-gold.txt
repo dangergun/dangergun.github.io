@@ -1,0 +1,21 @@
+10000 Gold [0x53c4]
+"Double-Click this item to gain the gold, or keep it to trade with!"
+Untiered consumable.
+
+When used:
+Grants the player 10000 gold.
+
+Drops from:
+AH Aldragine Loot Ctrl: 10.0% (1/10) chance.
+AH Aldragine: 10.0% (1/10) chance.
+AH ULTRA Aldragine Loot Ctrl: 15.0% (1/6) chance.
+AH ULTRA Aldragine: 20.0% (1/5) chance.
+Akeldama, the Disciple of Oryx: 5.0% (1/20) chance.
+Drannol, the Eternal Beast: 12.0% (1/8) chance.
+Izual Loot Ctrl: 5.0% (1/20) chance.
+LH Marble Colossus: 10.0% (1/10) chance.
+LH Void Entity: 100.0% chance.
+Lucky Djinn: 0.8% (1/125) chance.
+Lucky Ent God: 0.8% (1/125) chance.
+True Somnus, the Dream Entity: 100.0% chance.
+Ultra Drannol, the Eternal Beast: 20.0% (1/5) chance.

@@ -1,0 +1,16 @@
+The Twisted Axe [0x63b7]
+"Determination can't fail you.."
+Fabled tier sword.
+
+Does 250-400 damage.
+77% rate of fire.
+Shoots 1 projectile.
+Range: 4.28 tiles.
+Shots hit multiple targets.
+Shots boomerang.
+Fame Bonus: 8%.
+
+While equipped:
+-60 Maximum HP.
+
+Does not drop from enemies.

@@ -1,0 +1,15 @@
+Elemental Relic [0x1858]
+"A rare amulet that is made of a yellow crystal found in the Elemental Ruins"
+Untiered accessory.
+
+Fame Bonus: 4%.
+
+While equipped:
++4 Attack.
++40 Restoration.
++6 Speed.
++60 Maximum HP.
++90 Maximum MP.
+
+Drops from:
+Elemental Phantom: 5.0% (1/20) chance.

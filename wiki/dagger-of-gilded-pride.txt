@@ -1,0 +1,20 @@
+Dagger of Gilded Pride [0x5864]
+"Fading away from reality is what keeps the darkness persisting to devour all of us. We can only do what is possible to stay away from this Void."
+Godly tier dagger.
+
+Does 200-350 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 6.96 tiles.
+Shots hit multiple targets.
+Fame Bonus: 20%.
+
+While equipped:
++15 Attack.
++75 Maximum HP.
+
+Drops from:
+Beholder: 0.0004% (1/250000) chance.
+Medusa: 0.0004% (1/250000) chance.
+Slime God: 0.0004% (1/250000) chance.
+Sprite God: 0.0004% (1/250000) chance.

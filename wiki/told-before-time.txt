@@ -1,0 +1,19 @@
+Told Before Time [0x45d7]
+"A hard iron futuristic bow that shoots energy projectiles at unbelievable speeds."
+Untiered bow.
+
+Does 215-240 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 9.12 tiles.
+Shots pass through obstacles.
+Shots are wavy.
+Fame Bonus: 8%.
+
+While equipped:
++6 Speed.
++80 Luck.
++80 Might.
+
+Drops from:
+Codename G-24, Nitrostorm: 1.0% (1/100) chance.

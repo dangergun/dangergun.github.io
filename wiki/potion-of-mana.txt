@@ -1,0 +1,37 @@
+Potion of Mana [0xaea]
+"{equip.A_potion_that_permanently_increases_magic.}"
+Untiered consumable.
+
+When used:
+Permanently increases Maximum MP by 10.
+
+Drops from:
+Anubis Test Chest: 90.0% chance.
+Colothiois the Exalted: 100.0% chance.
+Coral Gift: 10.0% (1/10) chance.
+Cube God: 20.0% (1/5) chance.
+Desire Troll: 8.0% (1/12) chance.
+Ghost Ship: 20.0% (1/5) chance.
+Gigacorn: 8.0% (1/12) chance.
+Grand Sphinx: 20.0% (1/5) chance.
+Lenin: 100.0% chance.
+Lord of the Lost Lands: 20.0% (1/5) chance.
+Mad Jester: 100.0% chance.
+MegaRototo: 8.0% (1/12) chance.
+Pentaract Tower Corpse: 20.0% (1/5) chance.
+Pumpkin King of Peril: 100.0% chance.
+Puppet Master v2: 14.8% (1/6) chance.
+Son of Arachna: 100.0% chance.
+Spoiled Creampuff: 8.0% (1/12) chance.
+Swoll Fairy: 8.0% (1/12) chance.
+The Mothership: 20.0% (1/5) chance.
+Thessal the Mermaid Goddess: 100.0% chance.
+Treasure Statue of the Catacombs: 30.0% (1/3) chance.
+Tridorno: 80.0% chance.
+UNP The Dark Knight: 100.0% chance.
+Urios Test Chest: 80.0% chance.
+Urios, God of Elements: 80.0% chance.
+ic Loot Balloon: 20.0% (1/5) chance.
+lod Blue Loot Balloon: 80.0% chance.
+shtrs Defense System: 20.0% (1/5) chance.
+shtrs Loot Balloon Mage: 100.0% chance.

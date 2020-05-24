@@ -1,0 +1,27 @@
+Greater Potion of Life [0x236e]
+"{equip.A_potion_that_permanently_increases_health.}"
+Untiered consumable.
+
+When used:
+Permanently increases Maximum HP by 20.
+
+Drops from:
+Granithia: 100.0% chance.
+Hellfire Lord: 50.0% chance.
+Hermit God Drop: 20.0% (1/5) chance.
+Krokanich: 20.0% (1/5) chance.
+Lord Stone Gargoyle: 20.0% (1/5) chance.
+Malgor, the Eternal Fiend: 100.0% chance.
+Oryx Defense System: 100.0% chance.
+Oryx the Mad God 1: 30.0% (1/3) chance.
+Oryx the Mad God 2: 50.0% chance.
+Sanic: 50.0% chance.
+Skull Shrine: 20.0% (1/5) chance.
+Tomb Attacker: 100.0% chance.
+Tomb Defender: 100.0% chance.
+Tomb Support: 100.0% chance.
+True Somnus, the Dream Entity: 100.0% chance.
+Vitalia: 100.0% chance.
+Xanarich, the Chosen One: 100.0% chance.
+Xanarich, the Chosen One: 100.0% chance.
+Yazanahar: 40.0% chance.

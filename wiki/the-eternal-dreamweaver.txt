@@ -1,0 +1,21 @@
+The Eternal Dreamweaver [0x7248]
+"Lost in the reality of space and time, this mythical staff grants dreams into reality making things last an eternity."
+Sacred tier staff.
+
+Does 200-300 damage.
+135% rate of fire.
+Shoots 1 projectile.
+Range: 6.6 tiles.
+Shots hit multiple targets.
+Shots are wavy.
+Fame Bonus: 8%.
+
+While equipped:
++10 Speed.
++10 Wisdom.
++20 Protection.
+
+Open Mind: Mana regeneration is increased by 10% and maximum mana is increased by 5%. Stackable.
+
+Drops from:
+The Illusionist: 0.2% (1/500) chance.

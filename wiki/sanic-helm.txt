@@ -1,0 +1,17 @@
+Sanic Helm [0x799f]
+"GOTTA GO FAST!!!"
+Untiered helm.
+
+MP Cost: 20.
+Cooldown: 5.0 seconds.
+
+When used:
+On self: Speedy for 10 seconds. Does not use wis mod.
+
+While equipped:
++40 Speed.
+-200 Maximum HP.
+-30 Defense.
+
+Drops from:
+Sanic: 0.2% (1/500) chance.

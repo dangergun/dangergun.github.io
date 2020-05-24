@@ -1,0 +1,7 @@
+Lost Halls Shard [0x5484]
+"A strage stone-like artifact that emits a white glow. Inside of it, waits overwhelming power."
+Legendary tier consumable.
+
+Drops from:
+LH Marble Colossus: 0.1% (1/1000) chance.
+LH Void Entity: 0.1% (1/1000) chance.

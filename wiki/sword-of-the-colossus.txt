@@ -1,0 +1,13 @@
+Sword of the Colossus [0x5478]
+"A sword with an impossibly sharp edge. It has been designed with holy magic to slash like no other blade."
+Legendary tier sword.
+
+Does 480-495 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 4.5 tiles.
+Shots have an amplitude of 0.7 and a frequency of 0.
+Fame Bonus: 8%.
+
+Drops from:
+LH Marble Colossus: 0.2% (1/500) chance.

@@ -1,0 +1,11 @@
+RabbitsFoot [0x126]
+"The rabbit is even later now..."
+Untiered accessory.
+
+Fame Bonus: 6%.
+
+While equipped:
++10 Fortune.
+
+Drops from:
+Queen of Hearts: 1.0% (1/100) chance.

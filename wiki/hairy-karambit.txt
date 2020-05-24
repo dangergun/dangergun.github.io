@@ -1,0 +1,19 @@
+Hairy Karambit [0x247]
+"This knife has a built in sharp edge , so it doesn't need to shoot one out"
+Untiered dagger.
+
+Does 100 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 6.4 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+Shots ignore defense.
+Fame Bonus: 5%.
+
+While equipped:
++10 Wisdom.
+-10 Vitality.
+
+Drops from:
+Murderous Megamoth: 2.0% (1/50) chance.

@@ -1,0 +1,10 @@
+Attack Eon [0x45a7]
+"This relic can be shattered. Once shattered it causes the mortal to have the strength of the gods."
+Untiered consumable.
+
+When used:
+Permanently increases Attack by 150.
+
+Drops from:
+AH Heart Loot Ctrl: 1.0% (1/100) chance.
+AH ULTRA Heart Loot Ctrl: 2.0% (1/50) chance.

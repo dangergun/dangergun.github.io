@@ -1,0 +1,17 @@
+Skull of the Cubes [0x238]
+"This skull used to be used in the worshiping of the Cube god, but, since we are killing all of them they won't need it, right? Thanks to SyndicateXx for Idea/Sprite."
+Untiered skull.
+
+MP Cost: 85.
+Cooldown: 0.5 seconds.
+Fame Bonus: 4%.
+
+When used:
+Enemy Effect: Slowed for 4 seconds within 5 tiles. Centered around the player's cursor.
+Steals 145 HP within 5 tiles. Centered around the player's cursor.
+
+While equipped:
++5 Dexterity.
+
+Drops from:
+Cube God: 2.0% (1/50) chance.

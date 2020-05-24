@@ -1,0 +1,16 @@
+Quiver of the Onslaught [0x1687]
+"An ironwood quiver used by harbinger elves to relay messages of impending destruction and ruin."
+Fabled tier quiver.
+
+Does 400-600 damage.
+Range: 15.0 tiles.
+Shots pass through obstacles.
+Shots ignore defense.
+MP Cost: 100.
+Cooldown: 0.5 seconds.
+
+While equipped:
++10 Attack.
++100 Maximum HP.
+
+Does not drop from enemies.

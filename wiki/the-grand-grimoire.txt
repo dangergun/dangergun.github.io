@@ -1,0 +1,29 @@
+The Grand Grimoire [0x7885]
+"Known to be one of the darkest magical books around, only the most unholy of souls can handle the book’s power."
+Untiered tome.
+
+MP Cost: 150.
+Cooldown: 0.5 seconds.
+Fame Bonus: 7%.
+
+When used:
+Does 400 damage within 2.5 tiles. Does not use wis mod.
+Heals 300 HP within 4 tiles. Uses wis mod.
+On self: Berserk for 2.5 seconds. Does not use wis mod.
+On self: Speedy for 4 seconds. Does not use wis mod.
+Party effect: Healing for 5 seconds within 3 tiles. Uses wis mod.
+
+While equipped:
++4 Speed.
++8 Wisdom.
+-4 Defense.
+-75 Maximum HP.
+-8 Dexterity.
+
++1 Mana Leech.
+
+Damage: 400
+Range: 2.5
+
+Drops from:
+Nox, the Nightmare: 0.5% (1/200) chance.

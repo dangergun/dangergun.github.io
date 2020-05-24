@@ -1,0 +1,23 @@
+Amulet of Oryx [0x69df]
+"A dark amulet of oryx himself."
+Legendary tier accessory.
+
+Fame Bonus: 8%.
+
+While equipped:
++10 Attack.
++10 Defense.
++10 Dexterity.
++10 Speed.
++10 Vitality.
++10 Wisdom.
++100 Maximum HP.
++100 Maximum MP.
++12 Luck.
++12 Might.
++12 Protection.
++12 Restoration.
+
+Drops from:
+Oryx the Mad God 1: 0.1% (1/1000) chance.
+Oryx the Mad God 2: 0.1% (1/1000) chance.

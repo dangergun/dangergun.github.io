@@ -1,0 +1,23 @@
+Trap of Darkened Souls [0x7919]
+"A trap made to damage its foes and collect the souls of the deceased."
+Legendary tier trap.
+
+MP Cost: 160.
+Cooldown: 0.5 seconds.
+Fame Bonus: 7%.
+
+When used:
+On self: Quiet for 5 seconds. Does not use wis mod.
+On self: Slowed for 4 seconds. Does not use wis mod.
+Trap: 5000 damage within 3 tiles.
+Throw time: 1 second.
+Trap: 7500 damage within 2 tiles.
+Throw time: 1 second.
+
+While equipped:
++10 Dexterity.
+-10 Vitality.
+-100 Maximum HP.
+-25 Wisdom.
+
+Does not drop from enemies.

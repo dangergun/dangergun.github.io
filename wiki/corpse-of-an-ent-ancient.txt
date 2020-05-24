@@ -1,0 +1,17 @@
+Corpse of an Ent Ancient [0x26a]
+"The hollowed out trunk of an Elder Ent Ancient, destroyed by a Archmage of the Southern Golgari Guild in the mountains of Trasdon. It was used to fuel their necrotic quest for dominance across the swamps of the Greenland."
+Untiered heavy armor.
+
+Fame Bonus: 4%.
+
+While equipped:
++2 Wisdom.
++20 Maximum MP.
++23 Defense.
++6 Vitality.
++60 Maximum HP.
+-4 Dexterity.
+-4 Speed.
+
+Drops from:
+Actual Ent Ancient: 1.3% (1/76) chance.

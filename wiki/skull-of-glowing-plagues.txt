@@ -1,0 +1,21 @@
+Skull of Glowing Plagues [0x1580]
+"Pestilence is an auroa around this skull, the user is bound to die. (Skull boost surrounding players' life.)"
+Untiered skull.
+
+MP Cost: 100.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Party effect: Within 6.5 tiles, +110 Maximum HP for 15 seconds. Does not use wis mod.
+Steals 160 HP within 2 tiles. Centered around the player's cursor.
+
+While equipped:
++5 Vitality.
++5 Wisdom.
++6 Defense.
+
++1 Life Steal.
+
+Drops from:
+Tridorno: 1.5% (1/66) chance.

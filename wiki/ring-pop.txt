@@ -1,0 +1,16 @@
+Ring Pop [0xc5f]
+"{equip.A_high-fructose_ring_that_will_give_you_pep,_but_hurt_your_}"
+Untiered accessory.
+
+While equipped:
++50 Vitality.
++50% Speed.
+-200 Maximum MP.
+-50 Wisdom.
+
+Drops from:
+Desire Troll: 1.0% (1/100) chance.
+Gigacorn: 1.0% (1/100) chance.
+MegaRototo: 1.0% (1/100) chance.
+Spoiled Creampuff: 1.0% (1/100) chance.
+Swoll Fairy: 1.0% (1/100) chance.

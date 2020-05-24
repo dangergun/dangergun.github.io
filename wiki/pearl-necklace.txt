@@ -1,0 +1,12 @@
+Pearl Necklace [0xc7d]
+"{equip.A_treasure_from_Davy_JonesAPOS_Locker.} Use this to receive gold."
+Untiered consumable.
+This item is soulbound.
+
+When used:
+Grants the player 125 gold.
+
+{equip.Treasure}: {equip.1_of_3}
+
+Drops from:
+Davy Jones: 8.0% (1/12) chance.

@@ -1,0 +1,14 @@
+Ring of Shining Light [0x61b6]
+"Forged from sunlight, this ring enlightens the wearer, and grants a mighty defense."
+Legendary tier accessory.
+
+Fame Bonus: 8%.
+
+While equipped:
++10 Attack.
++160 Maximum HP.
++160 Maximum MP.
++30 Vitality.
++50 Restoration.
+
+Does not drop from enemies.

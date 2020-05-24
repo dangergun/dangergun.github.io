@@ -1,0 +1,21 @@
+Nether Blade [0x5073]
+"A blade of otherworldly power that will bend reality with every strike."
+Untiered sword.
+
+Does 172-185 damage.
+100% rate of fire.
+Shoots 3 projectiles at a 0.0 degree angle.
+Range: 2.93 tiles.
+Shots hit multiple targets.
+Shots are wavy.
+Fame Bonus: 6%.
+
+While equipped:
++140 Maximum MP.
++8 Defense.
+
++1 Mana Leech.
+
+Drops from:
+Tunnel Varghus the Eye: 1.0% (1/100) chance.
+Varghus Test Chest: 3.5% (1/28) chance.

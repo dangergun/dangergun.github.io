@@ -1,0 +1,16 @@
+Shade of the Phoenix [0x5868]
+"The power within this bow, has been Replicated by the power of the Godly Remnant. The power of the previous owner resides within..."
+Godslayer tier bow.
+
+Does 150-188 damage.
+130% rate of fire.
+Shoots 3 projectiles at a 8.0 degree angle.
+Range: 7.77 tiles.
+Shots hit multiple targets.
+Shots ignore defense.
+Fame Bonus: 10%.
+
+While equipped:
++20 Vitality.
+
+Does not drop from enemies.

@@ -1,0 +1,14 @@
+Truncheon of Immortal Demons [0x1691]
+"A staff that uses the magic of the ghouls and demons that lurk in our world."
+Untiered staff.
+
+Does 110-120 damage.
+70% rate of fire.
+Shoots 4 projectiles at a 10.0 degree angle.
+Range: 8.25 tiles.
+Shots have an amplitude of 0.5 and a frequency of 2.
+Shots hit multiple targets.
+Fame Bonus: 5%.
+
+Drops from:
+Hades: 5.0% (1/20) chance.

@@ -1,0 +1,19 @@
+Banner of the Blood Mountains [0x53a2]
+"A red banner that stands for no mortal."
+Untiered banner.
+
+MP Cost: 90.
+Cooldown: 6.0 seconds.
+Fame Bonus: 6%.
+
+When used:
+On self: armored for 4 seconds. Does not use wis mod.
+On self: speedy for 3.5 seconds. Does not use wis mod.
+Within 4 tiles, empowers allies for 4 seconds. Stays active for 6 seconds.
+
+While equipped:
++10 Dexterity.
+-4 Speed.
+
+Drops from:
+Zaragon, the Blood Mage: 2.0% (1/50) chance.

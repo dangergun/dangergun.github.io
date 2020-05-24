@@ -1,0 +1,18 @@
+Greater Potion of Dexterity [0x236d]
+"{equip.A_potion_that_permanently_increases_dexterity.}"
+Untiered consumable.
+
+When used:
+Permanently increases Dexterity by 4.
+
+Drops from:
+Actual Greater Nature Sprite: 100.0% chance.
+Hermit God Drop: 100.0% chance.
+Jon Bilgewater the Pirate King: 100.0% chance.
+Limon the Sprite God: 100.0% chance.
+Lord Stone Gargoyle: 20.0% (1/5) chance.
+Malgor, the Eternal Fiend: 50.0% chance.
+Oryx the Mad God 1: 60.0% chance.
+Oryx the Mad God 2: 50.0% chance.
+True Somnus, the Dream Entity: 100.0% chance.
+Yazanahar: 40.0% chance.

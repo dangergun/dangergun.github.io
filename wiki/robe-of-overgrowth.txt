@@ -1,0 +1,19 @@
+Robe of Overgrowth [0x178b]
+"A robe that has been enchanted with the deep magics of nature, and earth."
+Untiered robe.
+
+Fame Bonus: 6%.
+
+While equipped:
++17 Defense.
++20 Maximum HP.
++20 Maximum MP.
++40 Restoration.
++8 Speed.
++8 Wisdom.
+
++4 Mana Leech.
+
+Drops from:
+Anubis Test Chest: 5.0% (1/20) chance.
+Temple Boss: 50.0% chance.

@@ -1,0 +1,19 @@
+Orb of Conflict [0xc0b]
+"{equip.This_orb_of_ancient_bloodstone_has_a_dark_reputation_of_twi}"
+Untiered orb.
+
+MP Cost: 100.
+Cooldown: 4.0 seconds.
+Fame Bonus: 6%.
+
+When used:
+Enemy effect: Within 3 tiles of the player's cursor, Stasis for 3 seconds.
+On self: Damaging for 2 seconds. Uses wis mod.
+On self: Speedy for 2 seconds. Uses wis mod.
+
+While equipped:
++2 Attack.
++2 Dexterity.
+
+Drops from:
+Skull Shrine: 1.0% (1/100) chance.

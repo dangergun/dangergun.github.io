@@ -1,0 +1,11 @@
+Titanic Bracelet [0x6215]
+"A symbol for a true titan."
+Fabled tier accessory.
+
+Fame Bonus: 6%.
+
+While equipped:
++20 Defense.
++200 Maximum HP.
+
+Does not drop from enemies.

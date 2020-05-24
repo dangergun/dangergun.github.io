@@ -1,0 +1,18 @@
+Wand of the Bulwark [0xc04]
+"
+This strange weapon was used by ancient battle mages to deter invaders. The secret to its construction has long been lost.
+"
+Untiered wand.
+
+Does 350-450 damage.
+33% rate of fire.
+Shoots 1 projectile.
+Range: 3.0 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+Shots are parametric.
+Fame Bonus: 6%.
+
+Drops from:
+Snakepit Guard: 0.5% (1/200) chance.
+Stheno the Snake Queen: 1.0% (1/100) chance.

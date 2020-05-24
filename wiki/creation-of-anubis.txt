@@ -1,0 +1,27 @@
+Creation of Anubis [0x7741]
+"A topaz gem blessed by anubis himself said to curse whoever tries to remove it from its frame."
+Sacred tier prism.
+
+MP Cost: 100.
+Cooldown: 5.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+Creates a decoy that lasts for 1.8 seconds.
+Enemy Effect: Curse for 3 seconds within 6 tiles. Centered around the player.
+On self: Berserk for 2 seconds. Does not use wis mod.
+On self: Damaging for 2 seconds. Does not use wis mod.
+
+While equipped:
++2 Attack.
++20 Maximum MP.
+-30 Maximum HP.
+-5 Vitality.
+
+Damage: 100-140
+Total Shots: 31
+Summons a stationary decoy that shoots.
+
+Treasure Hunter: On loot roll, 8% chance to apply a 100% drop chance increase. Stackable.
+
+Does not drop from enemies.

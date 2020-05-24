@@ -1,0 +1,18 @@
+Overseer Robe [0x7062]
+"A robe worn by the highest interstellar beings, their raw strength fueled by the gracious orb found at the heart of the robe."
+Sacred tier robe.
+
+Fame Bonus: 8%.
+
+While equipped:
++16 Vitality.
++24 Defense.
++300 Maximum HP.
++9 Wisdom.
+-100 Maximum MP.
+-4 Dexterity.
+-4 Speed.
+
+Runic Defense: On hit, 8% chance to trigger an AOE heal for the taken damage with a 4 tile radius. Stackable.
+
+Does not drop from enemies.

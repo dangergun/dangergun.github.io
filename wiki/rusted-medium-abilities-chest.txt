@@ -1,0 +1,22 @@
+Rusted Medium Abilities Chest [0x7243]
+"A sacred treasure chest containing a random sacred ability. Why don't you try opening it?"
+Rusted tier consumable.
+
+Rusted Chest:: This item grants any rusted ability from the hide class.
+
+Drops from:
+Bergelmir, the Frost Guardian: 0.1% (1/1000) chance.
+Colothiois the Exalted: 0.1% (1/1000) chance.
+Davy Jones: 0.1% (1/1000) chance.
+Jon Bilgewater the Pirate King: 0.1% (1/1000) chance.
+Lord Ruthven: 0.1% (1/1000) chance.
+Malgor, the Eternal Fiend: 0.1% (1/1000) chance.
+Murderous Megamoth: 0.1% (1/1000) chance.
+Septavius the Ghost God: 0.1% (1/1000) chance.
+Snakepit Guard: 0.1% (1/1000) chance.
+Son of Arachna: 0.1% (1/1000) chance.
+The Dreadnought: 0.1% (1/1000) chance.
+UNP Servant of the Dark Knight: 0.1% (1/1000) chance.
+UNP The Dark Knight: 0.1% (1/1000) chance.
+Urios, God of Elements: 0.1% (1/1000) chance.
+Zeus: 0.1% (1/1000) chance.

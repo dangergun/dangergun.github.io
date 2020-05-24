@@ -1,0 +1,20 @@
+Sunrise Katana [0x7108]
+"A katana carried by a lone wanderer who promised himself he would arrive before the sunset..."
+Sacred tier katana.
+
+Does 145-290 damage.
+170% rate of fire.
+Shoots 1 projectile.
+Range: 6.21 tiles.
+Shots hit multiple targets.
+Shots ignore defense.
+Fame Bonus: 8%.
+
+While equipped:
++10 Vitality.
++6 Speed.
++80 Maximum HP.
+
+Treasure Hunter: On loot roll, 8% chance to apply a 100% drop chance increase. Stackable.
+
+Does not drop from enemies.

@@ -1,0 +1,15 @@
+Armor of Resilience [0x48fa]
+"Forged from the densest materials in order to provide the user with an unwavering defense."
+Legendary tier heavy armor.
+
+Fame Bonus: 8%.
+
+While equipped:
++100 Vitality.
++28 Defense.
++300 Maximum HP.
+-8 Speed.
+
+Lifeline: Having less than 1/3rd of your maximum health pool gives you a massive health regeneration boost.
+
+Does not drop from enemies.

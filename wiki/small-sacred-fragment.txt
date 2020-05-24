@@ -1,0 +1,9 @@
+Small Sacred Fragment [0x63e1]
+"A fragment of what seems to be a blue crystal. It glows light blue and might contain some type of hidden power."
+Untiered consumable.
+
+When used:
+Grants the player 5 sacred fragments.
+
+Drops from:
+Malgor, the Eternal Fiend: 25.0% (1/4) chance.

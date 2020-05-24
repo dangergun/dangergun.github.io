@@ -1,0 +1,14 @@
+Ring of Fortune [0x5824]
+"A ring that seems to bring you great fortune."
+Untiered accessory.
+
+Fame Bonus: 5%.
+
+While equipped:
++20 Luck.
++20 Might.
++5 Fortune.
++70 Maximum HP.
+
+Drops from:
+Mad Jester: 1.0% (1/100) chance.

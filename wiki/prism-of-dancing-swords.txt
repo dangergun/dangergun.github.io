@@ -1,0 +1,20 @@
+Prism of Dancing Swords [0x912]
+"{equip.This_prism_has_a_deep_flaw_that_causes_it_to_scatter_light_}"
+Untiered prism.
+
+MP Cost: 95.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Creates a decoy that lasts for 5 seconds.
+Creates a decoy that lasts for 5 seconds.
+On self: Armored for 2.5 seconds. Does not use wis mod.
+
+While equipped:
++4 Attack.
++4 Speed.
++40 Maximum HP.
+
+Drops from:
+Puppet Loot Chest: 1.0% (1/100) chance.

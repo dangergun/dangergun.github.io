@@ -1,0 +1,16 @@
+Ultimate Nunchucks [0x5221]
+"The best nunchucks around, they make you very mobile."
+Untiered katana.
+
+Does 95-130 damage.
+125% rate of fire.
+Shoots 1 projectile.
+Range: 4.81 tiles.
+Shots hit multiple targets.
+Fame Bonus: 6%.
+
+While equipped:
++10 Speed.
+
+Drops from:
+Arnkz the Mega Samurai: 5.0% (1/20) chance.

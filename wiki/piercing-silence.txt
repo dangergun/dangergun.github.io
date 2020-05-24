@@ -1,0 +1,16 @@
+Piercing Silence [0x1644]
+"Voices of those who died with this robe remain, only to be heard by the wearer."
+Legendary tier robe.
+
+Fame Bonus: 8%.
+
+While equipped:
++10 Attack.
++24 Wisdom.
++25 Defense.
++250 Maximum MP.
++50 Might.
+
+Mana Focus: While having above 20 surge points your mana will regenerated faster.
+
+Does not drop from enemies.

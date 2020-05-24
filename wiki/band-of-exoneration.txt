@@ -1,0 +1,16 @@
+Band of Exoneration [0x52df]
+"This heavy circlet grants the wearer with infinite might."
+Legendary tier accessory.
+
+Fame Bonus: 8%.
+
+While equipped:
++15 Dexterity.
++5 Attack.
++60 Might.
+-15 Speed.
+-15 Wisdom.
+
+Unstoppable: You deal 30% more damage above 80% HP.
+
+Does not drop from enemies.

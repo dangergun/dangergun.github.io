@@ -1,0 +1,21 @@
+Sheath of the Holy Revival [0x5139]
+"A sheath made of materials that will uplift the fighter when a katana is drawn from it."
+Untiered sheath.
+
+MP Cost: 90.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Heals 250 health.
+On self: Healing for 4.0 seconds. Does not use wis mod.
+While ability key is held, Berserk on self and drains 10 mp/second.
+When ability key is released, 750 damage within 5 tiles. Uses atk mod.
+
+While equipped:
++100 Maximum HP.
++5 Defense.
++5 Speed.
+
+Drops from:
+Riv the Heavenly Champion: 9.0% (1/11) chance.

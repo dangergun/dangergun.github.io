@@ -1,0 +1,23 @@
+Protective Psalm [0x47f8]
+"Infused by the power of God, this tome purifies the user and defends them in battle."
+Legendary tier tome.
+
+MP Cost: 100.
+Cooldown: 1.6 seconds.
+Fame Bonus: 8%.
+
+When used:
+Heals 320 HP within 6 tiles. Uses wis mod.
+On self: Invulnerable for 1 second. Does not use wis mod.
+Party effect: Healing for 6 seconds within 5 tiles. Uses wis mod.
+Party effect: Speedy for 3 seconds within 2.5 tiles. Uses wis mod.
+
+While equipped:
++4 Defense.
++8 Vitality.
++80 Maximum HP.
+-2 Dexterity.
+
++2 Mana Leech.
+
+Does not drop from enemies.

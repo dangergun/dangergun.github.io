@@ -1,0 +1,18 @@
+Bow of Disgust [0x20c]
+"A disgusting bow, made pliable from the soft flesh it was crafted with. - Said to have come from another world where equipment fashioned from cadavers was more common."
+Untiered bow.
+
+Does 85-120 damage.
+80% rate of fire.
+Shoots 5 projectiles at a 5.0 degree angle.
+Range: 7.04 tiles.
+Shots hit multiple targets.
+Shots ignore defense.
+Shots are wavy.
+Fame Bonus: 6%.
+
+Drops from:
+Arena Ghost Bride: 0.1% (1/1000) chance.
+Arena Grave Caretaker: 0.1% (1/1000) chance.
+Ghost of Skuld: 0.4% (1/250) chance.
+Troll 3: 0.1% (1/1000) chance.

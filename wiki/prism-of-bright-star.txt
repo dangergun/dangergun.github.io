@@ -1,0 +1,19 @@
+Prism of Bright Star [0x240]
+"It's so bright and shimmering. I'd better keep a watchful eye on it, just in case some one wants to steal it."
+Untiered prism.
+
+MP Cost: 120.
+Cooldown: 3.0 seconds.
+Fame Bonus: 4%.
+
+When used:
+Creates a decoy that lasts for 4.5 seconds.
+On self: Invulnerable for 2 seconds. Does not use wis mod.
+
+While equipped:
++25 Maximum HP.
++3 Speed.
++3 Vitality.
+
+Drops from:
+Archdemon Malphas: 5.0% (1/20) chance.

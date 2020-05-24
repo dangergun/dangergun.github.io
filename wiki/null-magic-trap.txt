@@ -1,0 +1,22 @@
+Null-Magic Trap [0x53f8]
+"This trap doesn't go too well with magical gear..."
+Untiered trap.
+
+MP Cost: 120.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Trap: 500 damage within 5 tiles.
+On enemies: Paralyzed for 3 seconds.
+Throw time: 1 second.
+Trap: 750 damage within 4 tiles.
+On enemies: Armor Broken for 3 seconds.
+Throw time: 1 second.
+
+While equipped:
++15 Attack.
++4 Wisdom.
+
+Drops from:
+The Illusionist: 2.0% (1/50) chance.

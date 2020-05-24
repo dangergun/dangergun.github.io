@@ -1,0 +1,20 @@
+Reaper's Cloak [0x7349]
+"Hidden amongst the deadly mist, the only way to kill the bearer is to rid him of this foul cloak, the Reapers only downfall."
+Untiered cloak.
+
+MP Cost: 90.
+Cooldown: 6.0 seconds.
+Fame Bonus: 6%.
+
+When used:
+Enemy Effect: Weak for 2 seconds within 2.5 tiles. Centered around the player.
+On self: Invisible for 5 seconds. Does not use wis mod.
+
+While equipped:
++4 Dexterity.
++5 Speed.
+-2 Vitality.
+-2 Wisdom.
+
+Drops from:
+Akeldama, the Disciple of Oryx: 0.5% (1/200) chance.

@@ -1,0 +1,26 @@
+Platonic Lifeline [0x7050]
+"Once a tablet of medicinal power but now is overrun by a unwelcome force creating nothing but fear."
+Sacred tier spell.
+
+Does 120-240 damage.
+Range: 6.0 tiles.
+Shots have an amplitude of 1.25 and a frequency of 1.
+MP Cost: 110.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Berserk for 2 seconds. Does not use wis mod.
+On self: Healing for 2 seconds. Uses wis mod.
+Shoots 12 shots in a circle around the cursor.
+
+While equipped:
++20 Vitality.
++300 Maximum HP.
+-20 Wisdom.
+-6 Dexterity.
+-6 Speed.
+
+Galactic Valor: All status effect durations are increased by 5%. Stackable.
+
+Does not drop from enemies.

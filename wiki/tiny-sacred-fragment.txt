@@ -1,0 +1,27 @@
+Tiny Sacred Fragment [0x63e2]
+"A fragment of what seems to be a blue crystal. It glows light blue and might contain some type of hidden power."
+Untiered consumable.
+
+When used:
+Grants the player 1 sacred fragment.
+
+Drops from:
+Angelic Commander: 0.01% (1/10000) chance.
+Arena Headless Horseman: 0.01% (1/10000) chance.
+Beholder: 0.01% (1/10000) chance.
+Construct of the Concealment: 0.01% (1/10000) chance.
+Djinn: 0.01% (1/10000) chance.
+Ent God: 0.01% (1/10000) chance.
+Flying Brain: 0.01% (1/10000) chance.
+Ghost God: 0.01% (1/10000) chance.
+Leviathan: 0.01% (1/10000) chance.
+Lucky Djinn: 0.01% (1/10000) chance.
+Lucky Ent God: 0.01% (1/10000) chance.
+Medusa: 0.01% (1/10000) chance.
+Paper Bot: 0.00333% (1/30030) chance.
+Rock Bot: 0.00333% (1/30030) chance.
+Slime God: 0.01% (1/10000) chance.
+Sprite God: 0.01% (1/10000) chance.
+Steel Bot: 0.00333% (1/30030) chance.
+Thunder God: 0.01% (1/10000) chance.
+White Demon: 0.01% (1/10000) chance.

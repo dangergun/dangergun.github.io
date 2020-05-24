@@ -1,0 +1,13 @@
+Ring of Ashen Matrimony [0x796f]
+"The King's wife died here. For her memory. Thx to Jinx, to draw this set."
+Untiered accessory.
+
+Fame Bonus: 5%.
+
+While equipped:
++110 Maximum MP.
++6 Attack.
++6 Wisdom.
+
+Drops from:
+Actual Ghost King: 1.0% (1/100) chance.

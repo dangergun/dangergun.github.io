@@ -1,0 +1,9 @@
+Davy's Key [0xc2e]
+"{equip.A_key_that_opens_the_way_to_Davy_JonesAPOS_Locker.}"
+Untiered consumable.
+
+When used:
+Creates a Davy Jones' Locker Portal.
+
+Drops from:
+Beach Bum: 100.0% chance.

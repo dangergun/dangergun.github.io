@@ -1,0 +1,18 @@
+Midnight Star [0x916]
+"{equip.A_legendary_shuriken_that_absorbs_the_light_around_it.}"
+Untiered shuriken.
+
+Does 300-600 damage.
+Range: 15.0 tiles.
+Shots pass through obstacles.
+MP Cost: 90.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+While equipped:
++2 Attack.
++4 Dexterity.
+
+Drops from:
+lod Ivory Loot: 4.0% (1/25) chance.
+lod Ivory Wyvern: 6.0% (1/16) chance.

@@ -1,0 +1,16 @@
+The Odyssey [0x45d8]
+"Yes! Adventures await us young warrior! You must fight with valor and and might. ~ Itani"
+Legendary tier heavy armor.
+
+Fame Bonus: 8%.
+
+While equipped:
++100 Luck.
++12 Speed.
++12 Vitality.
++30 Defense.
++5 Attack.
++50 Might.
++8 Dexterity.
+
+Does not drop from enemies.

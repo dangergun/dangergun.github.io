@@ -1,0 +1,18 @@
+The Ranger's Grace [0x49f6]
+"Used by the most talented archers in order to kill on their target without fail."
+Legendary tier quiver.
+
+Does 900-1000 damage.
+Range: 18.75 tiles.
+Shots pass through obstacles.
+Shots ignore defense.
+MP Cost: 120.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+While equipped:
++10 Defense.
++20 Restoration.
++40 Luck.
+
+Does not drop from enemies.

@@ -1,0 +1,25 @@
+Soul's Guidance [0x54d9]
+"Forged to bring gigantic power upon the user in order to guide the souls of all who oppose it, to the underworld."
+Legendary tier siphon.
+
+MP Cost: 20.
+Surge Cost: 5.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Speedy for 2 seconds. Uses wis mod.
+Siphon Radius: 4 tiles.
+Base Damage: 800.
+Mana Recovery: 7 seconds.
+While ability key is held, drains 50 hp/second.
+When ability key is released, damages enemies based on health drained, current mana, wisdom stat, and this item's base damage.
+
+While equipped:
++10 Restoration.
++100 Maximum HP.
++440 Maximum MP.
+
++1 Mana Leech.
+
+Does not drop from enemies.

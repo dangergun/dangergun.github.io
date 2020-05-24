@@ -1,0 +1,23 @@
+The Ultimatum [0x43a6]
+"Made to hold the strongest katanas until their moment of calamity."
+Legendary tier sheath.
+
+Does 300-400 damage.
+Range: 10.32 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+Shots ignore defense.
+Shots are parametric.
+MP Cost: 110.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Berserk for 2 seconds. Does not use wis mod.
+On self: Surged for 3 seconds. Does not use wis mod.
+
+While equipped:
++10 Attack.
++80 Maximum HP.
+
+Does not drop from enemies.

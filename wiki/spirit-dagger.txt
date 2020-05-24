@@ -1,0 +1,13 @@
+Spirit Dagger [0xc29]
+"{equip.A_dagger_that_was_condemned_to_Davy_JonesAPOS_Locker.}"
+Untiered dagger.
+
+Does 250-320 damage.
+70% rate of fire.
+Shoots 1 projectile.
+Range: 5.2 tiles.
+Shots have an amplitude of 0.2 and a frequency of 0.
+Fame Bonus: 4%.
+
+Drops from:
+Davy Jones: 2.0% (1/50) chance.

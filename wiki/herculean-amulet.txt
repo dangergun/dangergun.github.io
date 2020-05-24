@@ -1,0 +1,16 @@
+Herculean Amulet [0x69cd]
+"This amulet provides its wearer with a gargantuan amount of resistance."
+Legendary tier accessory.
+
+Fame Bonus: 8%.
+
+While equipped:
++10 Speed.
++15 Dexterity.
++20 Protection.
++200 Maximum HP.
+Grants Surged after 60 seconds.
+
+Insurgency: The surge you gain is doubled while this item is equipped.
+
+Does not drop from enemies.

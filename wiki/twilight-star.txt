@@ -1,0 +1,20 @@
+Twilight Star [0x7250]
+"Crafted from the remains of a fallen star, this weapon proves to be deadly, while shining beautifully."
+Sacred tier shuriken.
+
+Does 500-1000 damage.
+Range: 15.0 tiles.
+Shots pass through obstacles.
+MP Cost: 50.
+Cooldown: 2.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Berserk for 2 seconds. Does not use wis mod.
+On self: Damaging for 2 seconds. Does not use wis mod.
+On self: Speedy for 2 seconds. Does not use wis mod.
+
+Critical Focus: On enemy hit, 7% chance to increase might by 10% of total luck. Stackable.
+
+Drops from:
+lod Ivory Wyvern: 0.2% (1/500) chance.

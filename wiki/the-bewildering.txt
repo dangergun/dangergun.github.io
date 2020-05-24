@@ -1,0 +1,22 @@
+The Bewildering [0x46d8]
+"A sphere of energy formed from the depths of the earth, it grants vast strength in order to overcome the users foe."
+Legendary tier orb.
+
+MP Cost: 110.
+Cooldown: 5.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+Enemy Effect: Curse for 2 seconds within 4 tiles. Centered around the player's cursor.
+Enemy effect: Within 3 tiles of the player's cursor, Stasis for 5 seconds.
+On self: Armored for 4 seconds. Does not use wis mod.
+On self: Damaging for 3 seconds. Uses wis mod.
+
+While equipped:
++4 Vitality.
++6 Defense.
++6 Speed.
+
+Timeplosion: This orb has double the radius of a regular orb.
+
+Does not drop from enemies.

@@ -1,0 +1,14 @@
+Experimental Ring [0xc31]
+"{equip.An_early_prototype_ring.}"
+Untiered accessory.
+
+Fame Bonus: 4%.
+
+While equipped:
++130 Maximum HP.
++130 Maximum MP.
++8 Defense.
++8 Vitality.
+
+Drops from:
+Dr Terrible: 6.0% (1/16) chance.

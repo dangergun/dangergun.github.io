@@ -1,0 +1,15 @@
+Warden Armor [0x788b]
+"Stange eye staring at me from the inside..."
+Untiered leather armor.
+
+Fame Bonus: 6%.
+
+While equipped:
++18 Defense.
++3 Speed.
++40 Maximum MP.
++5 Vitality.
++7 Wisdom.
+
+Drops from:
+md Janus the Doorwarden: 8.0% (1/12) chance.

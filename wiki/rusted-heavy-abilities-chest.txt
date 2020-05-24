@@ -1,0 +1,30 @@
+Rusted Heavy Abilities Chest [0x7244]
+"A sacred treasure chest containing a random sacred ability. Why don't you try opening it?"
+Rusted tier consumable.
+
+Rusted Chest:: This item grants any rusted ability from the armor class.
+
+Drops from:
+Archdemon Malphas: 0.1% (1/1000) chance.
+Arnkz the Mega Samurai: 0.1% (1/1000) chance.
+Construct of the Storm: 0.1% (1/1000) chance.
+Doomages: 0.1% (1/1000) chance.
+Ghost of Skuld: 0.1% (1/1000) chance.
+Hades: 0.1% (1/1000) chance.
+Hand of Terradius: 0.1% (1/1000) chance.
+Horrific Creation: 0.1% (1/1000) chance.
+Iegon the Weather God: 0.1% (1/1000) chance.
+Puppet Master v2: 0.1% (1/1000) chance.
+The Kraken: 0.1% (1/1000) chance.
+The Overseer: 0.1% (1/1000) chance.
+Tomb Attacker: 0.1% (1/1000) chance.
+Tomb Defender: 0.1% (1/1000) chance.
+Tomb Support: 0.1% (1/1000) chance.
+Tridorno: 0.1% (1/1000) chance.
+ic Loot Balloon: 0.1% (1/1000) chance.
+shtrs Bridge Sentinel: 0.1% (1/1000) chance.
+shtrs Loot Balloon Bridge: 0.1% (1/1000) chance.
+shtrs Loot Balloon King: 0.1% (1/1000) chance.
+shtrs Loot Balloon Mage: 0.1% (1/1000) chance.
+shtrs The Forgotten King: 0.1% (1/1000) chance.
+shtrs Twilight Archmage: 0.1% (1/1000) chance.

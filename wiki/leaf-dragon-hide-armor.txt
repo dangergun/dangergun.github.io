@@ -1,0 +1,15 @@
+Leaf Dragon Hide Armor [0x7562]
+"{equip.Light_armor_crafted_from_the_hard-as-steel_leafy_scales_of_}"
+Untiered leather armor.
+
+Fame Bonus: 5%.
+
+While equipped:
++12 Speed.
++13 Defense.
++150 Maximum HP.
++5 Vitality.
++5 Wisdom.
+
+Drops from:
+lod Green Loot Balloon: 2.0% (1/50) chance.

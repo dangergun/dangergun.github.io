@@ -1,0 +1,16 @@
+Sincryer's Demise [0x32c2]
+"The evils I have done can't be concealed forever."
+Legendary tier wand.
+
+Does 150-300 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 11.0 tiles.
+Shots hit multiple targets.
+Shots are wavy.
+Fame Bonus: 8%.
+
+While equipped:
+-6 Defense.
+
+Does not drop from enemies.

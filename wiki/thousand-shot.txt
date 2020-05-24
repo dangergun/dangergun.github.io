@@ -1,0 +1,20 @@
+Thousand Shot [0x9d5]
+"
+            {equip.A_deadly_mechanical_bow_and_a_marvel_of_technology.}
+        "
+Untiered bow.
+
+Does 100-180 damage.
+150% rate of fire.
+Shoots 1 projectile.
+Range: 7.59 tiles.
+Shots hit multiple targets.
+Shots ignore defense.
+Fame Bonus: 6%.
+
+While equipped:
++100 Maximum MP.
+-5 Speed.
+
+Drops from:
+Puppet Master v2: 1.0% (1/100) chance.

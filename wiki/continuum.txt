@@ -1,0 +1,16 @@
+Continuum [0x7072]
+"A circlet of light and dark showing their eternal coexistence within our universe."
+Sacred tier accessory.
+
+Fame Bonus: 8%.
+
+While equipped:
++20 Speed.
++30 Dexterity.
+-150 Maximum HP.
+-20 Luck.
+-50 Protection.
+
+Collector's Edition: All stats are increased by 0.65% per sacred item in inventory. Stackable.
+
+Does not drop from enemies.

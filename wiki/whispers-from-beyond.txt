@@ -1,0 +1,21 @@
+Whispers from Beyond [0x61b5]
+"Murmurs of souls compound in order to form a tome that protects the user from certain harm."
+Legendary tier tome.
+
+MP Cost: 125.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+Enemy Effect: Dazed  for 2 seconds within 6 tiles. Centered around the player.
+Enemy Effect: Paralyzed for 2 seconds within 6 tiles. Centered around the player.
+Heals 260 HP within 6 tiles. Uses wis mod.
+Party effect: Armored for 2 seconds within 3 tiles. Does not use wis mod.
+
+While equipped:
++200 Maximum MP.
++50 Protection.
+
++1 Mana Leech.
+
+Does not drop from enemies.

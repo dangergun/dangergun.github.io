@@ -1,0 +1,22 @@
+Psychotic Attacks [0x69ec]
+"A spell imbued with crazy screams in order to torment the enemy and the user itself."
+Legendary tier spell.
+
+Does 360-420 damage.
+Range: 3.0 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+Shots boomerang.
+MP Cost: 125.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+Shoots 12 shots in a circle around the cursor.
+
+While equipped:
++10 Dexterity.
+
++1 Life Steal.
+
+Does not drop from enemies.

@@ -1,0 +1,13 @@
+Golden Urn [0x510b]
+"A treasure from the Undead Lair."
+Untiered consumable.
+This item is soulbound.
+
+When used:
+Grants the player 150 gold.
+
+Can be used to obtain 150 gold.
+{equip.Treasure}: {equip.2_of_2}
+
+Drops from:
+Septavius the Ghost God: 4.0% (1/25) chance.

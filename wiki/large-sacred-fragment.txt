@@ -1,0 +1,14 @@
+Large Sacred Fragment [0x63e5]
+"A large fragment of what seems to be a blue crystal. It glows light blue and might contain some type of hidden power."
+Untiered consumable.
+
+When used:
+Grants the player 15 sacred fragments.
+
+Drops from:
+Bergelmir, the Frost Guardian: 10.0% (1/10) chance.
+Drannol, the Eternal Beast: 0.6% (1/166) chance.
+Hand of Terradius: 33.0% (1/3) chance.
+Temple Boss: 10.0% (1/10) chance.
+The Kraken: 33.0% (1/3) chance.
+Ultra Drannol, the Eternal Beast: 1.0% (1/100) chance.

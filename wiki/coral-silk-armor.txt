@@ -1,0 +1,14 @@
+Coral Silk Armor [0xc18]
+"{equip.Mermaid-made_armor_woven_from_unbreakable_coral_threads.}"
+Untiered leather armor.
+
+Fame Bonus: 5%.
+
+While equipped:
++20 Defense.
++5 Speed.
++6 Dexterity.
+
+Drops from:
+Coral Gift: 4.0% (1/25) chance.
+Thessal the Mermaid Goddess: 4.0% (1/25) chance.

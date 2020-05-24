@@ -1,0 +1,12 @@
+Vinesword [0x228e]
+"{equip.Strung_together_with_the_deadly_vines_of_Belladonna._Thanks}"
+Untiered sword.
+
+Does 195-255 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 3.5 tiles.
+Fame Bonus: 1%.
+
+Drops from:
+vlntns Loot Balloon Bella: 10.0% (1/10) chance.

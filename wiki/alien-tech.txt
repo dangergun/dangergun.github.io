@@ -1,0 +1,19 @@
+Alien Tech [0x7099]
+"An extravagant piece of technology that should have never came upon this world, it's power is too great..."
+Sacred tier bow.
+
+Does 1500-2250 damage.
+20% rate of fire.
+Shoots 1 projectile.
+Range: 9.0 tiles.
+Shots hit multiple targets.
+Shots ignore defense.
+Fame Bonus: 7%.
+
+While equipped:
+-10 Defense.
+-10 Speed.
+
+Galactic Valor: All status effect durations are increased by 5%. Stackable.
+
+Does not drop from enemies.

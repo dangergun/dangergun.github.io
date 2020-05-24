@@ -1,0 +1,18 @@
+Gratuitous Gift [0x53de]
+"sent down upon the people of the realm from the clouds above, a gift from the heavens themselves."
+Legendary tier katana.
+
+Does 190-240 damage.
+150% rate of fire.
+Shoots 1 projectile.
+Range: 4.32 tiles.
+Shots hit multiple targets.
+Shots boomerang.
+Fame Bonus: 8%.
+
+While equipped:
++10 Speed.
++8 Defense.
++80 Maximum HP.
+
+Does not drop from enemies.

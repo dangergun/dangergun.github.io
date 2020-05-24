@@ -1,0 +1,16 @@
+Interstellar Force [0x42f3]
+"Contained within this armor is the purest mana found in the milky way, forged in the depths of an unstable black hole, causing it to crash back into the atmosphere."
+Legendary tier robe.
+
+Fame Bonus: 8%.
+
+While equipped:
++20 Protection.
++400 Maximum MP.
++75 Wisdom.
+
++2 Mana Leech.
+
+Mindwalker: You are immune to Slowed while this item is equipped.
+
+Does not drop from enemies.

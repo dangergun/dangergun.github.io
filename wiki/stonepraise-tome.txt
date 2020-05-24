@@ -1,0 +1,14 @@
+Stonepraise Tome [0x621a]
+"A tome that will bless you with the skin of stone."
+Fabled tier tome.
+
+MP Cost: 100.
+Cooldown: 1.0 seconds.
+Fame Bonus: 6%.
+
+When used:
+Heals 250 HP within 4.5 tiles. Uses wis mod.
+On self: Armored for 0.5 seconds. Does not use wis mod.
+Party effect: Healing for 8 seconds within 6 tiles. Does not use wis mod.
+
+Does not drop from enemies.

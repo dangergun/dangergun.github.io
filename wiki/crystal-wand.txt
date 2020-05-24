@@ -1,0 +1,15 @@
+Crystal Wand [0xb3f]
+"{equip.A_sound_almost_like_a_wind_chime_emanates_softly_from_this_}"
+Untiered wand.
+
+Does 195-235 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 6.0 tiles.
+Shots hit multiple targets.
+Shots ignore defense.
+Fame Bonus: 4%.
+
+Drops from:
+Asylum Wizzard: 15.0% (1/6) chance.
+Crystal Prisoner: 1.0% (1/100) chance.

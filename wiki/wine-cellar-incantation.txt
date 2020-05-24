@@ -1,0 +1,11 @@
+Wine Cellar Incantation [0x722]
+"{equip.An_incantation_that_unlocks_the_Wine_Cellar.}"
+Untiered consumable.
+This item is soulbound.
+
+When used:
+Unlocks a Locked Wine Cellar Portal.
+
+Drops from:
+Abyss Idol: 30.0% (1/3) chance.
+Dr Terrible: 0.5% (1/200) chance.

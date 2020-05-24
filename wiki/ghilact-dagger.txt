@@ -1,0 +1,18 @@
+Ghilact Dagger [0x5048]
+"Made from strong material that originates from another universe. It's quite scarce."
+Untiered dagger.
+
+Does 100-150 damage.
+125% rate of fire.
+Shoots 1 projectile.
+Range: 6.48 tiles.
+Shots hit multiple targets.
+Shots ignore defense.
+Fame Bonus: 6%.
+
+While equipped:
++100 Maximum HP.
++100 Maximum MP.
+
+Drops from:
+UNP Servant of the Dark Knight: 5.0% (1/20) chance.

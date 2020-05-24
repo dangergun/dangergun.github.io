@@ -1,0 +1,19 @@
+The Twisted Cloak [0x63a5]
+"A cloak that must've fell off the twisted vanguard ages ago.."
+Fabled tier cloak.
+
+MP Cost: 100.
+Cooldown: 8.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+On self: Damaging for 8 seconds. Does not use wis mod.
+On self: Invisible for 5.5 seconds. Does not use wis mod.
+
+While equipped:
++10 Defense.
++4 Vitality.
++40 Restoration.
++6 Attack.
+
+Does not drop from enemies.

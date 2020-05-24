@@ -1,0 +1,16 @@
+Age of Zol [0x44da]
+"A time will come that Aldragine will gain enough power and destroy our world. You must stop this."
+Fabled tier leather armor.
+
+Fame Bonus: 8%.
+
+While equipped:
++10 Speed.
++14 Attack.
++18 Defense.
++20 Restoration.
++300 Maximum MP.
+
++2 Mana Leech.
+
+Does not drop from enemies.

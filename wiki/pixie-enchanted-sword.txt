@@ -1,0 +1,22 @@
+Pixie-Enchanted Sword [0x2367]
+"{equip.Pixies_are_often_a_more_aggressive_fae._It_makes_great_sens}"
+Untiered sword.
+
+Does 75-90 damage.
+110% rate of fire.
+Shoots 4 projectiles at a 6.0 degree angle.
+Range: 4.55 tiles.
+Fame Bonus: 7%.
+
+While equipped:
++3 Attack.
++5 Dexterity.
+
+Wearing the whole set will reward you with: +100 HP, +100 MP, +10 Attack, +10 Def, +20 Wis
+
+Drops from:
+Desire Troll: 0.5% (1/200) chance.
+Gigacorn: 0.5% (1/200) chance.
+MegaRototo: 0.5% (1/200) chance.
+Spoiled Creampuff: 0.5% (1/200) chance.
+Swoll Fairy: 0.5% (1/200) chance.

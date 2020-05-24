@@ -1,0 +1,11 @@
+Luxury Shard [0x791e]
+"A strage stone-like artifact that emits a yellow glow. Inside of it, waits overwhelming power."
+Legendary tier consumable.
+
+Drops from:
+Akeldama, the Disciple of Oryx: 0.1% (1/1000) chance.
+Larry Gigsman, the Superhuman: 0.2% (1/500) chance.
+Lenin: 0.2% (1/500) chance.
+Lord Stone Gargoyle: 0.2% (1/500) chance.
+Sorgigas, the Sor Giant: 0.2% (1/500) chance.
+The Illusionist: 0.2% (1/500) chance.

@@ -1,0 +1,8 @@
+Lost Scripture #2 [0x62a8]
+"A lost page from the book named the Acul."
+Legendary tier consumable.
+
+Using this makes your character ascended, allowing it to consume vials.
+
+Drops from:
+Big Turkey God: 0.01% (1/10000) chance.

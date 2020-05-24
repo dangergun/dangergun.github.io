@@ -1,0 +1,19 @@
+Infused Spike [0x1633]
+"Used to weaken Giants by scattering these spikes on the ground, shattering their feet."
+Legendary tier trap.
+
+MP Cost: 140.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+Trap: 1400 damage within 6 tiles.
+On enemies: Bleeding for 6 seconds.
+Throw time: 1 second.
+
+While equipped:
++40 Maximum HP.
++8 Attack.
++8 Defense.
+
+Does not drop from enemies.

@@ -1,0 +1,20 @@
+Subspace Slasher [0x7873]
+"A lightweight sword, the blade of which appears to be a narrow gateway to a distant void."
+Untiered sword.
+
+Does 210-265 damage.
+80% rate of fire.
+Shoots 2 projectiles at a 4.0 degree angle.
+Range: 5.4 tiles.
+Shots pass through obstacles.
+Shots ignore defense.
+Fame Bonus: 8%.
+
+While equipped:
++12 Wisdom.
++4 Attack.
++8 Defense.
+-8 Speed.
+
+Drops from:
+True Somnus, the Dream Entity: 0.8% (1/125) chance.

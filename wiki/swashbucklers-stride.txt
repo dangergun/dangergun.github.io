@@ -1,0 +1,14 @@
+Swashbuckler's Stride [0x5491]
+""I take pride in keepin my swords sharp." - Jon Bilgewater."
+Untiered sword.
+
+Does 135-235 damage.
+140% rate of fire.
+Shoots 1 projectile.
+Range: 5.6 tiles.
+Shots have an amplitude of 0.5 and a frequency of 3.
+Shots hit multiple targets.
+Fame Bonus: 6%.
+
+Drops from:
+Jon Bilgewater the Pirate King: 0.5% (1/200) chance.

@@ -1,0 +1,20 @@
+Purity's Call [0x47be]
+"A seal made from heavenly essence in order to protect and purify the masses."
+Legendary tier seal.
+
+MP Cost: 120.
+Cooldown: 3.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Invulnerable for 1.5 seconds. Does not use wis mod.
+Party effect: Damaging for 8 seconds within 7.5 tiles. Does not use wis mod.
+Party effect: Within 4.5 tiles, +100 Maximum HP for 4 seconds. Uses wis mod.
+
+While equipped:
++100 Maximum HP.
++25 Protection.
++6 Defense.
+-10 Restoration.
+
+Does not drop from enemies.

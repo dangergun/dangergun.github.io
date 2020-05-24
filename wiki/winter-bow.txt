@@ -1,0 +1,13 @@
+Winter Bow [0x7046]
+Untiered bow.
+
+Does 110-120 damage.
+135% rate of fire.
+Shoots 2 projectiles at a 17.0 degree angle.
+Range: 8.33 tiles.
+Shots have an amplitude of 0.3 and a frequency of 1.
+Shots hit multiple targets.
+Fame Bonus: 6%.
+
+Drops from:
+ic Loot Balloon: 0.5% (1/200) chance.

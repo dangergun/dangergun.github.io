@@ -1,0 +1,23 @@
+Poison-Tip Quiver [0x7186]
+"This Quiver holds arrows laced with medusa venom, normal quivers would break apart from touching even the slightest drop."
+Sacred tier quiver.
+
+Does 400-600 damage.
+Range: 14.8 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+MP Cost: 120.
+Cooldown: 4.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Berserk for 2 seconds. Does not use wis mod.
+
+While equipped:
++30 Restoration.
++5 Attack.
+-5 Dexterity.
+
+Collector's Edition: All stats are increased by 0.65% per sacred item in inventory. Stackable.
+
+Does not drop from enemies.

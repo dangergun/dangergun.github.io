@@ -1,0 +1,26 @@
+Rusted Ring [0x7229]
+"A rusty Ring radiating immense power from within, why don't you forge it at the anvil with  a Sacred Essence at the blacksmith to repair it!"
+Rusted tier consumable.
+
+Drops from:
+AH Aldragine Loot Ctrl: 0.1% (1/1000) chance.
+AH Aldragine: 0.2% (1/500) chance.
+AH ULTRA Aldragine Loot Ctrl: 0.1% (1/1000) chance.
+AH ULTRA Aldragine Loot Ctrl: 0.1% (1/1000) chance.
+AH ULTRA Aldragine: 0.4% (1/250) chance.
+Akeldama, the Disciple of Oryx: 0.1% (1/1000) chance.
+Drannol, the Eternal Beast: 0.1% (1/1000) chance.
+Ghost of Skuld: 0.1% (1/1000) chance.
+Granithia: 0.1% (1/1000) chance.
+LH Marble Colossus: 0.2% (1/500) chance.
+LH Void Entity: 0.1% (1/1000) chance.
+Malgor, the Eternal Fiend: 0.1% (1/1000) chance.
+Ultra Drannol, the Eternal Beast: 0.1% (1/1000) chance.
+Vitalia: 0.1% (1/1000) chance.
+lod Ivory Wyvern: 0.05% (1/2000) chance.
+shtrs Bridge Sentinel: 0.1% (1/1000) chance.
+shtrs Loot Balloon Bridge: 0.1% (1/1000) chance.
+shtrs Loot Balloon King: 0.1% (1/1000) chance.
+shtrs Loot Balloon Mage: 0.1% (1/1000) chance.
+shtrs The Forgotten King: 0.1% (1/1000) chance.
+shtrs Twilight Archmage: 0.1% (1/1000) chance.

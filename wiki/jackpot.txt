@@ -1,0 +1,13 @@
+Jackpot [0x5839]
+"Those fortunate enough to carry this sack will be granted immense luck."
+Legendary tier accessory.
+
+Fame Bonus: 8%.
+
+While equipped:
++100 Might.
++30 Fortune.
++80 Luck.
+-10 Vitality.
+
+Does not drop from enemies.

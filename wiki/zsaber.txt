@@ -1,0 +1,14 @@
+ZSaber [0x27c]
+"A legendary blade wielded by Megaman's arch rival Zero , it crackles with energy as you swing it."
+Untiered sword.
+This item is soulbound.
+
+Does 250-300 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 4.7 tiles.
+Shots pass through obstacles.
+Fame Bonus: 6%.
+
+Drops from:
+Davy Jones: 1.0% (1/100) chance.

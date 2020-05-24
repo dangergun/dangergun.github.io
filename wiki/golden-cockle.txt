@@ -1,0 +1,12 @@
+Golden Cockle [0xc73]
+"{equip.A_treasure_from_the_Ocean_Trench.} Use this to receive gold."
+Untiered consumable.
+This item is soulbound.
+
+When used:
+Grants the player 125 gold.
+
+{equip.Treasure}: {equip.1_of_3}
+
+Drops from:
+Thessal the Mermaid Goddess: 5.0% (1/20) chance.

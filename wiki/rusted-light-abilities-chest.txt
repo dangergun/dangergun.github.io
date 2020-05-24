@@ -1,0 +1,34 @@
+Rusted Light Abilities Chest [0x7242]
+"A sacred treasure chest containing a random sacred ability. Why don't you try opening it?"
+Rusted tier consumable.
+
+Rusted:: This item grants any rusted ability from the robe class.
+
+Drops from:
+AB Secret Chest: 0.1% (1/1000) chance.
+AB The Dark Sorcerer: 0.1% (1/1000) chance.
+Anubis Test Chest: 0.01% (1/10000) chance.
+Codename G-24, Nitrostorm: 0.1% (1/1000) chance.
+Desire Troll: 0.1% (1/1000) chance.
+Gigacorn: 0.1% (1/1000) chance.
+GolemA Test Chest: 0.1% (1/1000) chance.
+GolemB Test Chest: 0.1% (1/1000) chance.
+GolemC Test Chest: 0.1% (1/1000) chance.
+Krokanich: 0.1% (1/1000) chance.
+MegaRototo: 0.1% (1/1000) chance.
+Ogla, the Giant God: 0.1% (1/1000) chance.
+Oryx Stone Guardian Left: 0.1% (1/1000) chance.
+Oryx Stone Guardian Right: 0.1% (1/1000) chance.
+Oryx the Mad God 1: 0.1% (1/1000) chance.
+Oryx the Mad God 2: 0.1% (1/1000) chance.
+Puppet Loot Chest: 0.1% (1/1000) chance.
+Riv the Heavenly Champion: 0.1% (1/1000) chance.
+Spoiled Creampuff: 0.1% (1/1000) chance.
+Stheno the Snake Queen: 0.1% (1/1000) chance.
+Swoll Fairy: 0.1% (1/1000) chance.
+Temple Boss: 0.1% (1/1000) chance.
+The Illusionist: 0.1% (1/1000) chance.
+Tunnel Varghus the Eye: 0.1% (1/1000) chance.
+Vitalia: 0.1% (1/1000) chance.
+Xanarich, the Chosen One: 0.1% (1/1000) chance.
+vlntns Loot Balloon Bella: 0.1% (1/1000) chance.

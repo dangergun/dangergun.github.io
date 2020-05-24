@@ -1,0 +1,17 @@
+Bone Axe [0x672f]
+"An axe made of Malgor's bones."
+Untiered sword.
+
+Does 100-200 damage.
+80% rate of fire.
+Shoots 4 projectiles at a 0.0 degree angle.
+Range: 4.0 tiles.
+Shots hit multiple targets.
+Fame Bonus: 6%.
+
+While equipped:
++25 Restoration.
++80 Maximum HP.
+
+Drops from:
+Malgor, the Eternal Fiend: 5.0% (1/20) chance.

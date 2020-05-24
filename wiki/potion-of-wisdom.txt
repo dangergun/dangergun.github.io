@@ -1,0 +1,33 @@
+Potion of Wisdom [0xa35]
+"{equip.A_potion_that_permanently_increases_wisdom.}"
+Untiered consumable.
+
+When used:
+Permanently increases Wisdom by 2.
+
+Drops from:
+Angelic Commander: 6.666% (1/15) chance.
+Arena Ghost Bride: 50.0% chance.
+Arena Grave Caretaker: 50.0% chance.
+Construct of the Concealment: 6.666% (1/15) chance.
+Davy Jones: 100.0% chance.
+Doomages: 100.0% chance.
+Dragon Head: 10.0% (1/10) chance.
+Elemental Flame: 20.0% (1/5) chance.
+Frost Knight: 6.666% (1/15) chance.
+Ghost Ship: 100.0% chance.
+Ghost of Skuld: 50.0% chance.
+Grand Sphinx: 100.0% chance.
+Lair Blast Trap: 0.01% (1/10000) chance.
+Lair Burst Trap: 0.01% (1/10000) chance.
+Lenin: 100.0% chance.
+Mad Jester: 10.0% (1/10) chance.
+Pentaract Tower Corpse: 10.0% (1/10) chance.
+Queen of Hearts: 50.0% chance.
+Septavius the Ghost God: 100.0% chance.
+Sorgigas, the Sor Giant: 50.0% chance.
+The Overseer: 60.0% chance.
+Thessal the Mermaid Goddess: 50.0% chance.
+Thunder God: 6.666% (1/15) chance.
+Troll 3: 50.0% chance.
+lod Ivory Wyvern: 30.0% (1/3) chance.

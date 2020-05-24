@@ -1,0 +1,21 @@
+Scythe of the Harvester [0x69d1]
+"The silence of death will show no mercy."
+Sacred tier katana.
+
+Does 335-380 damage.
+130% rate of fire.
+Shoots 1 projectile.
+Range: 4.7 tiles.
+Shots hit multiple targets.
+Shots are wavy.
+
+While equipped:
++10 Defense.
++50 Protection.
+
++3 Life Steal.
+
+Adrenaline Rush: On hit, 8% chance to ignore incoming damage. Stackable.
+
+Drops from:
+Hades: 0.2% (1/500) chance.

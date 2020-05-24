@@ -1,0 +1,17 @@
+Sacred Fragment Cache [0x61c4]
+"A crate containing a moderate amount of Sacred Fragments."
+Untiered consumable.
+
+When used:
+Grants the player either 5, 10, or 15 Sacred Fragments.
+
+Drops from:
+AH ULTRA Aldragine Loot Ctrl: 10.0% (1/10) chance.
+BD Portal Spawner 2: 2.0% (1/50) chance.
+BD Ultra Portal Spawner 2: 3.0% (1/33) chance.
+Bergelmir, the Frost Guardian: 20.0% (1/5) chance.
+Big Turkey God: 0.1% (1/1000) chance.
+Hand of Terradius: 75.0% chance.
+Oryx Defense System: 10.0% (1/10) chance.
+Temple Boss: 20.0% (1/5) chance.
+The Kraken: 75.0% chance.

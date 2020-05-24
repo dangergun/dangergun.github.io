@@ -1,0 +1,9 @@
+Pandora's Box [0x6802]
+"A box containing all kinds of mysteries."
+Legendary tier consumable.
+
+When used:
+"Dice" Activated Effect not implemented.
+Effect on self: +10 Attack for 5 seconds. Does not use wis mod.
+
+Does not drop from enemies.

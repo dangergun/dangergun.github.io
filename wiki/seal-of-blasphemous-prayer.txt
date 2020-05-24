@@ -1,0 +1,19 @@
+Seal of Blasphemous Prayer [0xc06]
+"{equip.A_seal_that_is_said_to_briefly_borrow_the_power_of_the_Gods}"
+Untiered seal.
+
+MP Cost: 120.
+Cooldown: 5.0 seconds.
+Fame Bonus: 6%.
+
+When used:
+On self: Invulnerable for 1.2 seconds. Does not use wis mod.
+Party effect: Damaging for 5 seconds within 5 tiles. Uses wis mod.
+Party effect: Healing for 5 seconds within 5 tiles. Uses wis mod.
+
+While equipped:
++4 Speed.
+-4 Defense.
+
+Drops from:
+Pentaract Tower Corpse: 8.0% (1/12) chance.

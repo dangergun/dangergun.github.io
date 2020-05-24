@@ -1,0 +1,13 @@
+Lavos Armor [0x6219]
+"An armor that is slightly heated because of the lava that is sealed inside of it's plates."
+Fabled tier heavy armor.
+
+Fame Bonus: 6%.
+
+While equipped:
++10 Attack.
++10 Dexterity.
++26 Defense.
++60 Maximum HP.
+
+Does not drop from enemies.

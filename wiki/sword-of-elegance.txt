@@ -1,0 +1,18 @@
+Sword of Elegance [0x42f4]
+"Known for its stunning appearance and swift swipes."
+Legendary tier sword.
+
+Does 200-400 damage.
+90% rate of fire.
+Shoots 1 projectile.
+Range: 5.39 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+Fame Bonus: 8%.
+
+While equipped:
++200 Maximum HP.
+
++3 Life Steal.
+
+Does not drop from enemies.

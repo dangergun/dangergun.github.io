@@ -1,0 +1,33 @@
+Onrane Cache [0x49a1]
+"A crate containing a moderate amount of Onrane."
+Untiered consumable.
+
+When used:
+Grants the player either 2, 4, 6, 8, or 10 onrane.
+
+Drops from:
+AH Heart Loot Ctrl: 10.0% (1/10) chance.
+AH Secret Chest: 8.0% (1/12) chance.
+AH The Sincryer: 10.0% (1/10) chance.
+AH The Vision of Aldragine: 25.0% (1/4) chance.
+AH ULTRA Heart Loot Ctrl: 20.0% (1/5) chance.
+AH ULTRA The Sincryer: 20.0% (1/5) chance.
+AH ULTRA The Vision of Aldragine: 50.0% chance.
+Akeldama, the Disciple of Oryx: 50.0% chance.
+BD Berikao, the Dark Hunter: 20.0% (1/5) chance.
+BD Portal Spawner 2: 30.0% (1/3) chance.
+BD Twisted Sentry Treasure: 2.5% (1/40) chance.
+BD Ultra Berikao, the Dark Hunter: 22.0% (1/4) chance.
+BD Ultra Portal Spawner 2: 33.0% (1/3) chance.
+Bergelmir, the Frost Guardian: 75.0% chance.
+Granithia: 100.0% chance.
+Hand of Terradius: 75.0% chance.
+Izual Loot Ctrl: 33.0% (1/3) chance.
+Malgor, the Eternal Fiend: 100.0% chance.
+Oryx Defense System: 20.0% (1/5) chance.
+Scorching Wrath Real: 15.0% (1/6) chance.
+Temple Boss: 20.0% (1/5) chance.
+The Kraken: 75.0% chance.
+True Somnus, the Dream Entity: 100.0% chance.
+Ultra Scorching Wrath Real: 22.0% (1/4) chance.
+shtrs Loot Balloon King: 34.0% (1/2) chance.

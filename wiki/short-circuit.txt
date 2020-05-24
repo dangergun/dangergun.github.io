@@ -1,0 +1,18 @@
+Short Circuit [0x793f]
+"This skull proved to be a great conversationalist."
+Untiered skull.
+
+MP Cost: 100.
+Cooldown: 0.5 seconds.
+Fame Bonus: 4%.
+
+When used:
+Enemy Effect: Paralyzed for 3 seconds within 3 tiles. Centered around the player's cursor.
+Steals 125 HP within 3 tiles. Centered around the player's cursor.
+
+While equipped:
++2 Defense.
++3 Attack.
+
+Drops from:
+Dr Terrible: 1.0% (1/100) chance.

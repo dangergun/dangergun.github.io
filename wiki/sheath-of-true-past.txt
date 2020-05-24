@@ -1,0 +1,20 @@
+Sheath of True Past [0x61d3]
+"Made from regrets of the past as to not lose once more what has already been lost."
+Legendary tier sheath.
+
+MP Cost: 120.
+Cooldown: 0.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Armored for 5 seconds. Does not use wis mod.
+On self: Berserk for 5 seconds. Does not use wis mod.
+While ability key is held, Berserk on self and drains 10 mp/second.
+When ability key is released, 1450 damage within 5 tiles. Uses atk mod.
+
+While equipped:
++15 Defense.
++15 Restoration.
++20% Dexterity.
+
+Does not drop from enemies.

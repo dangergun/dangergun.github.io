@@ -1,0 +1,16 @@
+Eden's Apple [0x7080]
+"A glamorous amber set within its steel ring. This amber is said to hold the remains of the garden of Eden."
+Sacred tier accessory.
+
+Fame Bonus: 8%.
+
+While equipped:
++10 Attack.
++10 Dexterity.
++100 Vitality.
+-150 Maximum HP.
+-85 Maximum MP.
+
+Runic Offense: On hit, 8% chance to trigger an AOE damage for 1.5x of taken damage with a 4 tile radius. Stackable.
+
+Does not drop from enemies.

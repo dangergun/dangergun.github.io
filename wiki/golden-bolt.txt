@@ -1,0 +1,12 @@
+Golden Bolt [0xc77]
+"{equip.A_treasure_from_the_Mad_Lab.} Use this to receive gold."
+Untiered consumable.
+This item is soulbound.
+
+When used:
+Grants the player 150 gold.
+
+{equip.Treasure}: {equip.2_of_2}
+
+Drops from:
+Dr Terrible: 4.5% (1/22) chance.

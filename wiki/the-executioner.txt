@@ -1,0 +1,17 @@
+The Executioner [0x43a4]
+"This is a joke and it's my death, wanderer. Kill me and see how long you live to tell the others."
+Legendary tier katana.
+
+Does 160-200 damage.
+110% rate of fire.
+Shoots 2 projectiles at a 13.0 degree angle.
+Range: 4.09 tiles.
+Fame Bonus: 8%.
+
+While equipped:
++10 Speed.
++3 Attack.
++3 Dexterity.
++8 Wisdom.
+
+Does not drop from enemies.

@@ -1,0 +1,13 @@
+Defender Sword [0x177f]
+"A blade that is sure to stop anything from harming the bearer. Even the sight of this blade will make the opponent flee."
+Untiered sword.
+This item is soulbound.
+
+Does 145-220 damage.
+87% rate of fire.
+Shoots 2 projectiles at a 60.0 degree angle.
+Range: 3.45 tiles.
+Fame Bonus: 6%.
+
+Drops from:
+Anubis Test Chest: 5.0% (1/20) chance.

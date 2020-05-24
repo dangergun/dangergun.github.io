@@ -1,0 +1,17 @@
+Katana of Mythical Alliance [0x5435]
+"Katana assigned to be used by the guardians of the Genisus but were banned from being used due to the weapon having a mind of it's own."
+Legendary tier katana.
+
+Does 160-200 damage.
+110% rate of fire.
+Shoots 1 projectile.
+Range: 6.19 tiles.
+Shots hit multiple targets.
+Fame Bonus: 8%.
+
+While equipped:
++160 Maximum MP.
++8 Attack.
++8 Speed.
+
+Does not drop from enemies.

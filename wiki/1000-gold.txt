@@ -1,0 +1,35 @@
+1000 Gold [0x53c3]
+"0 to 1000."
+Untiered consumable.
+
+When used:
+Grants the player 1000 gold.
+
+Drops from:
+AB The Dark Sorcerer: 5.0% (1/20) chance.
+AH Battlemage of the Zol: 5.0% (1/20) chance.
+Angelic Commander: 0.5% (1/200) chance.
+BD Twisted Sentry Treasure: 5.0% (1/20) chance.
+Beholder: 0.5% (1/200) chance.
+Djinn: 0.5% (1/200) chance.
+Elemental Flame: 1.0% (1/100) chance.
+Ent God: 0.5% (1/200) chance.
+Flying Brain: 0.5% (1/200) chance.
+Frost Knight: 0.5% (1/200) chance.
+Galactic Plateau Crystal: 0.1% (1/1000) chance.
+Ghost God: 0.5% (1/200) chance.
+Granithia: 100.0% chance.
+Leviathan: 0.5% (1/200) chance.
+Lucky Djinn: 1.0% (1/100) chance.
+Lucky Ent God: 1.0% (1/100) chance.
+Medusa: 0.5% (1/200) chance.
+Oryx Defense System: 10.0% (1/10) chance.
+Paper Bot: 0.1666% (1/600) chance.
+Rock Bot: 0.1666% (1/600) chance.
+Slime God: 0.5% (1/200) chance.
+Sprite God: 0.5% (1/200) chance.
+Steel Bot: 0.1666% (1/600) chance.
+Thunder God: 0.5% (1/200) chance.
+Vitalia: 100.0% chance.
+White Demon of the Abyss: 0.5% (1/200) chance.
+White Demon: 0.5% (1/200) chance.

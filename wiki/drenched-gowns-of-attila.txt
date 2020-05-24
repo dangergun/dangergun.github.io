@@ -1,0 +1,21 @@
+Drenched Gowns of Attila [0x7094]
+"A gown that once represented royalty, now stained with grief and shame."
+Sacred tier cloak.
+
+MP Cost: 110.
+Cooldown: 5.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+On self: Berserk for 3 seconds. Does not use wis mod.
+On self: Invisible for 5 seconds. Does not use wis mod.
+On self: Speedy for 4 seconds. Does not use wis mod.
+
+While equipped:
++10 Speed.
++50% Protection.
+-6 Wisdom.
+
+Collector's Edition: All stats are increased by 0.65% per sacred item in inventory. Stackable.
+
+Does not drop from enemies.

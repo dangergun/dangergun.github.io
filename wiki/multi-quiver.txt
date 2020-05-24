@@ -1,0 +1,16 @@
+Multi-Quiver [0x64fc]
+"A magical quiver that launches multiple arrows."
+Untiered quiver.
+
+Does 80-100 damage.
+Range: 7.5 tiles.
+Shots pass through obstacles.
+MP Cost: 60.
+Cooldown: 0.5 seconds.
+Fame Bonus: 4%.
+
+While equipped:
++30 Maximum HP.
+
+Drops from:
+Mama Megamoth: 10.0% (1/10) chance.

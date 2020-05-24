@@ -1,0 +1,19 @@
+Cosmic Platemail [0x7878]
+"A Platemail forged from the minerals within outer space, it clings to your body almost magnetically..."
+Untiered heavy armor.
+
+Fame Bonus: 7%.
+
+While equipped:
++110 Maximum HP.
++20 Vitality.
++24 Defense.
++30 Might.
++4 Dexterity.
++6 Attack.
+-10 Speed.
+-12 Wisdom.
+-30 Restoration.
+
+Drops from:
+True Somnus, the Dream Entity: 0.8% (1/125) chance.

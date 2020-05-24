@@ -1,0 +1,11 @@
+The Stronghold Key [0x511d]
+"This key opens the entrance to The Stronghold."
+Untiered consumable.
+This item is soulbound.
+
+When used:
+Creates a The Stronghold Portal.
+
+Drops from:
+AH Aldragine Loot Ctrl: 1.0% (1/100) chance.
+AH ULTRA Aldragine Loot Ctrl: 1.0% (1/100) chance.

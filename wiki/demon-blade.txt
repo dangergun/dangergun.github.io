@@ -1,0 +1,13 @@
+Demon Blade [0xc01]
+"{equip.A_swift_and_hungry_blade_that_is_never_satisfied_with_just_}"
+Untiered sword.
+
+Does 225-285 damage.
+100% rate of fire.
+Shoots 2 projectiles at a 40.0 degree angle.
+Range: 3.38 tiles.
+Fame Bonus: 6%.
+
+Drops from:
+Abyss Idol: 3.0% (1/33) chance.
+Archdemon Malphas: 5.0% (1/20) chance.

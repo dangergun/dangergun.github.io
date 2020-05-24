@@ -1,0 +1,11 @@
+Phoenix Wand [0x608]
+"A wand empowered by the flames of the Phoenix"
+Untiered wand.
+
+Does 100-150 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 9.1 tiles.
+
+Drops from:
+Phoenix Reborn: 2.0% (1/50) chance.

@@ -1,0 +1,23 @@
+Kageboshi [0x183d]
+"Imbued with energy from another place, the blade will pierce through any foe."
+Untiered shuriken.
+
+Does 350-420 damage.
+Range: 8.4 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+MP Cost: 85.
+Cooldown: 0.5 seconds.
+Fame Bonus: 5%.
+
+When used:
+While ability key is held, Speedy on self and drains 10 mp/second.
+When ability key is released, shoots a shuriken. Does not use atk mod.
+
+While equipped:
++10 Vitality.
++4 Defense.
+
+Drops from:
+Garnet Statue: 1.0% (1/100) chance.
+Garnet Statue: 1.0% (1/100) chance.

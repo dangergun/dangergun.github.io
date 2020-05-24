@@ -1,0 +1,12 @@
+Piercing Wrath [0x7061]
+"Many souls have been struck down by this spear."
+Godly tier sword.
+
+Does 200-500 damage.
+45% rate of fire.
+Shoots 1 projectile.
+Range: 5.95 tiles.
+Shots hit multiple targets.
+Fame Bonus: 7%.
+
+Does not drop from enemies.

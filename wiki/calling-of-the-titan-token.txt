@@ -1,0 +1,7 @@
+Calling of the Titan (Token) [0x52ac]
+"Sidon will do anything to capture the immortal beast.."
+Untiered consumable.
+This item is soulbound.
+
+Drops from:
+Oryx the Mad God 1: 0.5% (1/200) chance.

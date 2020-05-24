@@ -1,0 +1,17 @@
+Skullish Remains of Esben [0x767]
+"{equip.The_skull_still_seems_to_contain_some_of_the_Dark_SpiritAPO}"
+Untiered skull.
+
+MP Cost: 135.
+Cooldown: 0.5 seconds.
+Fame Bonus: 4%.
+
+When used:
+Enemy Effect: Slowed for 2.5 seconds within 3 tiles. Centered around the player's cursor.
+Steals 325 HP within 3 tiles. Centered around the player's cursor.
+
+While equipped:
++4 Attack.
+
+Drops from:
+ic Loot Balloon: 1.0% (1/100) chance.

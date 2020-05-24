@@ -1,0 +1,20 @@
+Wand of the Scorching Phoenix [0x46d7]
+"On the other side there is nothing but deceit and hatred."
+Sacred tier wand.
+
+Does 150-195 damage.
+80% rate of fire.
+Shoots 2 projectiles at a 0.0 degree angle.
+Range: 6.72 tiles.
+Shots are wavy.
+Fame Bonus: 8%.
+
+While equipped:
++10 Dexterity.
++380 Maximum HP.
+-4 Speed.
+
+Enhanced Growth: Health regeneration is increased by 10% and maximum health is increased by 5%. Stackable.
+
+Drops from:
+Urios, God of Elements: 0.2% (1/500) chance.

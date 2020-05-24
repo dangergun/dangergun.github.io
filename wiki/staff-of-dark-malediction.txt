@@ -1,0 +1,18 @@
+Staff of Dark Malediction [0x178c]
+"A wicked staff that brings about a sensation of emptiness, but whispers occasionally seep forth from the darkness."
+Untiered staff.
+
+Does 90-135 damage.
+110% rate of fire.
+Shoots 2 projectiles at a 0.0 degree angle.
+Range: 6.79 tiles.
+Shots have an amplitude of 0.5 and a frequency of 2.
+Shots hit multiple targets.
+Fame Bonus: 6%.
+
+While equipped:
++80 Maximum MP.
+
+Drops from:
+Tunnel Varghus the Eye: 3.0% (1/33) chance.
+Varghus Test Chest: 3.5% (1/28) chance.

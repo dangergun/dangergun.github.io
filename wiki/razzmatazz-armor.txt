@@ -1,0 +1,14 @@
+Razzmatazz Armor [0x5825]
+"This armor is has that razzle dazzle shine to it."
+Untiered leather armor.
+
+Fame Bonus: 6%.
+
+While equipped:
++15 Defense.
++50 Might.
++70 Luck.
++8 Attack.
+
+Drops from:
+Mad Jester: 2.0% (1/50) chance.

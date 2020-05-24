@@ -1,0 +1,19 @@
+Viperstring [0x6768]
+"This bow still has leftover sap from Vitalia, it seems deadly."
+Untiered bow.
+
+Does 150-205 damage.
+150% rate of fire.
+Shoots 1 projectile.
+Range: 8.4 tiles.
+Shots ignore defense.
+Fame Bonus: 6%.
+
+While equipped:
++2 Attack.
++20 Vitality.
++225 Maximum HP.
++3 Dexterity.
+
+Drops from:
+Vitalia: 2.0% (1/50) chance.

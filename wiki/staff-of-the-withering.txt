@@ -1,0 +1,19 @@
+Staff of the Withering [0x1583]
+"Unholy death is only bound the be the cause of using this staff."
+Untiered staff.
+
+Does 123-154 damage.
+74% rate of fire.
+Shoots 2 projectiles at a 0.0 degree angle.
+Range: 6.76 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+Shots ignore defense.
+Shots are wavy.
+Fame Bonus: 6%.
+
+While equipped:
+-2 Vitality.
+
+Drops from:
+Tridorno: 1.5% (1/66) chance.

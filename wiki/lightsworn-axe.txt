@@ -1,0 +1,22 @@
+Lightsworn Axe [0x64aa]
+"The thing about light is... it never really dies"
+Sacred tier sword.
+
+Does 518-770 damage.
+77% rate of fire.
+Shoots 1 projectile.
+Range: 4.8 tiles.
+Shots hit multiple targets.
+Shots boomerang.
+Fame Bonus: 8%.
+
+While equipped:
++20 Wisdom.
++220 Maximum MP.
+
++3 Mana Leech.
+
+Arcane Grace: On ability use, 7% chance to not use any mana. Stackable.
+
+Drops from:
+The Alien King: 0.2% (1/500) chance.

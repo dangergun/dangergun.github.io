@@ -1,0 +1,13 @@
+Olden Necromancy Cloth [0x519b]
+"The most effiecient type of cloth to resist dying from undead forces, other than holy defenses."
+Untiered leather armor.
+
+Fame Bonus: 6%.
+
+While equipped:
++120 Maximum MP.
++14 Dexterity.
++17 Defense.
+
+Drops from:
+Doomages: 2.0% (1/50) chance.

@@ -1,0 +1,12 @@
+Royal Dagger [0x69d4]
+"Stolen from royalty by a sneaky rogue with a grudge."
+Legendary tier dagger.
+
+Does 180-290 damage.
+55% rate of fire.
+Shoots 3 projectiles at a 0.0 degree angle.
+Range: 5.88 tiles.
+Fame Bonus: 8%.
+Alliance: If you have another ally close to you shoot faster.
+
+Does not drop from enemies.

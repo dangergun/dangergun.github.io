@@ -1,0 +1,22 @@
+Awakening of Bravery [0x7132]
+"An armor so light that each attack seems to endlessly multiply upon impact."
+Sacred tier leather armor.
+
+Fame Bonus: 8%.
+
+While equipped:
++12 Defense.
++17 Attack.
++17 Dexterity.
++50 Luck.
++50 Might.
+-20 Protection.
+-20 Restoration.
+-4 Vitality.
+-4 Wisdom.
+-60 Maximum HP.
+-60 Maximum MP.
+
+Runic Offense: On hit, 8% chance to trigger an AOE damage for 1.5x of taken damage with a 4 tile radius. Stackable.
+
+Does not drop from enemies.

@@ -1,0 +1,18 @@
+Wand of Pristine Environments [0x21a]
+"This wand has been conserved in a great ancient temple, preventing whoever who destroys the Earth, punishing those who dare."
+Untiered wand.
+
+Does 60-75 damage.
+120% rate of fire.
+Shoots 2 projectiles at a 10.0 degree angle.
+Range: 9.0 tiles.
+Shots pass through obstacles.
+Fame Bonus: 4%.
+
+While equipped:
++10 Maximum HP.
++2 Defense.
++2 Speed.
+
+Drops from:
+Limon the Sprite God: 2.0% (1/50) chance.

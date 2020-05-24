@@ -1,0 +1,18 @@
+Tormentor of the Deep [0x42c5]
+"Crafted with vast power, this weapon is used to decimate its opposition. "
+Legendary tier staff.
+
+Does 150-1200 damage.
+35% rate of fire.
+Shoots 1 projectile.
+Range: 10.13 tiles.
+Shots have an amplitude of 0.5 and a frequency of 2.
+Shots hit multiple targets.
+Fame Bonus: 8%.
+
+While equipped:
++50 Luck.
++6 Attack.
+-80 Maximum MP.
+
+Does not drop from enemies.

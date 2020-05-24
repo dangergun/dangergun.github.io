@@ -1,0 +1,13 @@
+Winter Armor [0x7047]
+Untiered leather armor.
+
+Fame Bonus: 5%.
+
+While equipped:
++16 Defense.
++20 Maximum MP.
++4 Dexterity.
++6 Speed.
+
+Drops from:
+ic Loot Balloon: 0.5% (1/200) chance.

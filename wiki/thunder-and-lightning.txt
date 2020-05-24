@@ -1,0 +1,23 @@
+Thunder and Lightning [0x681a]
+"You won't like what follows."
+Untiered blades.
+
+Does 130-175 damage.
+130% rate of fire.
+Shoots 2 projectiles at a 0.0 degree angle.
+Range: 4.5 tiles.
+Shots hit multiple targets.
+Shots ignore defense.
+Shots are wavy.
+Fame Bonus: 6%.
+
+While equipped:
++45 Might.
++5 Attack.
++7 Defense.
+-70 Maximum MP.
+
+Drops from:
+Colothiois the Exalted: 5.0% (1/20) chance.
+Tod: 1.0% (1/100) chance.
+Zeus: 2.0% (1/50) chance.

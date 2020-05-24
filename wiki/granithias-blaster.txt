@@ -1,0 +1,20 @@
+Granithia's Blaster [0x67a5]
+"A wand capable of leveling a mountain in an instant."
+Untiered wand.
+
+Does 180-280 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 8.4 tiles.
+Shots hit multiple targets.
+Shots are wavy.
+Fame Bonus: 6%.
+
+While equipped:
++14 Defense.
++4 Attack.
++4 Dexterity.
++90 Maximum HP.
+
+Drops from:
+Granithia: 1.0% (1/100) chance.

@@ -1,0 +1,20 @@
+Unholy Helm [0x773b]
+"Undead soldiers, summoned to fight the great battle, would wear impenetrable helms.."
+Untiered helm.
+
+MP Cost: 120.
+Cooldown: 7.0 seconds.
+Fame Bonus: 4%.
+
+When used:
+Party effect: Berserk for 6 seconds within 4 tiles. Does not use wis mod.
+Party effect: Invulnerable for 1.5 seconds within 4 tiles. Does not use wis mod.
+Party effect: Speedy for 6 seconds within 4 tiles. Does not use wis mod.
+
+While equipped:
++10 Defense.
++2 Vitality.
++2 Wisdom.
+
+Drops from:
+LH Marble Defender: 0.01% (1/10000) chance.

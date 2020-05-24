@@ -1,0 +1,26 @@
+Sandstone Armor [0x7883]
+"An invigorating coating of sand from Vangor, annealed with mysterious shiny sand into the form of an imposing suit of plate armor."
+Sacred tier heavy armor.
+
+Fame Bonus: 8%.
+
+While equipped:
++12 Wisdom.
++130 Maximum HP.
++4 Dexterity.
++8 Attack.
++8 Speed.
++8 Vitality.
+-12 Defense.
+-20 Luck.
+-20 Might.
+-20 Protection.
+-20 Restoration.
+-75 Maximum MP.
+
++1 Life Steal.
+
+Runic Offense: On hit, 8% chance to trigger an AOE damage for 1.5x of taken damage with a 4 tile radius. Stackable.
+
+Drops from:
+Vangor, the Ancient: 0.2% (1/500) chance.

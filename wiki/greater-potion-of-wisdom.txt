@@ -1,0 +1,16 @@
+Greater Potion of Wisdom [0x236c]
+"{equip.A_potion_that_permanently_increases_wisdom.}"
+Untiered consumable.
+
+When used:
+Permanently increases Wisdom by 4.
+
+Drops from:
+Dr Terrible: 100.0% chance.
+Horrific Creation: 100.0% chance.
+Lord Stone Gargoyle: 20.0% (1/5) chance.
+Oryx the Mad God 2: 50.0% chance.
+Oryx the Mad God 2OA: 30.0% (1/3) chance.
+Septavius the Ghost God: 100.0% chance.
+True Somnus, the Dream Entity: 100.0% chance.
+Yazanahar: 40.0% chance.

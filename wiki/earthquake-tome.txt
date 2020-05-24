@@ -1,0 +1,21 @@
+Earthquake Tome [0x7191]
+"The immense power surging from this tome shatters the very ground beneath you."
+Sacred tier tome.
+
+HP Cost: 110.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Does 350 damage within 8 tiles. Uses wis mod.
+Does 400 damage within 3.5 tiles. Uses wis mod.
+Enemy Effect: Slowed for 3 seconds within 6 tiles. Centered around the player.
+On self: Berserk for 1 second. Uses wis mod.
+On self: Damaging for 1 second. Uses wis mod.
+
+While equipped:
++10 Wisdom.
+
+Collector's Edition: All stats are increased by 0.65% per sacred item in inventory. Stackable.
+
+Does not drop from enemies.

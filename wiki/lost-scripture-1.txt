@@ -1,0 +1,8 @@
+Lost Scripture #1 [0x53a1]
+"A lost page from the book named the Acul."
+Legendary tier consumable.
+
+Using this allows marks to be enabled on your character.
+
+Drops from:
+Big Turkey God: 0.01% (1/10000) chance.

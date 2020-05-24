@@ -1,0 +1,17 @@
+Dragon Tail Lance [0x61cf]
+"Made from smelting one hundred dragons into a fiercely sharp blade."
+Legendary tier lance.
+
+Does 180-200 damage.
+100% rate of fire.
+Shoots 2 projectiles at a 5.0 degree angle.
+Range: 5.4 tiles.
+Shots have an amplitude of 0.85 and a frequency of 1.
+Shots hit multiple targets.
+Shots ignore defense.
+Fame Bonus: 8%.
+
+While equipped:
++10 Defense.
+
+Does not drop from enemies.

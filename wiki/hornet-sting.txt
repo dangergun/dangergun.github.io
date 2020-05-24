@@ -1,0 +1,18 @@
+Hornet Sting [0x7101]
+"A bow cast from the molten stingers of a hornets nest found within the blacksmiths home."
+Sacred tier bow.
+
+Does 425-745 damage.
+70% rate of fire.
+Shoots 1 projectile.
+Range: 8.0 tiles.
+Shots have an amplitude of 0.2 and a frequency of 2.
+Fame Bonus: 7%.
+
+While equipped:
+-7 Speed.
+-7 Vitality.
+
+Collector's Edition: All stats are increased by 0.65% per sacred item in inventory. Stackable.
+
+Does not drop from enemies.

@@ -1,0 +1,16 @@
+Victorious Armor [0x64fa]
+"For victory!"
+Untiered heavy armor.
+
+Fame Bonus: 6%.
+
+While equipped:
++140 Maximum HP.
++25 Defense.
++60 Restoration.
++8 Vitality.
++8 Wisdom.
++80 Maximum MP.
+
+Drops from:
+The Horrific: 1.5% (1/66) chance.

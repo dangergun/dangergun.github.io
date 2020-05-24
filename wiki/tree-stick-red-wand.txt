@@ -1,0 +1,13 @@
+Tree Stick Red Wand [0x43b8]
+"You see the bark wood but don't get splinters."
+Untiered wand.
+
+Does 90-130 damage.
+100% rate of fire.
+Shoots 1 projectile.
+Range: 9.0 tiles.
+Shots hit multiple targets.
+Fame Bonus: 4%.
+
+Drops from:
+Larry Gigsman, the Superhuman: 10.0% (1/10) chance.

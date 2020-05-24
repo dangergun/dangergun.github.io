@@ -1,0 +1,21 @@
+Ghostly Prism [0xc2a]
+"{equip.A_cursed_piece_of_Davy_JonesAPOS_treasure._Using_it_leaves_}"
+Untiered prism.
+
+MP Cost: 65.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Creates a Spirit Prism Bomb pet.
+Teleports the player to the cursor, with a maximum distance of 20 tiles.
+
+While equipped:
++4 Attack.
++4 Dexterity.
++4 Speed.
++50 Maximum MP.
++6 Wisdom.
+
+Drops from:
+Davy Jones: 2.0% (1/50) chance.

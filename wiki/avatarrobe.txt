@@ -1,0 +1,14 @@
+AvatarRobe [0x797d]
+"In this dress when it fought a brave monk. But the forces of darkness poglatili his soul."
+Untiered robe.
+
+Fame Bonus: 6%.
+
+While equipped:
++12 Defense.
++3 Attack.
++5 Wisdom.
++70 Maximum MP.
+
+Drops from:
+shtrs Defense System: 2.0% (1/50) chance.

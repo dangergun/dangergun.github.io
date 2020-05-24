@@ -1,0 +1,18 @@
+Plague Poison [0xc6d]
+"{equip.A_foul_poison_harvested_from_the_corpses_of_plague_victims.}"
+Untiered poison.
+
+MP Cost: 80.
+Cooldown: 0.5 seconds.
+Fame Bonus: 4%.
+
+When used:
+Poison Grenade:
+After 1 second, 400 impact damage + 900 damage over 10 seconds. Uses wis mod.
+
+While equipped:
++4 Attack.
++6 Wisdom.
+
+Drops from:
+Ghost of Skuld: 1.0% (1/100) chance.

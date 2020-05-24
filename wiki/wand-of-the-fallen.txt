@@ -1,0 +1,14 @@
+Wand of the Fallen [0x183b]
+"Made from a cherry tree branch. This wand was gifted by Xil to Daichi for bringing him into this world."
+Untiered wand.
+
+Does 170-220 damage.
+85% rate of fire.
+Shoots 1 projectile.
+Range: 6.6 tiles.
+Shots are wavy.
+Fame Bonus: 5%.
+
+Drops from:
+Jade Statue: 1.0% (1/100) chance.
+Jade Statue: 1.0% (1/100) chance.

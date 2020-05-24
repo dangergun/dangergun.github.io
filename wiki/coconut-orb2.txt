@@ -1,0 +1,21 @@
+Coconut Orb2 [0x7871]
+"Coconut, Coconut, Coconut Crack!"
+Untiered orb.
+
+MP Cost: 130.
+Cooldown: 0.5 seconds.
+Fame Bonus: 4%.
+
+When used:
+Enemy Effect: Curse for 4.5 seconds within 4 tiles. Centered around the player's cursor.
+Enemy effect: Within 3 tiles of the player's cursor, Stasis for 1.5 seconds.
+On self: Berserk for 2 seconds. Does not use wis mod.
+On self: Bleeding for 2 seconds. Does not use wis mod.
+
+While equipped:
++6 Attack.
+-4 Vitality.
+-6 Defense.
+
+Drops from:
+Vangor, the Ancient: 0.7% (1/142) chance.

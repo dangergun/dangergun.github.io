@@ -1,0 +1,27 @@
+Tarnished Cloths [0x7098]
+"An old cloth falling apart from old age, it's power still looms within in the magnificent fabrics woven together."
+Sacred tier jacket.
+
+Does 300-400 damage.
+Range: 4.5 tiles.
+Shots ignore defense.
+Shots boomerang.
+MP Cost: 90.
+Surge Cost: 1.
+Cooldown: 0.5 seconds.
+
+While equipped:
++10 Attack.
++100 Maximum HP.
+
+Offensive Stance
++50 Attack
+-200 HP
+Defensive Stance
++10 Defense
++400 HP
+-20 Attack
+
+Runic Defense: On hit, 8% chance to trigger an AOE heal for the taken damage with a 4 tile radius. Stackable.
+
+Does not drop from enemies.

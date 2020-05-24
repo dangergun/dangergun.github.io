@@ -1,0 +1,15 @@
+Wavebreaker [0x29f]
+"A legendary katana made of blue steel said to be found in the deepest trenches of the ocean. Its attacks can create tremendous waves of water out of thin air that devastates even the most hardy of enemies."
+Untiered katana.
+
+Does 30-65 damage.
+133% rate of fire.
+Shoots 4 projectiles at a 166.0 degree angle.
+Range: 0.04 tiles.
+Shots have an amplitude of 4.5 and a frequency of 0.
+Shots hit multiple targets.
+Shots pass through obstacles.
+Fame Bonus: 6%.
+
+Drops from:
+Sea Mare: 0.01% (1/10000) chance.

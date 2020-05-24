@@ -1,0 +1,17 @@
+A Wizard's Precious Treasure [0x7104]
+"A magnificent staff boasting all of the rarest gems recovered upon their countless adventures."
+Sacred tier staff.
+
+Does 70-115 damage.
+100% rate of fire.
+Shoots 3 projectiles at a 3.0 degree angle.
+Range: 7.5 tiles.
+Shots have an amplitude of 0.4 and a frequency of 1.
+Fame Bonus: 8%.
+
+While equipped:
++7 Fortune.
+
+Treasure Hunter: On loot roll, 8% chance to apply a 100% drop chance increase. Stackable.
+
+Does not drop from enemies.

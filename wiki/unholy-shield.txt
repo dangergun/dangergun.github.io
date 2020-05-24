@@ -1,0 +1,18 @@
+Unholy Shield [0x772b]
+"When the unholy army rose, shields gave them dark, almighty strength and power"
+Untiered shield.
+
+Does 280-360 damage.
+Range: 2.5 tiles.
+Shots hit multiple targets.
+Shots ignore defense.
+MP Cost: 100.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+While equipped:
++100 Maximum HP.
++15 Defense.
+
+Drops from:
+UNP The Dark Knight: 4.0% (1/25) chance.

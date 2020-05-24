@@ -1,0 +1,16 @@
+Nanotech Charm [0x7876]
+"A malicious charm wired to bring power to the user, and despair to it's targets."
+Untiered charm.
+
+MP Cost: 135.
+Cooldown: 4.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Effect on self: +25 Attack for 3 seconds. Does not use wis mod.
+Enemy Effect: Dazed for 3 seconds within 4 tiles. Centered around the player's cursor.
+On self: Petrify for 1.5 seconds. Does not use wis mod.
+Party effect: Armored for 4 seconds within 4 tiles. Does not use wis mod.
+
+Drops from:
+True Somnus, the Dream Entity: 0.8% (1/125) chance.

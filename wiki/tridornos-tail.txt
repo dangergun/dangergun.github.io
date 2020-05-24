@@ -1,0 +1,18 @@
+Tridorno's Tail [0x47bd]
+"Plundered from the hideous body of Tridorno, the malicious tail is placed upon a sacred hilt that provides increased mobility and inflicts devastating wounds."
+Sacred tier sword.
+
+Does 250-400 damage.
+160% rate of fire.
+Shoots 1 projectile.
+Range: 3.8 tiles.
+Shots are wavy.
+Fame Bonus: 8%.
+
+While equipped:
++12 Speed.
+
+Treasure Hunter: On loot roll, 8% chance to apply a 100% drop chance increase. Stackable.
+
+Drops from:
+Tridorno: 0.5% (1/200) chance.

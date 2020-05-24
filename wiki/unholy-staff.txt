@@ -1,0 +1,13 @@
+Unholy Staff [0x770d]
+"A staff which feels forever cold to the touch, it has a dark presence that can not be denied."
+Untiered staff.
+
+Does 120-150 damage.
+100% rate of fire.
+Shoots 2 projectiles at a 0.0 degree angle.
+Range: 7.0 tiles.
+Shots have an amplitude of 0.5 and a frequency of 2.
+Fame Bonus: 4%.
+
+Drops from:
+UNP The Dark Knight: 4.0% (1/25) chance.

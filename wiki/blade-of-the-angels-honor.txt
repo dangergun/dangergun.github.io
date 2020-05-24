@@ -1,0 +1,19 @@
+Blade of the Angel's Honor [0x5870]
+"The Treasure within has a Awakened, This item makes you Feel Unstoppable, it's as if you've aquired the power to destroy a thousand men."
+Godslayer tier dagger.
+
+Does 420 damage.
+125% rate of fire.
+Shoots 1 projectile.
+Range: 7.0 tiles.
+Shots pass through obstacles.
+Shots ignore defense.
+Shots are wavy.
+Fame Bonus: 10%.
+
+While equipped:
++10 Speed.
++8 Attack.
++8 Dexterity.
+
+Does not drop from enemies.

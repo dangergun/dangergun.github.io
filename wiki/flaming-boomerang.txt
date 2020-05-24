@@ -1,0 +1,15 @@
+Flaming Boomerang [0x15f]
+"You sometimes wish it wouldn't come back. "
+Untiered bow.
+
+Does 250-300 damage.
+50% rate of fire.
+Shoots 1 projectile.
+Range: 8.0 tiles.
+Shots have an amplitude of 2.0 and a frequency of 1.
+Shots hit multiple targets.
+Shots ignore defense.
+Shots boomerang.
+
+Drops from:
+Skull Shrine: 2.0% (1/50) chance.

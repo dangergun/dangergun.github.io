@@ -1,0 +1,22 @@
+Unholy Spell [0x11c]
+"Spell of the Unholy"
+Untiered spell.
+
+Does 180-370 damage.
+Range: 3.0 tiles.
+Shots have an amplitude of 0.3 and a frequency of 1.
+Shots hit multiple targets.
+MP Cost: 100.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Shoots 12 shots in a circle around the cursor.
+Steals 100 HP within 4 tiles. Centered around the player's cursor.
+
+While equipped:
++50 Maximum HP.
++50 Maximum MP.
+
+Drops from:
+BedlamGod: 1.0% (1/100) chance.

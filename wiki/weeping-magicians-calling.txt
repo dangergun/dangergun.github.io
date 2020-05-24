@@ -1,0 +1,22 @@
+Weeping Magicians Calling [0x7181]
+"A magic ribbon floats around the scepter guiding the user away from the evils surround them"
+Sacred tier scepter.
+
+MP Cost: 115.
+Cooldown: 3.0 seconds.
+Fame Bonus: 8%.
+
+When used:
+Lightning: 800 damage to 15 targets. Uses wis mod.
+Lightning effect: Paralyzed for 1.5 seconds.
+On self: Damaging for 2.5 seconds. Does not use wis mod.
+
+While equipped:
++20 Protection.
++5 Fortune.
+-10 Vitality.
+-5 Dexterity.
+
+Collector's Edition: All stats are increased by 0.65% per sacred item in inventory. Stackable.
+
+Does not drop from enemies.

@@ -1,0 +1,14 @@
+Eternity Armor [0x509b]
+"Nigh-unbreakable golemsteel armor enchanted to withstand nearly any strike."
+Untiered heavy armor.
+
+Fame Bonus: 6%.
+
+While equipped:
++18 Defense.
++20 Maximum MP.
++4 Speed.
++60 Protection.
+
+Drops from:
+Riv the Heavenly Champion: 6.0% (1/16) chance.

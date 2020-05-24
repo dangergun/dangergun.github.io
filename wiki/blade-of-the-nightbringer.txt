@@ -1,0 +1,13 @@
+Blade of the Nightbringer [0x1631]
+"I've heard stories about the Nightbringer, and they all were never good."
+Untiered sword.
+
+Does 110-160 damage.
+120% rate of fire.
+Shoots 2 projectiles at a 0.0 degree angle.
+Range: 3.51 tiles.
+Fame Bonus: 6%.
+
+Drops from:
+The Alien King: 5.0% (1/20) chance.
+The Overseer: 5.0% (1/20) chance.

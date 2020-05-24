@@ -1,0 +1,19 @@
+Warlord's Sword [0x7129]
+"A sword once wielded by a rampaging warlord lost in battle against his people's mutiny."
+Sacred tier sword.
+
+Does 545-790 damage.
+60% rate of fire.
+Shoots 1 projectile.
+Range: 4.2 tiles.
+Shots have an amplitude of 0.3 and a frequency of 2.
+Shots hit multiple targets.
+Fame Bonus: 8%.
+
+While equipped:
++100 Maximum HP.
++20 Defense.
+
+Enhanced Growth: Health regeneration is increased by 10% and maximum health is increased by 5%. Stackable.
+
+Does not drop from enemies.

@@ -1,0 +1,13 @@
+Zol Elixir [0x6813]
+"Bottled, pure Zol Energy. Be careful with this one."
+Legendary tier consumable.
+
+When used:
+Effect on self: +25 Attack for 5 seconds. Does not use wis mod.
+Effect on self: -200 Maximum HP for 10 seconds. Does not use wis mod.
+
+Drops from:
+AH Aldragine Loot Ctrl: 0.15% (1/666) chance.
+AH Aldragine: 0.5% (1/200) chance.
+AH ULTRA Aldragine Loot Ctrl: 1.0% (1/100) chance.
+AH ULTRA Aldragine: 0.5% (1/200) chance.

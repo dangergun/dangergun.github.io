@@ -1,0 +1,17 @@
+Rose Petal Staff [0x676d]
+"A staff of concentrated energy harvested from the spirit of Vitalia."
+Untiered staff.
+
+Does 100-125 damage.
+120% rate of fire.
+Shoots 2 projectiles at a 0.0 degree angle.
+Range: 8.25 tiles.
+Shots ignore defense.
+Fame Bonus: 6%.
+
+While equipped:
++150 Maximum HP.
++20 Vitality.
+
+Drops from:
+Vitalia: 2.0% (1/50) chance.

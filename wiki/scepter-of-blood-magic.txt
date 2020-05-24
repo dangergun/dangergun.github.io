@@ -1,0 +1,21 @@
+Scepter of Blood Magic [0x7339]
+"A single blood jewel encrusted within the obsidian frame grants it enough power to overcome anything lesser than itself."
+Untiered scepter.
+
+MP Cost: 100.
+Cooldown: 2.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Lightning: 0 damage to 6 targets. Uses wis mod.
+Lightning effect: ArmorBroken for 2 seconds.
+Lightning: 600 damage to 6 targets. Uses wis mod.
+Lightning effect: Bleeding for 4 seconds.
+
+While equipped:
++4 Attack.
++4 Dexterity.
+-40 Maximum HP.
+
+Drops from:
+Akeldama, the Disciple of Oryx: 0.5% (1/200) chance.

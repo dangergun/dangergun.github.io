@@ -1,0 +1,18 @@
+Stone-Forged Spear [0x67a4]
+"A sharpened spear that shatters your enemies."
+Untiered scepter.
+
+MP Cost: 100.
+Cooldown: 0.5 seconds.
+
+When used:
+Lightning: 2500 damage to 1 target. Uses wis mod.
+Lightning effect: ArmorBroken for 3 seconds.
+
+While equipped:
++6 Wisdom.
++60 Maximum HP.
++8 Defense.
+
+Drops from:
+Granithia: 1.0% (1/100) chance.

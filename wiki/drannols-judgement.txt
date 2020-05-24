@@ -1,0 +1,16 @@
+Drannol's Judgement [0x64e7]
+"A rare special armor created from the gem of the Eternal Beast."
+Godly tier heavy armor.
+
+Fame Bonus: 8%.
+
+While equipped:
++1500 Maximum HP.
+-15 Attack.
+-15 Dexterity.
+
+Titan's Curse: Using your ability also cost health equal to twice your mana cost.
+
+Drops from:
+Drannol, the Eternal Beast: 0.1% (1/1000) chance.
+Ultra Drannol, the Eternal Beast: 0.5% (1/200) chance.

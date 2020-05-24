@@ -1,0 +1,11 @@
+Large Ivory Dragon Scale Cloth [0x1255]
+"{textiles.large_description}"
+Untiered consumable.
+This item is soulbound.
+
+When used:
+Changes the character's dye.
+
+Drops from:
+lod Ivory Loot: 4.5% (1/22) chance.
+lod Ivory Wyvern: 4.5% (1/22) chance.

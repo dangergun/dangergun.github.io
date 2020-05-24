@@ -1,0 +1,10 @@
+Rusted Platemail [0x7208]
+"A rusty Platemail radiating immense power from within, why don't you forge it at the anvil with  a Sacred Essence at the blacksmith to repair it!"
+Rusted tier consumable.
+
+Drops from:
+Bergelmir, the Frost Guardian: 1.0% (1/100) chance.
+Corrupted Flames of Fate: 0.1% (1/1000) chance.
+Oryx Defense System: 0.1% (1/1000) chance.
+Tridorno: 0.1% (1/1000) chance.
+lod Red Loot Balloon: 0.05% (1/2000) chance.

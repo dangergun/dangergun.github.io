@@ -1,0 +1,22 @@
+The Kingdom's Pride [0x69ed]
+"Worn by the highest kings of noble times, this helmet imbues the wearer with immense power."
+Legendary tier helm.
+
+MP Cost: 90.
+Cooldown: 6.5 seconds.
+Fame Bonus: 8%.
+
+When used:
+Effect on self: +20 Attack for 2.5 seconds. Does not use wis mod.
+On self: Surged for 4 seconds. Uses wis mod.
+Party effect: Berserk for 6 seconds within 4 tiles. Does not use wis mod.
+Party effect: Speedy for 6 seconds within 4 tiles. Does not use wis mod.
+
+While equipped:
++10 Vitality.
++15 Protection.
++20 Defense.
+
+Surge Reserve: Your surge takes longer to deplete.
+
+Does not drop from enemies.

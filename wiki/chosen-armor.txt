@@ -1,0 +1,15 @@
+Chosen Armor [0x5615]
+"An armor made for the chosen archer to battle the evils that lie in the Ancient Depths."
+Untiered leather armor.
+
+Fame Bonus: 6%.
+
+While equipped:
++10 Speed.
++130 Maximum HP.
++18 Defense.
++5 Dexterity.
++7 Attack.
+
+Drops from:
+Xanarich, the Chosen One: 2.0% (1/50) chance.

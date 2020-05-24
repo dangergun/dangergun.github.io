@@ -1,0 +1,18 @@
+Soulreaper Armor [0x1388]
+"A armor that seals dark souls away from the underworld by the gray gem engraved in the plate."
+Untiered heavy armor.
+
+Fame Bonus: 6%.
+
+While equipped:
++12 Vitality.
++12 Wisdom.
++23 Defense.
++80 Maximum HP.
++80 Maximum MP.
+
++1 Mana Leech.
+
+Drops from:
+Tunnel Varghus the Eye: 2.0% (1/50) chance.
+Varghus Test Chest: 3.5% (1/28) chance.

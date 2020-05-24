@@ -1,0 +1,20 @@
+Blood Loss Katana [0x521c]
+"A single prick from this blade will cause bleeding for weeks."
+Sacred tier katana.
+
+Does 85-150 damage.
+125% rate of fire.
+Shoots 4 projectiles at a 0.0 degree angle.
+Range: 4.0 tiles.
+Shots have an amplitude of 0.25 and a frequency of 0.
+Shots hit multiple targets.
+Shots ignore defense.
+Fame Bonus: 8%.
+
+While equipped:
+-40 Maximum HP.
+
+Runic Offense: On hit, 8% chance to trigger an AOE damage for 1.5x of taken damage with a 4 tile radius. Stackable.
+
+Drops from:
+Doomages: 0.2% (1/500) chance.

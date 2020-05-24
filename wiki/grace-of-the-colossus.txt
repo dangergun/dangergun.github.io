@@ -1,0 +1,16 @@
+Grace of the Colossus [0x55f6]
+"The giant of tales bestowed the realm with its grace in order to strengthen the weak."
+Legendary tier leather armor.
+
+Fame Bonus: 8%.
+
+While equipped:
++60 Attack.
+-10 Defense.
+-200 Maximum HP.
+-60 Maximum MP.
+
+Ancient Assault: If you currently have over 1/2 of your mana your outputting damage is increased by 15% and Using your abilities cost will be halved.
+
+Drops from:
+Yazanahar: 0.0333% (1/3003) chance.

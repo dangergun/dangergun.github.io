@@ -1,0 +1,16 @@
+Hill Giant Club [0x64c9]
+"A giant club that drops from a giant in the hills."
+Untiered sword.
+
+Does 380-470 damage.
+50% rate of fire.
+Shoots 1 projectile.
+Range: 3.4 tiles.
+Fame Bonus: 6%.
+
+While equipped:
+-10 Speed.
+-40 Restoration.
+
+Drops from:
+Ogla, the Giant God: 4.0% (1/25) chance.

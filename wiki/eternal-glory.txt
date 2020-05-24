@@ -1,0 +1,25 @@
+Eternal Glory [0x7192]
+"A holy relic from King Alexander said to possess the power of the heavens within his palms."
+Sacred tier tome.
+
+MP Cost: 120.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+When used:
+Heals 750 HP within 6 tiles. Does not use wis mod.
+On self: Surged for 4 seconds. Does not use wis mod.
+Party effect: Armored for 3 seconds within 3 tiles. Does not use wis mod.
+Party effect: Healing for 4 seconds within 6 tiles. Does not use wis mod.
+
+While equipped:
++10 Defense.
++5 Wisdom.
+-7 Vitality.
+
++1 Life Steal.
++1 Mana Leech.
+
+Open Mind: Mana regeneration is increased by 10% and maximum mana is increased by 5%. Stackable.
+
+Does not drop from enemies.

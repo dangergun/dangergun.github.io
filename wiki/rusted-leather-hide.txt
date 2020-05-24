@@ -1,0 +1,9 @@
+Rusted Leather Hide [0x7231]
+"A rusty Leather Hide radiating immense power from within, why don't you forge it at the anvil with  a Sacred Essence at the blacksmith to repair it!"
+Rusted tier consumable.
+
+Drops from:
+AB The Dark Sorcerer: 0.1% (1/1000) chance.
+Oryx Defense System: 0.1% (1/1000) chance.
+The Kraken: 1.0% (1/100) chance.
+lod Green Loot Balloon: 0.05% (1/2000) chance.

@@ -1,0 +1,15 @@
+Greater Potion of Luck [0x61cb]
+"A potion that permanently increases Luck by 4."
+Untiered consumable.
+
+When used:
+Permanently increases Luck by 4.
+
+Drops from:
+Akeldama, the Disciple of Oryx: 100.0% chance.
+Construct of the Storm: 100.0% chance.
+Jade Statue: 100.0% chance.
+Malgor, the Eternal Fiend: 50.0% chance.
+True Somnus, the Dream Entity: 100.0% chance.
+UNP Servant of the Dark Knight: 100.0% chance.
+UNP The Dark Knight: 20.0% (1/5) chance.

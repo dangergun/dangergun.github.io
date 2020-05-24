@@ -1,0 +1,14 @@
+The Forgotten Crown [0xbab]
+"{equip.An_eerie_reminder_of_what_lays_in_the_depths_of_the_Shatter}"
+Untiered accessory.
+
+Fame Bonus: 5%.
+
+While equipped:
++12 Attack.
++12 Dexterity.
++150 Maximum HP.
+
+Drops from:
+shtrs Loot Balloon King: 0.5% (1/200) chance.
+shtrs The Forgotten King: 0.5% (1/200) chance.

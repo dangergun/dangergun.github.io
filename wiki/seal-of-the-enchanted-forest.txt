@@ -1,0 +1,25 @@
+Seal of the Enchanted Forest [0x2366]
+"{equip.Protect_the_helpless,_embolden_the_heroic,_slow_the_progres}"
+Untiered seal.
+
+MP Cost: 120.
+Cooldown: 0.5 seconds.
+Fame Bonus: 7%.
+
+When used:
+Enemy Effect: ArmorBroken for 2 seconds within 4.5 tiles. Centered around the player.
+On self: Damaging for 2 seconds. Uses wis mod.
+On self: Sick for 3 seconds. Does not use wis mod.
+Party effect: Within 5 tiles, +150 Maximum HP for 5 seconds. Uses wis mod.
+
+While equipped:
++10 Wisdom.
+
+Wearing the whole set will reward you with: +100 HP, +100 MP, +10 Attack, +10 Def, +20 Wis
+
+Drops from:
+Desire Troll: 0.5% (1/200) chance.
+Gigacorn: 0.5% (1/200) chance.
+MegaRototo: 0.5% (1/200) chance.
+Spoiled Creampuff: 0.5% (1/200) chance.
+Swoll Fairy: 0.5% (1/200) chance.

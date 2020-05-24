@@ -1,0 +1,15 @@
+Wand of Violent Mana [0x42fc]
+"Because of the immense mana it possesses, this wand can only be used by the most powerful sorcerers."
+Legendary tier wand.
+
+Does 200-249 damage.
+120% rate of fire.
+Shoots 1 projectile.
+Range: 9.0 tiles.
+Fame Bonus: 8%.
+
+While equipped:
++60 Maximum MP.
++80 Maximum HP.
+
+Does not drop from enemies.

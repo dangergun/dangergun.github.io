@@ -1,0 +1,20 @@
+Stormbreaker [0x5077]
+"A shield that will shock enemies on contact!"
+Untiered shield.
+
+Does 200-500 damage.
+Range: 3.28 tiles.
+Shots hit multiple targets.
+Shots pass through obstacles.
+MP Cost: 70.
+Cooldown: 0.5 seconds.
+Fame Bonus: 6%.
+
+While equipped:
++12 Dexterity.
++40 Maximum HP.
++80 Maximum MP.
+
+Drops from:
+Construct of the Storm: 2.0% (1/50) chance.
+Iegon the Weather God: 1.0% (1/100) chance.

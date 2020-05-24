@@ -1,0 +1,20 @@
+Coral Venom Trap [0xc1c]
+"{equip.A_trap_imbued_with_deadly_venom_from_the_coral_of_the_Ocean}"
+Untiered trap.
+
+MP Cost: 100.
+Cooldown: 0.5 seconds.
+Fame Bonus: 4%.
+
+When used:
+Trap: 750 damage within 4 tiles.
+On enemies: Paralyzed for 4 seconds.
+Throw time: 1 second.
+
+While equipped:
++3 Dexterity.
++3 Speed.
+
+Drops from:
+Coral Gift: 3.0% (1/33) chance.
+Thessal the Mermaid Goddess: 4.5% (1/22) chance.
